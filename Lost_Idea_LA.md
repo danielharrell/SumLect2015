@@ -35,7 +35,18 @@ continues like this:
  newer subjects, such as environmental science and neuroscience, and
  traditional ones, too.
 
-The answer "many different subjects" is elaborated here. But only, it seems, by way of expansion, to encompass almost any subject you could think of, or want to study. We might wonder what *isn't* a liberal art on this account. For we have gotten no answer to the question of what *is* one, which tells us what a liberal art finally *is*, no matter how many there might be. Or to borrow a figure from Plato's *Meno*, we've been given a *swarm* of liberal arts, when we might have wanted just one liberal art, so to speak, that makes any member of the swarm, indeed, a member. What we would want, in that case, might be called the *idea* of a liberal art. And it would be this idea, then, that has gotten lost in the answer above.  We ask what the liberal arts are, and are given too many in reply to know. 
+The answer "many different subjects" is elaborated here. But only, it
+seems, by way of expansion, to encompass almost any subject you could
+think of, or want to study. We might wonder what *isn't* a liberal art
+on this account. For we have gotten no answer to the question of what
+*is* one, which tells us what a liberal art finally *is*, no matter
+how many there might be. Or to borrow a figure from Plato's *Meno*,
+we've been given a *swarm* of liberal arts, when we might have wanted
+just one liberal art, so to speak, that makes any member of the swarm,
+indeed, a member. What we would want, in that case, might be called
+the *idea* of a liberal art. And it would be this idea, then, that has
+gotten lost in the answer above.  We ask what the liberal arts are,
+and are given too many in reply to know.
 
 But how many are too many? For it can seem as if the idea of a liberal
 art will be lost in any list. The most distinguished such list is
