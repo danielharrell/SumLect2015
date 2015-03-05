@@ -56,11 +56,13 @@ grammar, logic, and rhetoric; and another group of four, the
 Let us suppose these seven, then, are indeed the liberal arts---no more,
 no fewer.  But what makes them so? It would seem impossible to know,
 unless we have some notion, or again *idea*, of what a liberal art is,
-to tell us.
+to tell us. Yet if this idea is distinct from any instance, or example,
+it will not be found on any list of examples, even if the seven listed
+here exhaust the examples. And not to be found is a way of being lost.
 
-And what to make of more recent lists, which are equally definite, yet
-differ from the medieval one, both in kind and in number?  There are two such
-lists, for example, on
+And what to make of more recent lists of liberal arts, which are equally
+definite, yet differ from the medieval one, both in kind and in number?
+There are two such lists, for example, on
 [the same page](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts/)
 of the St. John's College website.  The first has twelve items:
 philosophy, literature, history, mathematics, economics, political
@@ -68,11 +70,29 @@ theory, theology, biology, physics, music, chemistry, and languages.
 The second list, just below the first, has eight items, with six of the
 eight put in pairs, like so: literature, philosophy and theology,
 history and social science, mathematics and natural science,
-music. Which list is more definitive? And does either list mean mean
-that the liberal arts have changed since medieval times?
+music. Which list is the right list? Or at least, the more definitive
+list? And does either list, since it differs from the medieval one, mean
+that the liberal arts have changed since medieval times? Again, it would
+seem that we cannot answer such questions unless we recover, or we might
+even say *recollect*, the idea of a liberal art that goes missing, or
+gets lost, so soon as we draw up our
+lists. [Put different take on liberal arts here, in terms of activities.]
+
+Or do my questions here suggest that I'm missing the point? For
+perhaps there is no one list of the liberal arts, or even competing
+lists; but rather many lists, even indefinitely many, to suggest that
+nearly any field of study can be studied as a liberal art, if only it is
+studied in a certain way. Well okay then---but what is that way? In this
+case too, it would seem that we need the idea of a liberal art to know,
+and all the more reason to find the indefintely long list of liberal
+arts I began with beside the point, even if I'm missing the point. Or
+perhaps the list is meant to capture a power. do my
+questions suggest I've missed the point, and that there are many ways to
+list the liberal arts?
 
 
-
+Later, use distinction between servile and liberal to indicate
+importance of question, then introduce Meno as a deeper exploration of it.
 
 > Areas of study include philosophy, literature, history, mathematics,
 economics, political theory, theology, biology, physics, music,
