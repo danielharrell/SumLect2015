@@ -1,8 +1,12 @@
 # The Lost Idea of a Liberal Art
 
+## Introduction
+
 The title of my lecture tonight, "The Lost Idea of a Liberal Art," is
-best introduced, perhaps, if we consider a recent attempt to answer the
-question: "What Are The Liberal Arts?"  Here is how the answer starts:
+best introduced, perhaps, if we consider a
+[recent attempt](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
+to answer the question: "What Are The Liberal Arts?"  Here is how the
+answer starts:
 
 > A liberal arts education means studying broadly---taking classes in
 > many different subjects---and building skills that are geared toward
@@ -34,18 +38,21 @@ continues like this:
 >subjects, such as environmental science and neuroscience, and
 >traditional ones, too.
 
-The answer "many different subjects" is elaborated here.  But only, it
-seems, by way of expansion, to encompass almost any subject you could
-think of, or want to study.  We might wonder what *isn't* a liberal art
-on this account.  For we have gotten no answer to the question of what
-*is* one, which tells us what a liberal art finally is, no matter how
-many there might be.  Or to borrow a figure from Plato's *Meno*, we
-could say we've been given a *swarm* of liberal arts, when we might have
-wanted just one.  This would be the one liberal art, so to speak, that
-makes any member of the swarm, indeed, a member.  What we would want, in
-that case, might be called the *idea* of a liberal art.  And it would be
-this idea, then, that has gotten lost in the answer above. We ask what
-the liberal arts are, and are given too many in reply to know.
+The answer "many different subjects" is elaborated here.  ---But only,
+it seems, by way of expansion, to encompass almost any subject you
+could think of, or want to study.  We might wonder what *isn't* a
+liberal art on this account.  For we have gotten no answer to the
+question of what *is* one, which tells us what a liberal art finally
+is, no matter how many there might be.  Or, to borrow a figure from
+Plato's *Meno*, we could say we've been given a *swarm* of liberal
+arts, when we might have wanted just one.  This would be the one that
+makes any member of the swarm, indeed, a member.  What we would want,
+in that case, might be called the *idea* of a liberal art.  And it
+would be this idea, then, that has gotten lost in the answer above. We
+ask what the liberal arts are, and are given too many in reply to
+know.
+
+## Being lost on any list; one way to be lost
 
 But how many are too many?  For it can seem as if the idea of a liberal
 art will be lost in any list, no matter how definite.  The most
@@ -56,7 +63,7 @@ grammar, logic, and rhetoric; and another group of four, the
 Let us suppose these seven, then, are indeed the liberal arts---no more,
 no fewer.  But what makes them so? It would seem impossible to know,
 unless we have some notion, or again *idea*, of what a liberal art is,
-to tell us. Yet if this idea is distinct from any instance, or example,
+to tell us. Yet if this idea is distinct from any example,
 it will not be found on any list of examples, even if the seven listed
 here exhaust the examples. And not to be found is a way of being lost.
 
@@ -70,26 +77,25 @@ theory, theology, biology, physics, music, chemistry, and languages.
 The second list, just below the first, has eight items, with six of the
 eight put in pairs, like so: literature, philosophy and theology,
 history and social science, mathematics and natural science,
-music. Which list is the right list? Or at least, the more definitive
+music. But which list is the right list? Or at least, the more definitive
 list? And does either list, since it differs from the medieval one, mean
 that the liberal arts have changed since medieval times? Again, it would
 seem that we cannot answer such questions unless we recover, or we might
 even say *recollect*, the idea of a liberal art that goes missing, or
-gets lost, so soon as we draw up our
-lists. [Put different take on liberal arts here, in terms of activities.]
+gets lost, so soon as we draw up our lists.
 
-Or do my questions here suggest that I'm missing the point? For
-perhaps there is no one list of the liberal arts, or even competing
-lists; but rather many lists, even indefinitely many, to suggest that
-nearly any field of study can be studied as a liberal art, if only it is
-studied in a certain way. Well okay then---but what is that way? In this
-case too, it would seem that we need the idea of a liberal art to know,
-and all the more reason to find the indefintely long list of liberal
-arts I began with beside the point, even if I'm missing the point. Or
-perhaps the list is meant to capture a power. do my
-questions suggest I've missed the point, and that there are many ways to
-list the liberal arts?
+Or am I missing the point?  For perhaps 
+there is no *one* list of the liberal arts, or even competing
+lists, but rather many lists, even indefinitely many. Perhaps 
+nearly any field of study, that is, can be studied as a liberal art, if only it is
+studied in a certain way. But if so, then what is that way? In this
+case, too, it would seem that we need the *idea* of a liberal art to know, making any mere list of them beside the point. Indeed, if we press the sense in which a liberal art is, somehow, an *art*, which is to say, a certain way of doing something, then we might think that both lists of liberal arts on the St. John's website miss the point. For there we are, treating the liberal arts as if they were subjects rather than activities. S	o we draw up a list of such things as philosophy, or physics, or mathematics, or languages; when we should really be speaking of such things as conversation, demonstration, translation, experimentation.  But again, to decide whether we have thusly missed the point, it would seem that we need some sense of what a liberal art is,  which no such list, right or wrong, can provide.
 
+Or again, as I have putting it, we need the very thing that is more likely lost than found on any such list, in being a list: namely, the *idea* of a liberal art. 
+
+that only *lost* on such lists rather than found there. Stick with the motif of "being lost" and talk of next issue as a deeper sense of being lost. Mention how St. John's website at first had nothing about the liberal arts.
+
+[Move on to explain the deeper importance of this question: the ubiquitousness of lists indicates a certain, and potentially false, understanding of our freedom, and the relation of a liberal art to our freedom.] 
 
 Later, use distinction between servile and liberal to indicate
 importance of question, then introduce Meno as a deeper exploration of it.
