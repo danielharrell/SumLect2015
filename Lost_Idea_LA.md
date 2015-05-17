@@ -57,63 +57,48 @@ know.
 
 But how many are too many?  The list just given might seem too long,
 or at least too indefinite.  But consider the most definitive list I
-can think of, and the most likely one you know of.  This is the list
-we've inherited from medieval times, which lists seven liberal arts:
-grammar, logic, and rhetoric; arithmetic, geometry, music and
-astronomy.  Yet what makes *these* the liberal arts?  It would seem
-impossible to know, unless we have some notion, or again *idea*, of
-what a liberal art is, to tell us.  And if this idea is distinct from
-any example, it will not be found on any list of examples, even if the
-seven on this list somehow exhaust the examples.  And not to be found
-is one way of being lost.  So on this argument, the idea of a liberal
-art will be lost on *any* list of them, no matter how short, or
-definite.
+can think of, and the most likely one you already know of.  This is
+the list we've inherited from medieval times, composed of seven
+liberal arts: grammar, logic, and rhetoric; arithmetic, geometry,
+music and astronomy.  No more, no fewer.  Yet what makes *these* the
+liberal arts?  It would seem impossible to know, unless we have some
+notion, or again *idea*, of what a liberal art is, to tell us.  And if
+this idea is distinct from any example, it will not be found on any
+list of examples, even if the seven on this definitive list
+somehow exhaust the examples.  And not to be found is one way of being
+lost.  So on this argument, the idea of a liberal art will be lost on
+*any* list of them, no matter how short or definite.
 
 ## Being forgotten; another way to be lost
 
 Still, if we were persuaded by this argument, it seems we would shy
 away from lists, or at least offer something more than lists, when
-trying to say what a liberal art is.  But in general, we don't. The
+trying to say what a liberal art is.  But in general, we don't.  The
 list I started with, for example, is again a recent one: part of an
 ongoing campaign, begun in 2012, to promote the liberal arts by The
-Council of Independent Colleges.[^1]  And two more lists can be found
+Council of Independent Colleges.[^1] And two more lists can be found
 on
 [the same page](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts/)
-of the current St. John's website. The first list has twelve items on
+of the current St. John's website.  The first list has twelve items on
 it: philosophy, literature, history, mathematics, economics, political
-theory, theology, biology, physics, music, chemistry, and languages.
-The second list, just below the first, reduces this twelve to eight:
-music and literature, philosophy and theology, history and social science,
-mathematics and natural
-science. (Now mention what we remember from the medieval conception,
-which, if it goes beyond the list, only extends perhaps to the trivium
-and quadrivium categories, along with perhaps the sense that liberal
-arts are those arts, or ways of doing something, that liberate us. But
-none of this with any deeply felt connection to what we do; then bring
-up the fact the website had no reference to liberal arts. Then move on
-to this as a different way of being lost, forgotten, and two reasons
-for its importance: (1) that the forgetfulness comes with a shift in
-the purpose of a liberal education; and (2) that there is an issue of
-content. (spell this out.))
+theory, theology, biology, physics, music, chemistry, and languages. 
+The second list, given just below the first, reduces this twelve
+to eight: music and literature, philosophy and theology, history and
+social science, mathematics and natural science.  There is nothing that
+accompanies either list to explain why *these* are the liberal arts,
+much less to explain why one list differs from the
+other, much much less to explain why both lists differ from the
+medieval list you already know of, if indeed you already know of any
+such list at all.  And if you do recall this medieval list, you likely
+recall little else:  in more
+than just number from the medieval list you are likely to remember.
 
-to promote the liberal arts, that began
-in 2012. : Why? This suggests another way, a deeper way, of being
-lost.  But again, this is just one way of being lost.  It is also an
-obvious way of being lost.  So why do lists of liberal arts persist.
-Introduce another way of being lost.  If we at St. John's were
-convinced, we might feel obliged to define what we mean by a liberal
-art.  (Perhaps we could say they are arts that "free" us; but we can
-hear Socrates counter: what does "free" mean?)  If we---and by "we" I
-mean we at St. John's College---were convinced of such an argument,
-And what to make of more recent lists of liberal arts, which are
-equally definite, yet differ from the medieval one, both in kind and
-in number?  There are two such lists, for example, on of the
-St. John's College website.  
-But which list is the right list? Or at least, the more definitive
-list? And does either list, since it differs from the medieval one,
-mean that the liberal arts have changed since medieval times? Again,
-it would seem that we cannot answer such questions unless we recover,
-or we might even say *recollect*, the idea of a liberal art that goes
+both number and kind from the medieval one. from the medieval one But
+which list is the right list? Or at least, the more definitive list?
+And does either list, since it differs from the medieval one, mean
+that the liberal arts have changed since medieval times? Again, it
+would seem that we cannot answer such questions unless we recover, or
+we might even say *recollect*, the idea of a liberal art that goes
 missing, or gets lost, so soon as we draw up our lists.
 
 Or am I missing the point?  For perhaps there is no *one* list of the
@@ -133,6 +118,33 @@ things as conversation, demonstration, translation, experimentation.
 But again, to decide whether we have thusly missed the point, it would
 seem that we need some sense of what a liberal art is, which no such
 list, right or wrong, can provide.
+
+Similarly, if you have any memory of the medieval notion of a
+liberal art, mention what we
+remember from the medieval conception, which, if it goes beyond the
+list, only extends perhaps to the trivium and quadrivium categories,
+along with perhaps the sense that liberal arts are those arts, or ways
+of doing something, that liberate us. But none of this with any deeply
+felt connection to what we do; then bring up the fact the website had
+no reference to liberal arts. Then move on to this as a different way
+of being lost, forgotten, and two reasons for its importance: (1) that
+the forgetfulness comes with a shift in the purpose of a liberal
+education; and (2) that there is an issue of content. (spell this
+out.))
+
+to promote the liberal arts, that began
+in 2012. : Why? This suggests another way, a deeper way, of being
+lost.  But again, this is just one way of being lost.  It is also an
+obvious way of being lost.  So why do lists of liberal arts persist.
+Introduce another way of being lost.  If we at St. John's were
+convinced, we might feel obliged to define what we mean by a liberal
+art.  (Perhaps we could say they are arts that "free" us; but we can
+hear Socrates counter: what does "free" mean?)  If we---and by "we" I
+mean we at St. John's College---were convinced of such an argument,
+And what to make of more recent lists of liberal arts, which are
+equally definite, yet differ from the medieval one, both in kind and
+in number?  There are two such lists, for example, on of the
+St. John's College website.  
 
 Or again, as I have putting it, we need the very thing that is more likely lost than found on any such list, in being a list: namely, the *idea* of a liberal art. 
 
