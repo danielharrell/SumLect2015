@@ -81,17 +81,18 @@ on
 [the same page](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts/)
 of the current St. John's website.  The first list has twelve items on
 it: philosophy, literature, history, mathematics, economics, political
-theory, theology, biology, physics, music, chemistry, and languages. 
-The second list, given just below the first, reduces this twelve
-to eight: music and literature, philosophy and theology, history and
-social science, mathematics and natural science.  There is nothing that
-accompanies either list to explain why *these* are the liberal arts,
-much less to explain why one list differs from the
-other, much much less to explain why both lists differ from the
-medieval list you already know of, if indeed you already know of any
-such list at all.  And if you do recall this medieval list, you likely
-recall little else:  in more
-than just number from the medieval list you are likely to remember.
+theory, theology, biology, physics, music, chemistry, and languages.
+The second list reduces this twelve to eight: music and literature,
+philosophy and theology, history and social science, mathematics and
+natural science.  There is nothing that accompanies either list to
+explain why *these* are the liberal arts, or to explain why one
+list differs from the other, or even to explain why both
+differ from the medieval list you may recall. And if you do
+recall this list, you likely recall little else. Perhaps you remember
+that grammer, logic, and rhetoric were grouped together in what was
+called a *trivium*, and the rest in a *quadrivium*, but without any
+comparably clear memory of why.   in more than
+just number from the medieval list you are likely to remember.
 
 both number and kind from the medieval one. from the medieval one But
 which list is the right list? Or at least, the more definitive list?
