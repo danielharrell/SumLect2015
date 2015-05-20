@@ -67,7 +67,7 @@ this idea is distinct from any example, it will not be found on any
 list of examples, even if the seven on this definitive list
 somehow exhaust the examples.  And not to be found is one way of being
 lost.  So on this argument, the idea of a liberal art will be lost on
-*any* list of them, no matter how short or definite.
+*any* list of them, no matter how short, or definite.
 
 ## Being forgotten; another way to be lost
 
@@ -82,17 +82,31 @@ on
 of the current St. John's website.  The first list has twelve items on
 it: philosophy, literature, history, mathematics, economics, political
 theory, theology, biology, physics, music, chemistry, and languages.
-The second list reduces this twelve to eight: music and literature,
-philosophy and theology, history and social science, mathematics and
-natural science.  There is nothing that accompanies either list to
-explain why *these* are the liberal arts, or to explain why one
-list differs from the other, or even to explain why both
-differ from the medieval list you may recall. And if you do
-recall this list, you likely recall little else. Perhaps you remember
-that grammer, logic, and rhetoric were grouped together in what was
-called a *trivium*, and the rest in a *quadrivium*, but without any
-comparably clear memory of why.   in more than
-just number from the medieval list you are likely to remember.
+And the second list reduces this twelve to eight: music and
+literature, philosophy and theology, history and social science,
+mathematics and natural science.  There is nothing that accompanies
+either list to explain why *these* are the liberal arts, or to explain
+why one list differs from the other, or even to explain why both
+differ from the medieval list you may recall. And if you do recall
+this list, you likely recall little else. Perhaps you remember that
+grammer, logic, and rhetoric were grouped together in what was called
+a *trivium*, and the rest in a *quadrivium*, but without any
+comparable memory of why. Or perhaps you remember that the word
+"art" in "liberal art" means something like "skill," while "liberal"
+means something like "liberating," but without any comparable sense of
+what a liberating skill means, or why it should be found in the study of
+arithmetic or astronomy.
+
+It is as if there is something memorable about a list of liberal arts
+that obscures any like interest in a definition. Obscures any
+content. For this paragraph: Thus we draw up our lists, and recall
+them, without a thought for definitions first. As if a list at once
+obscures the idea while inducing forgetfulness. (Perhaps mention
+St. John's original idea of getting rid of mentioning liberal arts
+altogether.)  This suggests that the idea of a liberal art is lost on
+any list not simply by not being found on it, but also by being
+forgotten. And this makes the task of this lecture one of
+recollection.
 
 both number and kind from the medieval one. from the medieval one But
 which list is the right list? Or at least, the more definitive list?
