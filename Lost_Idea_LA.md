@@ -91,14 +91,44 @@ differ from the medieval list you may recall. And if you do recall
 this list, you likely recall little else. Perhaps you remember that
 grammer, logic, and rhetoric were grouped together in what was called
 a *trivium*, and the rest in a *quadrivium*, but without any
-comparable memory of why. Or perhaps you remember that the word
-"art" in "liberal art" means something like "skill," while "liberal"
-means something like "liberating," but without any comparable sense of
-what a liberating skill means, or why it should be found in the study of
-arithmetic or astronomy.
+comparable memory of why. Or perhaps you remember that the word "art"
+in "liberal art" means something like "skill," and "liberal" something
+like "liberating," but without any comparable sense of what "a
+liberating skill" means, or why it should be found in the study of
+arithmetic or astronomy. <!--Maybe mention definition in power of liberal
+arts page only going this far.-->
 
-It is as if there is something memorable about a list of liberal arts
-that obscures any like interest in a definition. Obscures any
+The persistence of such lists, even in memory, suggests another
+way---a deeper way---of being lost. And perhaps the idea of a liberal
+art is lost on any list not simply in not being found, but in being
+forgotten. It is this way of being lost, therefore, that most concerns
+me in my lecture tonight, in the prospect, and to my mind the danger,
+that we have indeed forgotten what a liberal art is. And by "we," I
+mean those of us, all of us, who consider ourselves students, and
+therefore stewards, of a liberal education. One sign of being
+forgotten is in older version of website. We can talk of liberal
+education without talking about liberal arts. And by "forgotten",
+(write from here)
+
+we
+students, and stewards, of liberal education.)  (Specify meaning of
+forgetting: willful.) One way of forgetting this is in why it would
+matter, go on to mention website not having reference to liberal
+arts. Then go on to account of why it matters in identifying with
+Meno.
+
+of "loss": the idea
+of a liberal art is lost on any list not simply in not being found, but
+in being forgotten. a
+liberal art is thereby lost not simply in not being found, but in
+being forgotten.   twice over: once insofar as it can't be
+found on any such list; and once again insofar as it is forgotten.
+
+It seems as if we can draw up our lists of liberal arts, and
+recall them, without feeling the lack of definitions first.  suggests that the idea
+of a liberal art is lost on any list not simply by not being found on
+it, as if there is something memorable enough about a list of liberal
+arts to obscure any like interest in a definition. Obscures any
 content. For this paragraph: Thus we draw up our lists, and recall
 them, without a thought for definitions first. As if a list at once
 obscures the idea while inducing forgetfulness. (Perhaps mention
@@ -106,7 +136,9 @@ St. John's original idea of getting rid of mentioning liberal arts
 altogether.)  This suggests that the idea of a liberal art is lost on
 any list not simply by not being found on it, but also by being
 forgotten. And this makes the task of this lecture one of
-recollection.
+recollection, like the Meno. But that had the advantage of discussing
+virtue, inherently important. How to make this topic also important?
+By linking it to the Meno.)
 
 both number and kind from the medieval one. from the medieval one But
 which list is the right list? Or at least, the more definitive list?
