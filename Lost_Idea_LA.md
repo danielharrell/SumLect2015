@@ -87,11 +87,11 @@ literature, philosophy and theology, history and social science,
 mathematics and natural science.  There is nothing that accompanies
 either list to explain why *these* are the liberal arts, or to explain
 why one list differs from the other, or even to explain why both
-differ from the medieval list you may recall. And if you do recall
-this list, you likely recall little else. Perhaps you remember that
+differ from the medieval list you may recall.  And if you do recall
+this list, you likely recall little else.  Perhaps you remember that
 grammer, logic, and rhetoric were grouped together in what was called
 a *trivium*, and the rest in a *quadrivium*, but without any
-comparable memory of why. Or perhaps you remember that the word "art"
+comparable memory of why.  Or perhaps you remember that the word "art"
 in "liberal art" means something like "skill," and "liberal" something
 like "liberating," but without any comparable sense of what "a
 liberating skill" means, or why it should be found in the study of
@@ -99,16 +99,26 @@ arithmetic or astronomy. <!--Maybe mention definition in power of liberal
 arts page only going this far.-->
 
 The persistence of such lists, even in memory, suggests another
-way---a deeper way---of being lost. And perhaps the idea of a liberal
+way---a deeper way---of being lost.  And perhaps the idea of a liberal
 art is lost on any list not simply in not being found, but in being
-forgotten. It is this way of being lost, therefore, that most concerns
-me in my lecture tonight, in the prospect, and to my mind the danger,
-that we have indeed forgotten what a liberal art is. And by "we," I
-mean those of us, all of us, who consider ourselves students, and
-therefore stewards, of a liberal education. One sign of being
-forgotten is in older version of website. We can talk of liberal
-education without talking about liberal arts. And by "forgotten",
-(write from here)
+forgotten.  It is this way of being lost, therefore, that most
+concerns me in my lecture tonight: in the prospect, and to my mind the
+danger, that we have indeed forgotten what a liberal art is. By "we,"
+I mean those of us, all of us, who consider ourselves students, and
+therefore stewards, of a liberal education. And by "forgotten," I not
+only mean in the sense that the idea of a liberal art may have
+vanished from our collective mind, as if by accident; I also mean in
+the sense that this idea may have vanished in being banished, as if by
+choice.  The idea of a liberal art has become something to forget, on
+this hypothesis, when we are called upon to explain, or defend, or
+even pursue, a liberal education. 
+
+from
+our collective mind,  in being, but the sense in which this idea  
+
+One sign of being forgotten is in older version of website.  We can
+talk of liberal education without talking about liberal arts.  And by
+"forgotten", (write from here)
 
 we
 students, and stewards, of liberal education.)  (Specify meaning of
