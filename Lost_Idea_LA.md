@@ -4,6 +4,7 @@
 ## Introduction
 
 The title of my lecture tonight, "The Lost Idea of a Liberal Art," is
+meant as a suggestion, or hypothesis.  What I mean by this hypothesis
 best introduced, perhaps, if we consider a
 [recent attempt](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
 to answer the question: "What Are The Liberal Arts?"  Here is how the
@@ -20,11 +21,10 @@ answer starts:
 > draw from a variety of skillsets to adapt to challenges and capitalize
 > on opportunities.**
 
-Already we might notice something getting lost in this answer. 
-<!--Later use "forgotten" for this--> True, it speaks at comparative
-length of what can be gained by a study of liberal arts.  But it says
-almost nothing about what they are.  The answer so far, it seems, is
-simply "many different subjects."
+Already we might notice something getting lost in this answer.  True,
+it speaks at comparative length of what can be gained by a study of
+liberal arts.  But it says almost nothing about what they are.  The
+answer so far, it seems, is simply "many different subjects."
 
 But as I said, this is only the start of the answer.  The answer
 continues like this:
@@ -64,10 +64,10 @@ music and astronomy.  No more, no fewer.  Yet what makes *these* the
 liberal arts?  It would seem impossible to know, unless we have some
 notion, or again *idea*, of what a liberal art is, to tell us.  And if
 this idea is distinct from any example, it will not be found on any
-list of examples, even if the seven on this definitive list
-somehow exhaust the examples.  And not to be found is one way of being
-lost.  So on this argument, the idea of a liberal art will be lost on
-*any* list of them, no matter how short, or definite.
+list of examples, even if the seven on this list---definitive as it
+is---exhaust the examples.  And not to be found is one way of
+being lost.  So on this argument, the idea of a liberal art will be
+lost on *any* list of them, no matter how short, or definite.
 
 ## Being forgotten; another way to be lost
 
@@ -98,20 +98,24 @@ liberating skill" means, or why it should be found in the study of
 arithmetic or astronomy. <!--Maybe mention definition in power of liberal
 arts page only going this far.-->
 
-The persistence of such lists, even in memory, suggests another
-way---a deeper way---of being lost.  And perhaps the idea of a liberal
+So even if no list of liberal arts contains the idea of one among its
+examples, such lists persist, even in memory. And in this persistence
+thus lurks a deeper way of being lost, where not being found sooner or
+later means being forgotten.
+[From here, distinguish two senses of "being
+forgotten.] the idea of a liberal
 art is lost on any list not simply in not being found, but in being
-forgotten.  It is this way of being lost, therefore, that most
-concerns me in my lecture tonight: in the prospect, and to my mind the
-danger, that we have indeed forgotten what a liberal art is. By "we,"
-I mean those of us, all of us, who consider ourselves students, and
+forgotten. It is this way of being lost, therefore, that most concerns
+me in my lecture tonight: in the prospect, and to my mind the danger,
+that we may have indeed forgotten what a liberal art is. By "we," I
+mean those of us, all of us, who consider ourselves students, and
 therefore stewards, of a liberal education. And by "forgotten," I not
 only mean in the sense that the idea of a liberal art may have
-vanished from our collective mind, as if by accident; I also mean in
-the sense that this idea may have vanished in being banished, as if by
-choice.  The idea of a liberal art has become something to forget, on
-this hypothesis, when we are called upon to explain, or defend, or
-even pursue, a liberal education. 
+vanished from our thoughts about liberal education, as if by accident;
+I also mean in the sense that this idea may have vanished in being
+banished, as if by choice. The idea of a liberal art has become
+something to forget, on this hypothesis, when we are called upon to
+explain, or defend, or even pursue, a liberal education.
 
 from
 our collective mind,  in being, but the sense in which this idea  
@@ -124,7 +128,7 @@ we
 students, and stewards, of liberal education.)  (Specify meaning of
 forgetting: willful.) One way of forgetting this is in why it would
 matter, go on to mention website not having reference to liberal
-arts. Then go on to account of why it matters in identifying with
+arts.  Then go on to account of why it matters in identifying with
 Meno.
 
 of "loss": the idea
