@@ -99,9 +99,21 @@ arithmetic or astronomy.  <!--Maybe mention definition in power of liberal
 arts page only going this far.-->
 
 So even if no list of liberal arts contains the idea of one among its
-examples, such lists persist, even in memory. In this persistence thus
-lurks a deeper way of being lost, where not being found sooner or
-later means being forgotten. But this, to my mind, is not yet the
+examples, such lists prevail, even in memory. This suggests a deeper
+way of being lost, where not being found means being forgotten. This
+brings me to my hypothesis, which is that we have indeed forgotten
+what a liberal art is, and it is this that explains the lists. Why
+such lists prevail, because we have forgotten what a liberal art is.
+And being forgotten And this is one part of my hypothesis in my
+lecture's title: that on such lists the idea of a liberal art is not
+simply lost, but forgotten. Revise this first sentence. The idea
+should be that the persistence of such lists suggests a forgetfulness.
+And this is part of my hypothesis.
+
+But then move to a still deeper sense
+of loss, where the forgetting comes first. As a straightforward first
+example, give the original version of new website. Then move on to subtler
+examples in list, linked to power. But this, to my mind, is not yet the
 deepest way of being lost, where being forgotten at once means not
 being found. ---Which is to say, where being forgotten is not the
 result of being lost, but rather the cause of it. This last sense of
