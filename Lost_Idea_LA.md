@@ -99,25 +99,27 @@ arithmetic or astronomy.  <!--Maybe mention definition in power of liberal
 arts page only going this far.-->
 
 So even if no list of liberal arts contains the idea of one among its
-examples, such lists persist, even in memory. And in this persistence
-thus lurks a deeper way of being lost, where not being found sooner or
-later means being forgotten. And being forgotten comes close to what I
-mean by my lecture's title. In the lost idea of a liberal art, my
-hypothesis is that we have indeed forgotten what a liberal art is. And
-by "we," I mean those of us who might be thought most devoted to the
-liberal arts: we students, and stewards, of a liberal
-education. (Move on from here to mention "comes close": speak of even
-deeper way of being lost, a deeper sense of forgotten.)
-
-
-And by "forgotten," I not only mean in the sense that the
-idea of a liberal art may have vanished from our thoughts about
-liberal education, as if by accident; I also mean in the sense that
-this idea may have vanished in being banished, as if by choice. The
-idea of a liberal art has become something to forget, on this
-hypothesis, when we are called upon to explain, or defend, or even
-pursue, a liberal education.
-
+examples, such lists persist, even in memory. In this persistence thus
+lurks a deeper way of being lost, where not being found sooner or
+later means being forgotten. But this, to my mind, is not yet the
+deepest way of being lost, where being forgotten at once means not
+being found. ---Which is to say, where being forgotten is not the
+result of being lost, but rather the cause of it. This last sense of
+"lost" may seem irrelevant to to the idea of liberal education, And
+"forgotten" is what I mean by "lost" in my lecture's title. In the
+lost idea of a liberal art, my hypothesis is that we have indeed
+forgotten what a liberal art is. By "we," I mean those of us who might
+be thought most devoted to the liberal arts: we students, and
+stewards, of a liberal education. And by "forgotten," I not only mean
+in the sense that the idea of a liberal art may have vanished from our
+thoughts about liberal education, as if by accident; I also mean in
+the sense that this idea may have vanished in being banished, as if by
+choice. The idea of a liberal art has become something to forget, on
+this hypothesis, when we are called upon to explain, or defend, or
+even pursue, a liberal education. But it doesn't explain the
+persistence. Which suggests a still deeper way of being lost. not the
+result but rather of not being found. here we might say being
+forgotten means not being found. (Need to expand this next section.)
 from
 our collective mind,  in being, but the sense in which this idea  
 
