@@ -88,35 +88,48 @@ mathematics and natural science.  There is nothing that accompanies
 either list to explain why *these* are the liberal arts, or to explain
 why one list differs from the other, or even to explain why both
 differ from the medieval list you may recall.  And if you do recall
-this last list, you likely recall little else.  Perhaps you remember that
-grammer, logic, and rhetoric were grouped together in what was called
-a *trivium*, and the rest in a *quadrivium*, but without any
+this last list, you likely recall little else.  Perhaps you remember
+that grammer, logic, and rhetoric were grouped together in what was
+called a *trivium*, and the rest in a *quadrivium*, but without any
 comparable memory of why.  Or perhaps you remember that the word "art"
 in "liberal art" means something like "skill," and "liberal" something
 like "liberating," but without any comparable sense of what "a
 liberating skill" means, or why it should be found in the study of
-arithmetic or astronomy.  <!--Maybe mention definition in power of liberal
-arts page only going this far.-->
+arithmetic or astronomy.  <!--Maybe mention definition in power of
+liberal arts page only going this far.-->
 
 So even if no list of liberal arts contains the idea of one among its
-examples, such lists prevail, even in memory. And this suggests a
+examples, such lists prevail, even in memory.  And this suggests a
 deeper way of being lost, where not being found means being forgotten.
-Hence my lecture's title. In the lost idea of a liberal art, my
-hypothesis is that we have indeed forgotten what a liberal art is. And
+Hence my lecture's title.  In the lost idea of a liberal art, my
+hypothesis is that we have indeed forgotten what a liberal art is.  And
 by "we," I mean those of us who might be thought most devoted to the
-liberal arts: we students, and stewards, of a liberal education. Have
-sentence here referring back to lists. On this hypothesis, there is a
-false sense of comprehension in the lists of liberal arts just
-mentioned, and a lack of insight , will see liberal arts proliferate
-on lists, in ostensible defense Perhaps include a sentence or two here
-about how this forgetfulness is manifest in the seeming comprehension
-of lists. And by "forgotten," I not only mean in the sense that the
-idea of a liberal art has vanished from our thoughts about liberal
-education, as if by accident; I also mean in the sense that this idea
-may have vanished in being banished, as if by choice. The idea of a
-liberal art has become something to forget, on this hypothesis, when
-we are called upon to explain, or defend, or even pursue, a liberal
-education.
+liberal arts: we students, and stewards, of a liberal education.  (A
+sentence here linking the "we" to the purveyors of the lists above.)
+On this hypothesis, we have lost any notion of what a liberal art is,
+just as such; and this is why we resort to lists, where no such notion
+can be found. (Later speak of how there are borrowings in current lists
+from current fields of study.)
+
+we mean by a liberal art,which is why we resort to
+lists.  with the problem with our various lists of liberal arts is not
+simply that there is no idea of one to be found, buseem comprehensive
+but really aren't. give a false sense of their comprehension; we
+answer the question of what the liberal arts are with a list of them,
+because we have offer lists of liberal arts in answer to the question
+of what they are, answer the question "What are the liberal arts?"
+with Have the sentence here referring back to lists. On this
+hypothesis, there is a false sense of comprehension in the lists of
+liberal arts just mentioned, and a lack of insight , will see liberal
+arts proliferate on lists, in ostensible defense Perhaps include a
+sentence or two here about how this forgetfulness is manifest in the
+seeming comprehension of lists. And by "forgotten," I not only mean in
+the sense that the idea of a liberal art has vanished from our
+thoughts about liberal education, as if by accident; I also mean in
+the sense that this idea may have vanished in being banished, as if by
+choice. The idea of a liberal art has become something to forget, on
+this hypothesis, when we are called upon to explain, or defend, or
+even pursue, a liberal education.
 
 But then move to a still deeper sense
 of loss, where the forgetting comes first. As a straightforward first
