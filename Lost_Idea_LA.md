@@ -56,7 +56,7 @@ know.
 ## Being lost on any list; one way to be lost
 
 But how many are too many?  The list just given might seem too long,
-or at least too indefinite.  But consider the most definitive list I
+or at least too indefinite.  Yet consider the most definitive list I
 can think of, and the most likely one you already know of.  This is
 the list we've inherited from medieval times, composed of seven
 liberal arts: grammar, logic, and rhetoric; arithmetic, geometry,
@@ -99,17 +99,26 @@ arithmetic or astronomy.  <!--Maybe mention definition in power of
 liberal arts page only going this far.-->
 
 So even if no list of liberal arts contains the idea of one among its
-examples, such lists prevail, even in memory.  And this suggests a
+examples, such lists prevail, even in memory. And this suggests a
 deeper way of being lost, where not being found means being forgotten.
-Hence my lecture's title.  In the lost idea of a liberal art, my
-hypothesis is that we have indeed forgotten what a liberal art is.  And
-by "we," I mean those of us who might be thought most devoted to the
-liberal arts: we students, and stewards, of a liberal education.  (A
-sentence here linking the "we" to the purveyors of the lists above.)
-On this hypothesis, we have lost any notion of what a liberal art is,
-just as such; and this is why we resort to lists, where no such notion
-can be found. (Later speak of how there are borrowings in current lists
-from current fields of study.)
+Hence my lecture's title. In the lost idea of a liberal art, my
+hypothesis is that we have indeed forgotten what a liberal art is. And
+by "we," I mean those of us on the side of the liberal arts, so to
+speak. Those of us who would defend them, rather than dismiss them,
+when talking about education. Those of us, certainly, who [identify the
+liberal arts with lists] draw up the various
+lists I have mentioned, whether this be to promote the liberal arts generally;
+or to describe the liberal-arts curriculum of one particular school; or even
+just to recall drew up
+the first list I mentioned in a campagin to promote the liberal arts; or
+the sceond l. who would defend rather than dismiss the
+liberal artswho might be thought most devoted to the liberal arts: we
+students, and stewards, of a liberal education. (A sentence here
+linking the "we" to the purveyors of the lists above.) On this
+hypothesis, we have lost any notion of what a liberal art is, just as
+such; and this is why we resort to lists, where no such notion can be
+found. (Later speak of how there are borrowings in current lists from
+current fields of study.)
 
 we mean by a liberal art,which is why we resort to
 lists.  with the problem with our various lists of liberal arts is not
