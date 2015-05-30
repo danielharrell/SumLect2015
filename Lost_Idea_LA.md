@@ -104,21 +104,45 @@ deeper way of being lost, where not being found means being forgotten.
 Hence my lecture's title. In the lost idea of a liberal art, my
 hypothesis is that we have indeed forgotten what a liberal art is. And
 by "we," I mean those of us on the side of the liberal arts, so to
-speak. Those of us who would defend them, rather than dismiss them,
-when talking about education. Those of us, certainly, who [identify the
-liberal arts with lists] draw up the various
-lists I have mentioned, whether this be to promote the liberal arts generally;
-or to describe the liberal-arts curriculum of one particular school; or even
-just to recall drew up
-the first list I mentioned in a campagin to promote the liberal arts; or
-the sceond l. who would defend rather than dismiss the
-liberal artswho might be thought most devoted to the liberal arts: we
-students, and stewards, of a liberal education. (A sentence here
-linking the "we" to the purveyors of the lists above.) On this
-hypothesis, we have lost any notion of what a liberal art is, just as
-such; and this is why we resort to lists, where no such notion can be
-found. (Later speak of how there are borrowings in current lists from
-current fields of study.)
+speak. ---Those of us who would defend them, rather than dismiss them,
+when talking about education; and are wont to defend them, as in the cases
+just mentioned, by drawing up lists of them. <!--Previous sentence
+should be revised. Perhaps separate idea of defense from merely drawing up
+lists.-->
+
+<!--Another possible way to organize this: don't mention "we" until after
+sentence about forgetting leading to resorting to lists. Explain "we" later,
+as a challenge to hypothesis. How could "we" on the side of liberal arts
+have forgotten what they are?-->
+
+<!--Revise from here: put some sort of "by we, I mean" sentence first.
+Then say this is why we resort to lists, etc. Then speak of purpose of
+lecture as threefold: (1) To defend the hypothesis (2) Show why it matters
+(3) What does recollection look like.-->
+<!--Later speak of forgetting as an act rather than a state, or
+condition.-->
+
+And this is why we resort to lists, where no idea of a
+liberal art can be found. To think of seven liberal arts on this
+hypothesis, or eight, or twelve, or as many as you please, is not a
+sign of comprehension but rather a surrogate for it. to recall any
+number of liberal arts, whether this be seven, or eight, or twelve, or
+indefinitely many, is not a sign of what we comprehend but rather a
+surrogate for it. This hypothesis invites us to consider any such list
+of liberal arts, whether it numbers seven, or eight, or twelve, or
+indefinitely man a list of liberal arts, whether it numbers seven,
+comprehension but rather a surrogate for it. We have no idea, on this
+hypothesis, what a liberal art is; thus we resort to lists, where no
+such idea can be found. of what a liberal art is, just as such; so we
+resort to lists, where no such notion can be found.  or the sceond l.
+who would defend rather than dismiss the liberal artswho might be
+thought most devoted to the liberal arts: we students, and stewards,
+of a liberal education. (A sentence here linking the "we" to the
+purveyors of the lists above.) On this hypothesis, we have lost any
+notion of what a liberal art is, just as such; and this is why we
+resort to lists, where no such notion can be found. (Later speak of
+how there are borrowings in current lists from current fields of
+study.)
 
 we mean by a liberal art,which is why we resort to
 lists.  with the problem with our various lists of liberal arts is not
