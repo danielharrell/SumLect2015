@@ -88,7 +88,7 @@ mathematics and natural science.  There is nothing that accompanies
 either list to explain why *these* are the liberal arts, or to explain
 why one list differs from the other, or even to explain why both
 differ from the medieval list you may recall.  And if you do recall
-this last list, you likely recall little else.  Perhaps you remember
+the medieval list, you likely recall little else.  Perhaps you remember
 that grammer, logic, and rhetoric were grouped together in what was
 called a *trivium*, and the rest in a *quadrivium*, but without any
 comparable memory of why.  Or perhaps you remember that the word "art"
@@ -102,13 +102,23 @@ So even if no list of liberal arts contains the idea of one among its
 examples, such lists prevail, even in memory. And this suggests a
 deeper way of being lost, where not being found means being forgotten.
 Hence my lecture's title. In the lost idea of a liberal art, my
-hypothesis is that we have indeed forgotten what a liberal art is. And
-by "we," I mean those of us on the side of the liberal arts, so to
-speak. ---Those of us who would defend them, rather than dismiss them,
-when talking about education; and are wont to defend them, as in the cases
-just mentioned, by drawing up lists of them. <!--Previous sentence
-should be revised. Perhaps separate idea of defense from merely drawing up
-lists.-->
+hypothesis is that we have indeed forgotten what a liberal art is. (Perhaps
+put "by 'we" sentence up here.) (Change
+this next sentence to: one sign of this is our resorting to lists; but there
+are other signs. Then move on to other signs.) And
+this is why we resort to lists of them, where no idea of one can be
+found.   (Need another sentence here.)
+
+think of seven liberal arts, or eight, or twelve, or as many
+as you please, because we lack any notion of a liberal art that might
+reduce this many to one.
+
+And by "we," I mean those of us on the side of the liberal
+arts, so to speak. ---Those of us who would defend them, rather than
+dismiss them, when talking about education; and are wont to defend
+them, as in the cases just mentioned, by drawing up lists of them.
+<!--Previous sentence should be revised. Perhaps separate idea of
+defense from merely drawing up lists.-->
 
 <!--Another possible way to organize this: don't mention "we" until after
 sentence about forgetting leading to resorting to lists. Explain "we" later,
@@ -122,8 +132,7 @@ lecture as threefold: (1) To defend the hypothesis (2) Show why it matters
 <!--Later speak of forgetting as an act rather than a state, or
 condition.-->
 
-And this is why we resort to lists, where no idea of a
-liberal art can be found. To think of seven liberal arts on this
+To think of seven liberal arts on this
 hypothesis, or eight, or twelve, or as many as you please, is not a
 sign of comprehension but rather a surrogate for it. to recall any
 number of liberal arts, whether this be seven, or eight, or twelve, or
