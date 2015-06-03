@@ -71,53 +71,67 @@ lost on *any* list of them, no matter how short, or definite.
 
 ## Being forgotten; another way to be lost
 
-Still, if we were persuaded by this argument, it seems we would shy
-away from lists, or at least offer something more than lists, when
-trying to say what a liberal art is.  But in general, we don't.  The
-list I started with, for example, is again a recent one: part of an
-ongoing campaign, begun in 2012, to promote the liberal arts by The
-Council of Independent Colleges.[^1] And two more lists can be found
-on
-[the same page](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts/)
+Still, if we were persuaded by this argument, it seems we would shy away
+from lists, or at least offer something more than lists, when trying to
+say what a liberal art is.  But in general, we don't.  The list
+I started with, for example, is again a recent one: part of an ongoing
+campaign, begun in 2012, to promote the liberal arts by The Council of
+Independent Colleges.[^1] And two more lists can be found on [the same
+page](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts/)
 of the current St. John's website.  The first list has twelve items on
 it: philosophy, literature, history, mathematics, economics, political
-theory, theology, biology, physics, music, chemistry, and languages.
-And the second list reduces this twelve to eight: music and
-literature, philosophy and theology, history and social science,
-mathematics and natural science.  There is nothing that accompanies
-either list to explain why *these* are the liberal arts, or to explain
-why one list differs from the other, or even to explain why both
-differ from the medieval list you may recall.  And if you do recall
-the medieval list, you likely recall little else.  Perhaps you remember
-that grammer, logic, and rhetoric were grouped together in what was
-called a *trivium*, and the rest in a *quadrivium*, but without any
-comparable memory of why.  Or perhaps you remember that the word "art"
-in "liberal art" means something like "skill," and "liberal" something
-like "liberating," but without any comparable sense of what "a
-liberating skill" means, or why it should be found in the study of
-arithmetic or astronomy.  <!--Maybe mention definition in power of
-liberal arts page only going this far.-->
+theory, theology, biology, physics, music, chemistry, and languages. And
+the second list reduces this twelve to eight: music and literature,
+philosophy and theology, history and social science, mathematics and
+natural science.  There is nothing that accompanies either list to
+explain why *these* are the liberal arts, or to explain why one list
+differs from the other, or even to explain why both differ from the
+medieval list you may recall.  And if you do recall the medieval list,
+you likely recall little else.  Perhaps you remember that grammar,
+logic, and rhetoric were grouped together in what was called
+a *trivium*, and the rest in a *quadrivium*, but without any comparable
+memory of why.  Or perhaps you remember that the word "art" in "liberal
+art" means something like "skill," and "liberal" something like
+"liberating," but without any comparable sense of what "a liberating
+skill" means, or why it should be found in the study of arithmetic or
+astronomy.  <!--Maybe mention definition in power of liberal arts page
+only going this far.-->
 
 So even if no list of liberal arts contains the idea of one among its
-examples, such lists prevail, even in memory. And this suggests a
-deeper way of being lost, where not being found means being forgotten.
-Hence my lecture's title. In the lost idea of a liberal art, my
-hypothesis is that we have indeed forgotten what a liberal art is. (Perhaps
-put "by 'we" sentence up here.) (Change
-this next sentence to: one sign of this is our resorting to lists; but there
-are other signs. Then move on to other signs.) And
-this is why we resort to lists of them, where no idea of one can be
-found.   (Need another sentence here.)
+examples, such lists prevail, even in memory. And this suggests a deeper
+way of being lost, where not being found means being forgotten. Hence my
+lecture's title. In the lost idea of a liberal art, my hypothesis is
+that we have indeed forgotten what a liberal art is. And by "we," I mean
+those of us on the side of the liberal arts, so to speak. ---Those of us
+who would defend them, rather than dismiss them, when talking about the
+aims of education. And in this case those of us who would defend them
+by drawing up lists of them. But we draw up our lists, on this hypothesis,
+in having no idea of a liberal art to offer in their place.
+
+(In this paragraph, give more evidence for hypothesis. There are several threads to sort out here. One, the fact that items on the later lists are not
+defined, as they might be on the medieval list. In St. John's case this is
+highlighted by the fact that we more or less forcibly apply the list to our
+readings, and have done so since the time of Buchanan. Then lead to a clarification of the word "forgetting" as an act rather than a condition. How St. John's wanted to dispense with "liberal arts" reference; how "liberal education" can be talked about without any reference to "liberal arts" in general; how it serves as merely lip service. Then move to deeper issue of importance by talking about power. Also relate this to lack of content.)
+
+
+the lists, on this hypothesis, are a
+symptom of forgetfulness. we draw up our lists, on this hypothesis,
+But again there is no idea of a liberal art to
+be found on such lists; and on this hypothesis, this is *why* we resort
+to lists. we draw up lists of them, on this hypothesis,draw up lists of them, whether to
+promote the liberal arts generally, would draw up lists of them in the
+attempt to and are wont to defend them, as in the cases just mentioned,
+by drawing up lists of them. <(Perhaps put "by 'we" sentence up here.)
+(Change this next sentence to: one sign of this is our resorting to
+lists; but there are other signs. Then move on to other signs.) And this
+is why we resort to lists of them, where no idea of one can be found.
+(Need another sentence here.)
 
 think of seven liberal arts, or eight, or twelve, or as many
 as you please, because we lack any notion of a liberal art that might
 reduce this many to one.
 
-And by "we," I mean those of us on the side of the liberal
-arts, so to speak. ---Those of us who would defend them, rather than
-dismiss them, when talking about education; and are wont to defend
-them, as in the cases just mentioned, by drawing up lists of them.
-<!--Previous sentence should be revised. Perhaps separate idea of
+!--Previous sentence should be revised. Perhaps separate idea of
 defense from merely drawing up lists.-->
 
 <!--Another possible way to organize this: don't mention "we" until after
