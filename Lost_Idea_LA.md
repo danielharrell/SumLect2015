@@ -104,14 +104,49 @@ lecture's title. In the lost idea of a liberal art, my hypothesis is
 that we have indeed forgotten what a liberal art is. And by "we," I mean
 those of us on the side of the liberal arts, so to speak. ---Those of us
 who would defend them, rather than dismiss them, when talking about the
-aims of education. And in this case those of us who would defend them
-by drawing up lists of them. But we draw up our lists, on this hypothesis,
-in having no idea of a liberal art to offer in their place.
+aims of education. And in this case those of us who would defend them by
+drawing up lists of them. But we draw up our lists, on this hypothesis,
+in having no idea of a liberal art to offer in their place. We therefore
+lack the very thing that makes the examples on our lists examples. And
+this, then, is what I mean by "forgotten." For we lack the very thing
+that our lists would suggest we possess, as if what we lacked had been lost.
 
-(In this paragraph, give more evidence for hypothesis. There are several threads to sort out here. One, the fact that items on the later lists are not
-defined, as they might be on the medieval list. In St. John's case this is
-highlighted by the fact that we more or less forcibly apply the list to our
-readings, and have done so since the time of Buchanan. Then lead to a clarification of the word "forgetting" as an act rather than a condition. How St. John's wanted to dispense with "liberal arts" reference; how "liberal education" can be talked about without any reference to "liberal arts" in general; how it serves as merely lip service. Then move to deeper issue of importance by talking about power. Also relate this to lack of content.)
+(Revise from here.) (Perhaps put act of forgetfulness here?) So if our
+every list is made instead without this knowledge, then what might have
+been an act of recollection is rather a state of forgetfurecall it to
+mind. making oints backwards, as it were, to an idea that defines them
+even if it cannot be found on them, or in us---on this hypothesis. ur
+every list of liberal arts invites us, perhaps even obliges us, to
+recall what defines it  in this sense, is inviting us to recall
+something And this, then, is what I mean by "forgotten." 
+
+we hat we is in the first place would produce no
+list of them; 
+
+makes the examples on our every list of liberal arts the examples
+they are. 
+
+our every list of examples would suggest something
+that made them examples. we give example after example of a
+liberal art as if there were something that made them examples but heedless, it seems, of what the examples indeed exemplify. with no heed of recognition of just what the examples exemplify.  we can give example upon example of a liberal art,
+
+
+(In this paragraph, give more evidence for hypothesis. There are several
+threads to sort out here. One, the fact that items on the later lists
+are not defined, as they might be on the medieval list. (Perhaps contrast Teach
+Yourself Algebra with Elements of Algebra on this; in the one case the elements
+are given, and in the other case defined. Also use Liberal Arts book by Joseph,
+along with strange website of education defining the terms of the quadrivium.)
+In St. John's
+case this is highlighted by the fact that we more or less forcibly apply
+the list to our readings, and have done so since the time of Buchanan.
+Then lead to a clarification of the word "forgetting" as an act rather
+than a condition. How St. John's wanted to dispense with "liberal arts"
+reference; how "liberal education" can be talked about without any
+reference to "liberal arts" in general; how it serves as merely lip
+service. But this act of forgetting raises a question: why would the hypothesis
+matter? Then move to deeper issue of importance by talking about power.
+Also relate this to lack of content.)
 
 
 the lists, on this hypothesis, are a
