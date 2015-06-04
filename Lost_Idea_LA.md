@@ -3,6 +3,8 @@
 
 ## Introduction
 
+### Being lost on any list; one way to be lost
+
 The title of my lecture tonight, "The Lost Idea of a Liberal Art," is
 meant as a suggestion, or hypothesis.  What I mean by this hypothesis
 is best introduced, perhaps, if we consider a
@@ -34,7 +36,7 @@ continues like this:
 >and English classes (though those are great!)---they range from
 >mathematics to Mandarin, from statistics to sociology.  At liberal arts
 >colleges and universities students can study the sciences---such as
->biology, chemistry, and physics---and social sciences—including
+>biology, chemistry, and physics---and social sciences---including
 >economics, political science, and psychology.  Students can study newer
 >subjects, such as environmental science and neuroscience, and
 >traditional ones, too.
@@ -53,8 +55,6 @@ would be this idea, then, that has gotten lost in the answer above.  We
 ask what the liberal arts are, and are given too many in reply to
 know.
 
-## Being lost on any list; one way to be lost
-
 But how many are too many?  The list just given might seem too long,
 or at least too indefinite.  Yet consider the most definitive list I
 can think of, and the most likely one you already know of.  This is
@@ -69,7 +69,7 @@ is---exhaust the examples.  And not to be found is one way of
 being lost.  So on this argument, the idea of a liberal art will be
 lost on *any* list of them, no matter how short, or definite.
 
-## Being forgotten; another way to be lost
+### Being forgotten; another way to be lost; formulation of hypothesis
 
 Still, if we were persuaded by this argument, it seems we would shy away
 from lists, or at least offer something more than lists, when trying to
@@ -109,9 +109,33 @@ drawing up lists of them. But we draw up our lists, on this hypothesis,
 in having no idea of a liberal art to offer in their place. We therefore
 lack the very thing that makes the examples on our lists examples. And
 this, then, is what I mean by "forgotten." For we lack the very thing
-that our lists would suggest we possess, as if what we lacked had been lost.
+that our lists would suggest we possess, as if what we lacked were lost.
 
-(Revise from here.) (Perhaps put act of forgetfulness here?) So if our
+## Part one: evidence for hypothesis
+
+But is it lost? Have we indeed forgotten what a liberal art is? It is hard to
+know what might *prove* as much. This is why, for better or worse, I call my
+lecture's title a hypothesis. (Briefly include here a first reason already given
+in the existence of lists at all. Then spell out two more reasons that are
+independent of lists per se.) Still, I can think of three reasons for adopting
+it; three reasons, that is, for supposing that the idea of a liberal art has
+been lost rather than kept. To see what they are, I now want to give a closer look
+to the lists of liberal arts already mentioned. The first of these, recall, was the
+seemingly indefinite list produced by the Council of Independent Colleges, ranging
+from mathematics to Mandarin, from statistics to sociology. 
+One reason, it likelier that we have forgotten what a liberal
+art is than that we have remembered it. adopting this hypothesis when we read
+present-day defenses of liberal education. 
+
+and have no ambitions that my lecture
+might persuade you of it as fact. Still, I do hope to persuade you of it as Still, I think this hypothesis better
+explains Perhaps you need more evidence to accept such a claim, even in the
+form of a hypothesis. To begin this section, speak in terms of accepting the hypothesis, on the
+evidence of the list-making; then turn to other things that are clarified
+by its adoption. 
+
+But now that I have explained my title and formulated my hypothesis, I want
+to offer evidence for it. I wantaccepting this hypothesis? (Revise from here.) (Perhaps put act of forgetfulness here?) So if our
 every list is made instead without this knowledge, then what might have
 been an act of recollection is rather a state of forgetfurecall it to
 mind. making oints backwards, as it were, to an idea that defines them
