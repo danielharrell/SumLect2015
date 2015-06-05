@@ -5,12 +5,11 @@
 
 ### Being lost on any list; one way to be lost
 
-The title of my lecture tonight, "The Lost Idea of a Liberal Art," is
-meant as a suggestion, or hypothesis.  What I mean by this hypothesis
-is best introduced, perhaps, if we consider a
-[recent attempt](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
-to answer the question: "What Are The Liberal Arts?"  Here is how the
-answer starts:
+The title of my lecture tonight, "The Lost Idea of a Liberal Art," is meant as
+a suggestion, or hypothesis.  To explain what I mean by it, consider a [recent
+attempt](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx) to
+answer the question: "What Are The Liberal Arts?"  Here is how the answer
+starts:
 
 > A liberal arts education means studying broadly---taking classes in
 > many different subjects---and building skills that are geared toward
@@ -55,28 +54,42 @@ would be this idea, then, that has gotten lost in the answer above.  We
 ask what the liberal arts are, and are given too many in reply to
 know.
 
-But how many are too many?  The list just given might seem too long,
-or at least too indefinite.  Yet consider the most definitive list I
-can think of, and the most likely one you already know of.  This is
-the list we've inherited from medieval times, composed of seven
-liberal arts: grammar, logic, and rhetoric; arithmetic, geometry,
-music and astronomy.  No more, no fewer.  Yet what makes *these* the
-liberal arts?  It would seem impossible to know, unless we have some
-notion, or again *idea*, of what a liberal art is, to tell us.  And if
-this idea is distinct from any example, it will not be found on any
-list of examples, even if the seven on this list---definitive as it
-is---exhaust the examples.  And not to be found is one way of
-being lost.  So on this argument, the idea of a liberal art will be
-lost on *any* list of them, no matter how short, or definite.
+But how many are too many?  The list just given might seem too long, or
+at least too indefinite.  Yet consider the most definitive list I can
+think of, and the most likely one you already know of.  This is the list
+we've inherited from medieval times, composed of seven liberal arts:
+grammar, logic, and rhetoric; arithmetic, geometry, music and astronomy.
+No more, no fewer.  Yet what makes *these* the liberal arts?  It would
+seem impossible to know, unless we have some notion, or again *idea*, of
+what a liberal art is, to tell us. And if this idea is distinct from any
+example, it will not be found on any list of examples, even if the seven
+on this particular list---definitive as it is---exhaust the examples.
+And not to be found is one way of being lost.  So on this argument, the
+idea of a liberal art will be lost on *any* list of them, no matter how
+short, or definite.
 
 ### Being forgotten; another way to be lost; formulation of hypothesis
 
 Still, if we were persuaded by this argument, it seems we would shy away
-from lists, or at least offer something more than lists, when trying to
-say what a liberal art is.  But in general, we don't.  The list
-I started with, for example, is again a recent one: part of an ongoing
-campaign, begun in 2012, to promote the liberal arts by The Council of
-Independent Colleges.[^1] And two more lists can be found on [the same
+from lists when trying to say what a liberal art is.  But it is typical
+instead to embrace them, as if a liberal art were nothing more than
+a one among many. The list I started with, for example, is part of an
+ongoing campaign, begun in 2012, to promote the liberal arts by The
+Council of Independent Colleges.[^1] And you only find more such
+lists---sometimes completed, as it were, with the words "*et cetera*"---
+if you ask Google the question "What is a liberal art?".[^2] (Only thing added
+to list is use of "et cetera" to complete it, as it were.)
+
+[^1]:The campaign-launch announcement can be found
+[here](http://www.cic.org/News-and-Publications/Press-Center/Press-Releases/Pages/campaign-for-liberal-arts.aspx).
+[^2]: For one such example, see the list under the heading "What is
+liberal arts today?" at [this
+website](http://www.topuniversities.com/blog/what-liberal-arts-education).
+
+To base If
+there is and where the most commonly listed item is the term "*et
+cetera*". equally indefinite breadth, if you do a simple Google search
+for the phrase "liberal artsAnd two more lists can be found on [the same
 page](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts/)
 of the current St. John's website.  The first list has twelve items on
 it: philosophy, literature, history, mathematics, economics, political
@@ -110,6 +123,8 @@ in having no idea of a liberal art to offer in their place. We therefore
 lack the very thing that makes the examples on our lists examples. And
 this, then, is what I mean by "forgotten." For we lack the very thing
 that our lists would suggest we possess, as if what we lacked were lost.
+
+Mention Van Doren passage.
 
 ## Part one: evidence for hypothesis
 
@@ -387,4 +402,3 @@ Siegelvision] How we struck liberal arts from website.
 I'll come to the idea later, but I want to start by asking, why the
 forgetfulness?
 
-[^1]:<http://www.cic.org/News-and-Publications/Press-Center/Press-Releases/Pages/campaign-for-liberal-arts.aspx>
