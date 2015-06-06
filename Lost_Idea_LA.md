@@ -3,13 +3,54 @@
 
 ## Introduction
 
-### Being lost on any list; one way to be lost
+The title of my lecture tonight, "The Lost Idea of a Liberal Art," is
+meant to express a worry I have about the present-day condition of
+liberal education. To have worries at all, of course, has become
+reflexive among those of us in any way devoted to such an education,
+whether we be students of it, teachers of it, or in
+some other form stewards of it. And there is seemingly no end to the
+articles and even books published nowadays lamenting the decline of
+liberal education, to the point of prophesying its death. Type the words
+"death of liberal education" into Google, and you get back such headlines as
 
-The title of my lecture tonight, "The Lost Idea of a Liberal Art," is meant as
-a suggestion, or hypothesis.  To explain what I mean by it, consider a [recent
-attempt](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx) to
-answer the question: "What Are The Liberal Arts?"  Here is how the answer
-starts:
+> [Why Liberal Arts Education is Dying (or Already Dead)](http://www.aleteia.org/en/education/documents/why-liberal-arts-education-is-dying-or-already-dead-228015)   
+> [Is the Four-Year, Liberal-Arts Education Model Dead?](http://www.cnbc.com/id/41626661)    
+> [The Death of Liberal Education](http://michaeltmerrick.blogspot.com/2014/10/the-death-of-liberal-education.html)   
+> [The Death of Liberal Education](http://www.streetwisepundit.com/the-death-of-liberal-education)   
+> [Who Killed the Liberal Arts?](http://www.weeklystandard.com/articles/who-killed-liberal-arts_652007.html?page=3)   
+> [Liberals are Killing the Liberal Arts](http://www.wsj.com/articles/harvey-silverglate-liberals-are-killing-the-liberal-arts-1415573959)   
+> [Conservatives killed the liberal arts](http://www.salon.com/2012/09/14/conservatives_killed_the_liberal_arts/)   
+> [In Our High-Tech World, Are the Liberal Arts Dead?](https://www.stmarys-ca.edu/in-our-high-tech-world-are-the-liberal-arts-dead)   
+> [Jobs: The Economy, Killing Liberal Arts Education](http://www.newsweek.com/jobs-economy-killing-liberal-arts-education-70405)   
+> [The Liberal Arts Major: Would you like fries with that?](http://collegeadmissionbook.com/blog/liberal-arts-major-would-you-fries)   
+
+<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>
+
+> We raise this question, recognizing that liberal education and the great
+> tradition of the American liberal arts college have been put on the
+> defensive of late. Small colleges across the nation have to make their
+> case to students, to their parents, and to the public more urgently than
+> ever. The causes of this crisis have been analyzed extensively: there is
+> an emerging consensus that the rapid growth of consumerism amidst new
+> economic challenges, and the fragmentation of general studies driven by
+> professional training and specialization in the universities, have led
+> us to undervalue drastically the humane goals of liberal studies. These
+> causes are themselves symptomatic of a deeper crisis in our time,
+> a crisis of uncertainty and disorientation affecting every field of
+> human endeavor—scientific, social, intellectual, artistic, and
+> spiritual. Precisely in response to this crisis, liberal education can
+> reaffirm its relevance and purposes.
+
+Perhaps save last bit of quote above for later. (From here, mention the economy as an external force, then quote from 50th Anniversary Conference. Then start with fact
+that liberal arts is forgotten, jetissoned by our website (because of economy), not found in accounts even of Nelson. Note lip-service paid to "liberal arts" in 50th annivesary anonuncement.
+who seemed happily not following the rule not to mention liberal education.)
+Ka series of headlines,
+in effect, . as
+a suggestion, or hypothesis.  To explain what I mean by it, consider
+a [recent
+attempt](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
+to answer the question: "What Are The Liberal Arts?"  Here is how the
+answer starts:
 
 > A liberal arts education means studying broadly---taking classes in
 > many different subjects---and building skills that are geared toward
