@@ -28,13 +28,27 @@ back such headlines as
 
 All these headlines, I think, have one thing in common.
 While they may disagree about the threat to liberal
-education, they agree, it seems, in distinguishing liberal
-education from the threat, as if the threat were external
-rather than internal. The headlines make you think 
-something else is killing liberal education, not liberal
-education itself. And if you want something more than
-headlines in this vein, you need look no farther than St.
-John's College, and [the
+education, they agree in distinguishing liberal education
+from the threat, as if the threat were external rather than
+internal. The headlines make you think something *else* is
+killing liberal education, whether it be liberals or
+conservatives or technology or the economy. And it is hard
+to envision a defense of liberal education without such a
+distinction. For if liberal education itself were somehow
+the threat, then death might well be liberal education's best
+defense, but in defeat. No surprise, then, that
+those of us devoted to liberal education will take its
+threats as if these came from without. For this
+makes most immediate sense of a defense 
+that succeeds only if liberal education survives.
+
+Still, the more seriously you take these threats, the harder
+it can cast them in external terms, or capture in
+a headline. The most
+striking example of this I know of Without against what
+threatens it without making such a distinction, And if you
+want more than headlines in this vein, you need look no
+farther than St. John's College, and [the
 announcement](<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>)
 it made for a conference it hosted in Santa Fe last October.
 The stated question of the conference was "What is Liberal
