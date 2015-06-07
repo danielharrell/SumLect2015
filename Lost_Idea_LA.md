@@ -3,15 +3,17 @@
 
 ## Introduction
 
-The title of my lecture tonight, "The Lost Idea of a Liberal Art," is
-meant to express a worry I have about the present-day condition of
-liberal education. To have worries at all, of course, has become
-reflexive among those of us in any way devoted to such an education,
-whether we be students of it, teachers of it, or in
-some other form stewards of it. And there is seemingly no end to the
-articles and even books published nowadays lamenting the decline of
-liberal education, to the point of prophesying its death. Type the words
-"death of liberal education" into Google, and you get back such headlines as
+The title of my lecture tonight, "The Lost Idea of a Liberal
+Art," is meant to express a worry I have about the
+present-day state of liberal education. To have worries
+at all, of course, has become reflexive among those of us in
+any way devoted to this education, whether we be students
+of it, teachers of it, or in some other form stewards of it.
+And there is seemingly no end to the think-pieces
+published nowadays lamenting the decline of liberal
+education, to the point of prophesying its death. Type the
+words "death of liberal education" into Google, and you get
+back such headlines as
 
 > [Why Liberal Arts Education is Dying (or Already Dead)](http://www.aleteia.org/en/education/documents/why-liberal-arts-education-is-dying-or-already-dead-228015)   
 > [Is the Four-Year, Liberal-Arts Education Model Dead?](http://www.cnbc.com/id/41626661)    
@@ -24,33 +26,89 @@ liberal education, to the point of prophesying its death. Type the words
 > [Jobs: The Economy, Killing Liberal Arts Education](http://www.newsweek.com/jobs-economy-killing-liberal-arts-education-70405)   
 > [The Liberal Arts Major: Would you like fries with that?](http://collegeadmissionbook.com/blog/liberal-arts-major-would-you-fries)   
 
-<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>
+All these headlines, I think, have one thing in common.
+While they may disagree about the threat to liberal
+education, they agree, it seems, in distinguishing liberal
+education from the threat, as if the threat were external
+rather than internal. The headlines make you think 
+something else is killing liberal education, not liberal
+education itself. And if you want something more than
+headlines in this vein, you need look no farther than St.
+John's College, and [the
+announcement](<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>)
+it made for a conference it hosted in Santa Fe last October.
+The stated question of the conference was "What is Liberal
+Education For?"  And the first paragraph of the announcement
+went as follows:
 
-> We raise this question, recognizing that liberal education and the great
-> tradition of the American liberal arts college have been put on the
-> defensive of late. Small colleges across the nation have to make their
-> case to students, to their parents, and to the public more urgently than
-> ever. The causes of this crisis have been analyzed extensively: there is
-> an emerging consensus that the rapid growth of consumerism amidst new
-> economic challenges, and the fragmentation of general studies driven by
-> professional training and specialization in the universities, have led
-> us to undervalue drastically the humane goals of liberal studies. These
-> causes are themselves symptomatic of a deeper crisis in our time,
-> a crisis of uncertainty and disorientation affecting every field of
-> human endeavor—scientific, social, intellectual, artistic, and
-> spiritual. Precisely in response to this crisis, liberal education can
-> reaffirm its relevance and purposes.
+> We raise this question, recognizing that liberal education
+> and the great tradition of the American liberal arts
+> college have been put on the defensive of late. Small
+> colleges across the nation have to make their case to
+> students, to their parents, and to the public more
+> urgently than ever. The causes of this crisis have been
+> analyzed extensively: there is an emerging consensus that
+> the rapid growth of consumerism amidst new economic
+> challenges, and the fragmentation of general studies
+> driven by professional training and specialization in the
+> universities, have led us to undervalue drastically the
+> humane goals of liberal studies. These causes are
+> themselves symptomatic of a deeper crisis in our time, a
+> crisis of uncertainty and disorientation affecting every
+> field of human endeavor—scientific, social, intellectual,
+> artistic, and spiritual. Precisely in response to this
+> crisis, liberal education can reaffirm its relevance and
+> purposes.
 
-Perhaps save last bit of quote above for later. (From here, mention the economy as an external force, then quote from 50th Anniversary Conference. Then start with fact
-that liberal arts is forgotten, jetissoned by our website (because of economy), not found in accounts even of Nelson. Note lip-service paid to "liberal arts" in 50th annivesary anonuncement.
-who seemed happily not following the rule not to mention liberal education.)
-Ka series of headlines,
-in effect, . as
-a suggestion, or hypothesis.  To explain what I mean by it, consider
-a [recent
+This paragraph, it seems to me, distinguishes liberal
+education from what threatens it to the point of paradox. We are
+first asked to believe in a crisis so wide and deep that it
+infects every field of human endeavor with disorientation.
+Yet we are then asked to believe in the resources of liberal
+education to respond to this crisis, as if it were the one
+field of human endeavor immune from disorientation. 
+
+The rest of the announcement, to my mind, only sharpens
+the paradox rather than resolving it: 
+
+>We believe that the unprecedented opportunities for freedom
+>in the modern world only heighten the need for life-long
+>engagement with the essential questions. Individualism, the
+>accelerating progress of science and technology, the
+>liberation engendered by complex economies---the very
+>achievements of the modern age---present philosophical and
+>ethical difficulties, both novel and perennial. No one can
+>address these effectively, in their own lives or as future
+>leaders, unless they come to understand them in a more than
+>superficial way.
+
+> At St. John’s College, it has continued to be our
+> conviction that the root questions of life can be taken up
+> by any serious person. We have made the Socratic
+> approach---of open, courageous, and philosophically minded
+> inquiry---central to the work of every class. We welcome
+> friends (and critics) and educators from near and far to
+> join us for this conference, which we envision as a broad
+> platform to speak about the challenges and opportunities
+> for liberal education today, and to engage in exemplary
+> studies in the liberal arts (interpretive and substantive
+> work on texts and within disciplines).  
+
+, making the college
+seem like an island of lucidity in a sea of What is
+most striking to mePerhaps save last bit of quote above for
+later. (From here, mention the economy as an external force,
+then quote from 50th Anniversary Conference. Then start with
+fact that liberal arts is forgotten, jetissoned by our
+website (because of economy), not found in accounts even of
+Nelson. Note lip-service paid to "liberal arts" in 50th
+annivesary anonuncement. who seemed happily not following
+the rule not to mention liberal education.) Ka series of
+headlines, in effect, . as a suggestion, or hypothesis.  To
+explain what I mean by it, consider a [recent
 attempt](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
-to answer the question: "What Are The Liberal Arts?"  Here is how the
-answer starts:
+to answer the question: "What Are The Liberal Arts?"  Here
+is how the answer starts:
 
 > A liberal arts education means studying broadly---taking classes in
 > many different subjects---and building skills that are geared toward
