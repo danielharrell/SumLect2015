@@ -43,12 +43,22 @@ makes most immediate sense of a defense
 that succeeds only if liberal education survives.
 
 Still, the more seriously you take these threats, the harder
-it can cast them in external terms, or capture in
-a headline. The most
-striking example of this I know of Without against what
-threatens it without making such a distinction, And if you
-want more than headlines in this vein, you need look no
-farther than St. John's College, and [the
+it can be cast them in external terms, or capture in a
+headline. Technology, The Economy, Conservatives,
+Liberals---these abstractions, being abstractions, could never
+be enemies; and it is liberal education that teaches us the
+difference. 
+
+an seem antithetical to
+liberal education on their face, precisely in being
+abstractions. 
+depending on your political persuasion---these abstractions
+can almost seem *natural* enemies to be *natural* To pit liberal education
+against   The most striking example of this I know of
+Without against what threatens it without making such a
+distinction, And if you want more than headlines in this
+vein, you need look no farther than St. John's College, and
+[the
 announcement](<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>)
 it made for a conference it hosted in Santa Fe last October.
 The stated question of the conference was "What is Liberal
