@@ -42,28 +42,14 @@ threats as if these came from without. For this
 makes most immediate sense of a defense 
 that succeeds only if liberal education survives.
 
-Still, the more seriously you take these threats, the harder
-it can be cast them in external terms, or capture in a
-headline. Technology, The Economy, Conservatives,
-Liberals---these abstractions, being abstractions, could never
-be enemies; and it is liberal education that teaches us the
-difference. 
-
-an seem antithetical to
-liberal education on their face, precisely in being
-abstractions. 
-depending on your political persuasion---these abstractions
-can almost seem *natural* enemies to be *natural* To pit liberal education
-against   The most striking example of this I know of
-Without against what threatens it without making such a
-distinction, And if you want more than headlines in this
-vein, you need look no farther than St. John's College, and
-[the
+Still, the more seriously you take such threats, the harder
+it can be to cast them in external terms, or capture in
+a headline. To see what I mean, consider [the
 announcement](<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>)
-it made for a conference it hosted in Santa Fe last October.
-The stated question of the conference was "What is Liberal
-Education For?"  And the first paragraph of the announcement
-went as follows:
+St. John's College made for a conference it hosted in Santa
+Fe last October. The stated question of the conference was
+"What is Liberal Education For?"  And here is how the
+announcement begins:
 
 > We raise this question, recognizing that liberal education
 > and the great tradition of the American liberal arts
@@ -84,13 +70,51 @@ went as follows:
 > crisis, liberal education can reaffirm its relevance and
 > purposes.
 
-This paragraph, it seems to me, distinguishes liberal
-education from what threatens it to the point of paradox. We are
-first asked to believe in a crisis so wide and deep that it
+What makes the invocation of crisis in this paragraph
+compelling rather than hyperbolic, I think, is that it
+describes a threat to liberal education that cannot be
+simply escaped or opposed, since the threat is finally
+internal rather than external. It is *we* who have been led
+to undervalue the goals of liberal studies, and *we* who
+suffer from a still deeper uncertainty and disorientation,
+affecting every field of human endeavor---the endeavor of
+liberal education presumably included. But this is also, then,
+what makes the paragraph paradoxical, once we reach the final sentence.
+For if disorientation indeed affects every field of human endeavor, liberal education
+included, then why should we believe it can *respond* to the crisis rather
+than merely participate in the crisis? 
+
+if liberal education can indeed reaffirm its relevance
+and purposes precisely in response to this crisis, then it must have resources
+to protect it from total disorientation. . (Link internal to universal, no opposition
+from it. No esc) And there is no escape from it, if this is
+indeed a crisis affecting every field of human endeavor. this reflects a deeper uncertainty
+and disorientation in every thing we do. . . is a good example, I think, of what it means
+to take a threat to liberal education seriously. , for
+a more serious threat to liberal education thanWhat makes
+the account of crisis in this paragraph at all compelling,
+it seems to me, is that it identifies the crisis with
+a concrete "us" rather than some abstract "they." withI
+should first focus on how it takes it makes for a more
+serious threat than found in a headline by making it
+universal and internal, affecting every field of human
+endeavor. Yet note how the defense of liberal education
+still depends on distinguish it, presumably as a human
+endeavor, from the threat. Yet if one takes the threat
+seriously, why should liberal education be immune? (Perhaps
+don't raise this yet, stick to level of description.) This
+paragraph, it seems to me, distinguishes liberal education
+from what threatens it to the point of paradox. We are first
+asked to believe in a crisis so wide and deep that it
 infects every field of human endeavor with disorientation.
 Yet we are then asked to believe in the resources of liberal
 education to respond to this crisis, as if it were the one
-field of human endeavor immune from disorientation. 
+field of human endeavor immune from disorientation.
+
+(Perhaps use term "Archimedean point" for what has to be saved. Another
+idea: at this point, we seem to have to be already free.)
+
+Look up stuff on Chris Nelson's blog.
 
 The rest of the announcement, to my mind, only sharpens
 the paradox rather than resolving it: 
@@ -123,10 +147,10 @@ seem like an island of lucidity in a sea of What is
 most striking to mePerhaps save last bit of quote above for
 later. (From here, mention the economy as an external force,
 then quote from 50th Anniversary Conference. Then start with
-fact that liberal arts is forgotten, jetissoned by our
+fact that liberal arts is forgotten, jettisoned by our
 website (because of economy), not found in accounts even of
 Nelson. Note lip-service paid to "liberal arts" in 50th
-annivesary anonuncement. who seemed happily not following
+anniversary announcement   announcement. who seemed happily not following
 the rule not to mention liberal education.) Ka series of
 headlines, in effect, . as a suggestion, or hypothesis.  To
 explain what I mean by it, consider a [recent
