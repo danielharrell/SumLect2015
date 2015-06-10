@@ -5,15 +5,15 @@
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the
-present-day state of liberal education. To have worries
-at all, of course, has become reflexive among those of us in
-any way devoted to this education, whether we be students
-of it, teachers of it, or in some other form stewards of it.
-And there is seemingly no end to the think-pieces
-published nowadays lamenting the decline of liberal
-education, to the point of prophesying its death. Type the
-words "death of liberal education" into Google, and you get
-back such headlines as
+present-day state of liberal education. Yes, another one of
+those. For to have worries at all has become
+reflexive among those of us in any way devoted to this
+education, whether we be students of it, teachers of it, or
+in some other form stewards of it. And there is seemingly no
+end to the think-pieces published nowadays lamenting the
+decline of liberal education, to the point of prophesying
+its death. Type the words "death of liberal education" into
+Google, and you get back such headlines as
 
 > [Why Liberal Arts Education is Dying (or Already Dead)](http://www.aleteia.org/en/education/documents/why-liberal-arts-education-is-dying-or-already-dead-228015)   
 > [Is the Four-Year, Liberal-Arts Education Model Dead?](http://www.cnbc.com/id/41626661)    
@@ -44,7 +44,8 @@ that succeeds only if liberal education survives.
 
 Still, the more seriously you take such threats, the harder
 it can be to cast them in external terms, or capture in
-a headline. And this leads to a kind of paradox. To see what I mean, consider [the
+a headline. And this leads to a kind of paradox. To see what
+I mean, consider [the
 announcement](<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>)
 St. John's College made for a conference it hosted in Santa
 Fe last October. The stated question of the conference was
@@ -77,27 +78,42 @@ that cannot be simply escaped or opposed. Which is to say:
 it describes a threat that is finally internal. It is *we*
 who have been led to undervalue the goals of liberal
 studies, and *we* who suffer from a still deeper uncertainty
-and disorientation, affecting every field of human endeavor.
-But what makes the paragraph compelling, then, also makes it
-paradoxical, once we reach the final sentence. For if every
-field of human endeavor suffers from disorientation, then
-presumably liberal education suffers from it. But how, then, can it
-respond at all to the crisis, much less precisely? Any
-response would seem to require orientation, even in the
-throes of a disorientation having reached the point of
-crisis. Here we see how speaking on behalf of liberal education
-means distinguishing it from from what threatens it, even
-when the threat is internal. But then we are forced to talk
-paradoxically as if liberal education were at once included
-in yet excluded from the threat. 
+and disorientation, since this affects every field of human
+endeavor. But what makes the paragraph compelling, then,
+also makes it paradoxical, once we reach the final sentence.
+For if every field of human endeavor suffers from
+disorientation, then presumably liberal education suffers
+from it. But how, then, can it respond at all to the crisis,
+much less precisely? Any response would seem to require
+orientation, even in the throes of a disorientation having
+reached the point of crisis. Here, then, we see how speaking on
+behalf of liberal education means distinguishing it from
+from what threatens it, even when the threat is internal.
+But then we are forced to talk paradoxically as if liberal
+education were at once included in yet excluded from the
+threat. 
 
 How, then, to resolve this paradox? That is, how do we talk
 not just paradoxically, but intelligibly, about liberal
 education's powers of guidance in a time of disorientation?
-It is this question that prompts my worry, and the title
-of my lecture. My worry is that we have found a way of talking
-about this that we take to be intelligible, but which in truth is unintelligible,
-and a sign of disorientation in the mistake. (Now connect to title of lecture.)
+It is this question that prompts my worry, and the title of
+my lecture. For my worry is that we have found a way of
+talking that we take to be intelligible, but which in truth
+is unintelligible, and a sign of disorientation in the
+mistake. And what makes it unintelligible, finally, is its
+having lost the idea of a liberal art. Or to put my worry
+less elliptically: we have found a way of talking on behalf
+of liberal education, a way of defending it, that
+effectively divorces it from any real conception of the
+liberal arts; and this divorce has made our defense 
+*seem* intelligible yet *be* unintelligible. 
+
+But what do I mean by this? To start my answer, let me go back to
+the I think we can see the beginnings
+of an answer, if we look at the rest of the announcement that I
+just quoted the first paragraph of. Recall that this paragraph
+concluded with a paradoxical affirmation of 
+
 have mistaken for intelligible, but which
 I worry is in truth unintelligible, and indeed a sign of
 disorientation at the very heart of the enterprise. (At the
