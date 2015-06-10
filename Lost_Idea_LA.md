@@ -71,8 +71,7 @@ announcement begins:
 > crisis, liberal education can reaffirm its relevance and
 > purposes.
 
-I myself find this paragraph compelling rather than
-hyperbolic, so far as it goes. But what makes it compelling,
+To my mind, this is better than a headline. But what makes it better, 
 I think, is that it describes a threat to liberal education
 that cannot be simply escaped or opposed. Which is to say:
 it describes a threat that is finally internal. It is *we*
@@ -82,69 +81,70 @@ and disorientation, since this affects every field of human
 endeavor. But what makes the paragraph compelling, then,
 also makes it paradoxical, once we reach the final sentence.
 For if every field of human endeavor suffers from
-disorientation, then presumably liberal education suffers
-from it. But how, then, can it respond at all to the crisis,
+disorientation, then liberal education suffers
+from it. But how, in that case, can it respond at all to the crisis,
 much less precisely? Any response would seem to require
 orientation, even in the throes of a disorientation having
-reached the point of crisis. Here, then, we see how speaking on
-behalf of liberal education means distinguishing it from
+reached the point of crisis. Here, then, we see how speaking
+on behalf of liberal education means distinguishing it from
 from what threatens it, even when the threat is internal.
-But then we are forced to talk paradoxically as if liberal
+But we are thus forced to talk paradoxically as if liberal
 education were at once included in yet excluded from the
 threat. 
 
-How, then, to resolve this paradox? That is, how do we talk
+How to resolve this paradox? That is, how do we talk
 not just paradoxically, but intelligibly, about liberal
 education's powers of guidance in a time of disorientation?
-It is this question that prompts my worry, and the title of
-my lecture. For my worry is that we have found a way of
+It is this question that prompts my worry, along with the title of
+my lecture. My worry is that we have found a way of
 talking that we take to be intelligible, but which in truth
 is unintelligible, and a sign of disorientation in the
 mistake. And what makes it unintelligible, finally, is its
-having lost the idea of a liberal art. Or to put my worry
-less elliptically: we have found a way of talking on behalf
-of liberal education, a way of defending it, that
-effectively divorces it from any real conception of the
-liberal arts; and this divorce has made our defense 
-*seem* intelligible yet *be* unintelligible. 
+having lost the idea of a liberal art. Or to put this less
+elliptically: we have found a way of talking on behalf
+of liberal education, of defending it, that 
+effectively divorces it from any conception of the
+liberal arts. And this divorce has made our defense *seem*
+sensical, yet *be* nonsensical. 
 
-But what do I mean by this? To start my answer, let me go back to
-the I think we can see the beginnings
-of an answer, if we look at the rest of the announcement that I
-just quoted the first paragraph of. Recall that this paragraph
-concluded with a paradoxical affirmation of 
+To accuse us of nonsense is no small charge, of course. And
+there is no case to make for it, I think, that can put it
+beyond doubt. In any case, my hope in what follows is not to
+make the charge hard to doubt; but merely hard to dismiss,
+and in a spirit more probing than polemical.
 
-have mistaken for intelligible, but which
-I worry is in truth unintelligible, and indeed a sign of
-disorientation at the very heart of the enterprise. (At the
-heart of liberal education.)
+To get a better sense of what I mean by all
+this, we can first turn back to the announcement I just
+quoted from. Recall that its first paragraph concluded by
+asserting that liberal education can reaffirm its relevance
+and purposes, even in the midst of uncertainty and
+disorientation. But how? The rest of the announcement offers
+an answer to this question: 
 
-. , if we suppose, and as I myself believe,  in a time about liberal education's resources in  
-Mention here perhaps that this is where my worries begin.
-(Solution: to make for a kind of archimedian point of the
-internal, but without content. A sign of this is the
-lip-service paid to the liberal arts.).  critical
-disorientation. puts any appeal to response at risk of
-contradicting Insofar as there is a genuine threat to
-liberal education, the disorientation is total, but insofar
-as liberal education can be saved, the disorientation is
-less than total. rather than simply succumb? The paragraph
-talks of the crisis as if nthere were no escaping it, but
-talks of liberal education as if its momentum (We are asked
-to believe in two contrary things: lucidity and confusion.)
-What kind of response could there be in the throes of
-disorientation? Or more generally, how can liberal education
-be distinguished from threatens it, if the threat is
-internal? The very possibility of response, it would seem,
-requires the disorientation in question to be less than
-total. But this means distinguishing liberal education from
-what threatens it, even when the threat is internal. The
-crisis in question, evidently, has to be internal enough to
-be, indeed, a crisis; but external enough to be opposed
-rather than prevail. Or if it can indeed respond to the
-crisis, then in what sense is the crisis a crisis? The
-crisis  
+>We believe that the unprecedented opportunities for freedom
+>in the modern world only heighten the need for life-long
+>engagement with the essential questions. Individualism, the
+>accelerating progress of science and technology, the
+>liberation engendered by complex economies---the very
+>achievements of the modern age---present philosophical and
+>ethical difficulties, both novel and perennial. No one can
+>address these effectively, in their own lives or as future
+>leaders, unless they come to understand them in a more than
+>superficial way.
 
+> At St. John’s College, it has continued to be our
+> conviction that the root questions of life can be taken up
+> by any serious person. We have made the Socratic
+> approach---of open, courageous, and philosophically minded
+> inquiry---central to the work of every class. We welcome
+> friends (and critics) and educators from near and far to
+> join us for this conference, which we envision as a broad
+> platform to speak about the challenges and opportunities
+> for liberal education today, and to engage in exemplary
+> studies in the liberal arts (interpretive and substantive
+> work on texts and within disciplines).  
+
+(Point out that this is just an advertisement, but other things just like it.)
 Maybe point out that casting the terms as external means make some kind of sense
 of the internal. content given to internal, but I think this
 is perhaps wrong. Real threat is internal, only way out is external.
@@ -180,32 +180,6 @@ field of human endeavor immune from disorientation.
 idea: at this point, we seem to have to be already free.)
 
 Look up stuff on Chris Nelson's blog.
-
-The rest of the announcement, to my mind, only sharpens
-the paradox rather than resolving it: 
-
->We believe that the unprecedented opportunities for freedom
->in the modern world only heighten the need for life-long
->engagement with the essential questions. Individualism, the
->accelerating progress of science and technology, the
->liberation engendered by complex economies---the very
->achievements of the modern age---present philosophical and
->ethical difficulties, both novel and perennial. No one can
->address these effectively, in their own lives or as future
->leaders, unless they come to understand them in a more than
->superficial way.
-
-> At St. John’s College, it has continued to be our
-> conviction that the root questions of life can be taken up
-> by any serious person. We have made the Socratic
-> approach---of open, courageous, and philosophically minded
-> inquiry---central to the work of every class. We welcome
-> friends (and critics) and educators from near and far to
-> join us for this conference, which we envision as a broad
-> platform to speak about the challenges and opportunities
-> for liberal education today, and to engage in exemplary
-> studies in the liberal arts (interpretive and substantive
-> work on texts and within disciplines).  
 
 , making the college
 seem like an island of lucidity in a sea of What is
