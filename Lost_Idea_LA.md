@@ -44,11 +44,11 @@ that succeeds only if liberal education survives.
 
 Still, the more seriously you take such threats, the harder
 it can be to cast them in external terms, or capture in
-a headline. To see what I mean, consider [the
+a headline. And this leads to a kind of paradox. To see what I mean, consider [the
 announcement](<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>)
 St. John's College made for a conference it hosted in Santa
 Fe last October. The stated question of the conference was
-"What is Liberal Education For?"  And here is how the
+"What is Liberal Education For?"  Here is how the
 announcement begins:
 
 > We raise this question, recognizing that liberal education
@@ -70,21 +70,70 @@ announcement begins:
 > crisis, liberal education can reaffirm its relevance and
 > purposes.
 
-What makes the invocation of crisis in this paragraph
-compelling rather than hyperbolic, I think, is that it
-describes a threat to liberal education that cannot be
-simply escaped or opposed, since the threat is finally
-internal rather than external. It is *we* who have been led
-to undervalue the goals of liberal studies, and *we* who
-suffer from a still deeper uncertainty and disorientation,
-affecting every field of human endeavor---the endeavor of
-liberal education presumably included. But this is also, then,
-what makes the paragraph paradoxical, once we reach the final sentence.
-For if disorientation indeed affects every field of human endeavor, liberal education
-included, then why should we believe it can *respond* to the crisis rather
-than merely participate in the crisis? 
+I myself find this paragraph compelling rather than
+hyperbolic, so far as it goes. But what makes it compelling,
+I think, is that it describes a threat to liberal education
+that cannot be simply escaped or opposed. Which is to say:
+it describes a threat that is finally internal. It is *we*
+who have been led to undervalue the goals of liberal
+studies, and *we* who suffer from a still deeper uncertainty
+and disorientation, affecting every field of human endeavor.
+But what makes the paragraph compelling, then, also makes it
+paradoxical, once we reach the final sentence. For if every
+field of human endeavor suffers from disorientation, then
+presumably liberal education suffers from it. But how, then, can it
+respond at all to the crisis, much less precisely? Any
+response would seem to require orientation, even in the
+throes of a disorientation having reached the point of
+crisis. Here we see how speaking on behalf of liberal education
+means distinguishing it from from what threatens it, even
+when the threat is internal. But then we are forced to talk
+paradoxically as if liberal education were at once included
+in yet excluded from the threat. 
 
-if liberal education can indeed reaffirm its relevance
+How, then, to resolve this paradox? That is, how do we talk
+not just paradoxically, but intelligibly, about liberal
+education's powers of guidance in a time of disorientation?
+It is this question that prompts my worry, and the title
+of my lecture. My worry is that we have found a way of talking
+about this that we take to be intelligible, but which in truth is unintelligible,
+and a sign of disorientation in the mistake. (Now connect to title of lecture.)
+have mistaken for intelligible, but which
+I worry is in truth unintelligible, and indeed a sign of
+disorientation at the very heart of the enterprise. (At the
+heart of liberal education.)
+
+. , if we suppose, and as I myself believe,  in a time about liberal education's resources in  
+Mention here perhaps that this is where my worries begin.
+(Solution: to make for a kind of archimedian point of the
+internal, but without content. A sign of this is the
+lip-service paid to the liberal arts.).  critical
+disorientation. puts any appeal to response at risk of
+contradicting Insofar as there is a genuine threat to
+liberal education, the disorientation is total, but insofar
+as liberal education can be saved, the disorientation is
+less than total. rather than simply succumb? The paragraph
+talks of the crisis as if nthere were no escaping it, but
+talks of liberal education as if its momentum (We are asked
+to believe in two contrary things: lucidity and confusion.)
+What kind of response could there be in the throes of
+disorientation? Or more generally, how can liberal education
+be distinguished from threatens it, if the threat is
+internal? The very possibility of response, it would seem,
+requires the disorientation in question to be less than
+total. But this means distinguishing liberal education from
+what threatens it, even when the threat is internal. The
+crisis in question, evidently, has to be internal enough to
+be, indeed, a crisis; but external enough to be opposed
+rather than prevail. Or if it can indeed respond to the
+crisis, then in what sense is the crisis a crisis? The
+crisis  
+
+Maybe point out that casting the terms as external means make some kind of sense
+of the internal. content given to internal, but I think this
+is perhaps wrong. Real threat is internal, only way out is external.
+(The real crisis from within: appeal to archimedean point, because there
+is no content.) if liberal education can indeed reaffirm its relevance
 and purposes precisely in response to this crisis, then it must have resources
 to protect it from total disorientation. . (Link internal to universal, no opposition
 from it. No esc) And there is no escape from it, if this is
