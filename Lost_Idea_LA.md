@@ -5,13 +5,13 @@
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the
-present-day state of liberal education. To have worries at
+prospects of liberal education. To have worries at
 all, of course, has become reflexive among those of us in
 any way devoted to this education, whether we be students of
 it, teachers of it, or in some other form stewards of it.
-And there is seemingly no end to the think-pieces published
-nowadays lamenting the decline of liberal education, to the
-point of prophesying its death. Type the words "death of
+And there is no end these days, it seems, to the think-pieces 
+pondering the decline of liberal education, even 
+prophesying its death. Type the words "death of
 liberal education" into Google, and you get back such
 headlines as
 
@@ -40,35 +40,78 @@ if liberal education itself were somehow the threat, then
 death might well be liberal education's best defense. But in
 defeat. No surprise, then, that those of us devoted to
 liberal education are wont to conceive its threats as if
-these came from outside it. For this makes most immediate
-sense of a defense that succeeds only if liberal education
-survives.
+these came from outside it. For this justifies a defense
+that succeeds only if liberal education survives.
 
 Still, the more seriously you take such threats, the harder
 it can be to cast them in external terms, or capture in a
 headline. The fate of liberal education, after all, will not
 be decided in opinion columns, but in choices made by each
-of us, from a first-person vantage-point, about the best
-education. The best education, that is, for *my* son, or
-*my* daughter, or *me*.  In this respect, those of us
+of us about the best education, once education matters. Not,
+then, the best education in general, as such, *per se*; but
+the best education for my daughter, or my son, or me.  Once
+we make education about what's mine to decide, those of us
 devoted to liberal education are no different from those of
-us dismissive of it. And in this same respect, the threat to
-liberal education cannot lie outside it; for the threat, in
-this sense, is to have answered for ourselves a question,
-perhaps *the* question, that liberal education obliges us to
-ask: what does it mean to be educated?
+us dismissive of it. And in this sense, the threat to
+liberal education can never lie outside it. For to choose
+otherwise in pursuit of education, is still to have
+answered a question, and to my mind *the* question, that liberal
+education obliges each of us to ask, and ask on our own
+behalf: What does it mean to be educated? And to have
+answered this question by turning away from liberal
+education, is perhaps the best evidence we have that the
+question is real. The death of liberal education would thus
+prove its life, and might be the only proof of life. 
 
-Harder to cast in external terms, harder to defend as if in
-external terms. (And this is my worry.) Bring up question of
-how to defend liberal education against this threatBut
-liberal education still in need of defense from a choice to
-pursue a STEM field, lest we take this to be liberal
-education. WE have done this by identifying freedom, and in
-question.) (Ask this question to pursue a liberal education,
-but does this mean liberal education is committed to
-questions or answers in being defended.)  Squeamish about
-saying STEM fields aren't education. Reasonable to say:
-answer is wrong.
+But again, those of us devoted to liberal education are
+unlikely to want its death. But if the threat to it comes
+finally from within, then what becomes of its defense? What
+does it mean, what should it mean, for liberal education to
+survive such a threat, or maintain itself against such a
+threat? I hope you can see the paradox. Even raising this
+question makes the threat seem once again external, (speak
+intelligibly rather than paradoxically) by opposing it to
+liberal education, a sign of the challenge of defense. cast
+this internal threat in external terms, My way of putting
+this question shows how easy it is to cast even internal
+threats in external terms. conceive hard it is  suggests
+opposition...  By which I mean, of course, a defense f each
+of us asked the question "what does it mean to be educated?"
+and none of us answered it by pursuing a liberal education,
+no one pursued a liberal education when answerng the
+question "what does it mean to be educated?" then  There is
+a challenge here, and I think
+
+thenits defense, it would seem,  what can be said in its defense? on its behalf, in its
+defense? ow to defend it? For it seems the
+treat cannot be conceived  is its best defense for survival
+rather than demise?  Perhaps mention paradox here.   
+
+Distinction between question and answer allows defense to
+be made.
+(Answer should be: an education consistent with freedom.
+That's how answer can be wrong. World of servitude. Point
+out how technological change being engaged, rather than put
+off. Flexible thinking, keeping apace. Also talk about
+content.)
+(Two alternatives in defense: this is the wrong answer; or,
+it answers the question without having asked the question.
+We've chosen the latter, but granted then the answer given
+against liberal education. Letting other forms of education
+be answers, granting their world.) The threat to liberal education is in this sense internal
+then. But in the form of a question. This argument might
+suggest STEM pursuit the pursuit of a liberal education.
+Does liberal education have an answer to the question in its
+defense? 
+(And this
+is my worry.) But liberal education still in
+need of defense from a choice to pursue a STEM field, lest
+we take this to be liberal education. WE have done this by
+identifying freedom, and in question.) (Ask this question to
+pursue a liberal education, but does this mean liberal
+education is committed to questions or answers in being
+defended.)  Squeamish about saying STEM fields aren't
+education. Reasonable to say: answer is wrong.
 
 
 From here I should try to describe how this leads to an
