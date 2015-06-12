@@ -30,56 +30,61 @@ headlines as
 All these headlines, I think, have one thing in common.
 While they may disagree about the threat to liberal
 education, they agree in distinguishing liberal education
-from the threat, as if the threat were external rather than
-internal. The headlines make you think something *else* is
-killing liberal education, whether it be liberals or
-conservatives or technology or the economy. And it is hard
-to envision a defense of liberal education without such a
-distinction, even if headlines draw it simplistically. For
-if liberal education itself were somehow the threat, then
-death might well be liberal education's best defense. But in
-defeat. No surprise, then, that those of us devoted to
-liberal education are wont to conceive its threats as if
-these came from outside it. For this justifies a defense
-that succeeds only if liberal education survives.
+from the threat, as if the threat were external to it. The
+headlines make you think something *else* is killing liberal
+education, whether it be liberals or conservatives or
+technology or the economy. And it is hard to envision
+a defense of liberal education without such a distinction,
+even if headlines draw it simplistically. For if liberal
+education itself were somehow the threat, then death might
+well be liberal education's best defense. But in defeat. No
+surprise, then, that those of us devoted to liberal
+education are wont to conceive its threats as if these came
+from outside it. For this justifies a defense that succeeds
+only if liberal education survives.
 
 Still, the more seriously you take such threats, the harder
-it can be to cast them in external terms, or capture in a
-headline. The fate of liberal education, after all, will not
-be decided in opinion columns, but in choices made by each
-of us about the best education, once education matters. Not,
-then, the best education in general, as such, *per se*; but
-the best education for my daughter, or my son, or me.  Once
-we make education about what's mine to decide, those of us
+it can be to cast them in external terms, or capture in
+a headline. The fate of liberal education, after all, will
+not be decided in opinion columns, but in choices made by
+each of us about the best education, once education matters.
+Not the best education, then, in general, as such, *per se*;
+but the best education for my daughter, or my son, or me.
+Once education is a matter of mine to decide, those of us
 devoted to liberal education are no different from those of
-us dismissive of it. And in this sense, the threat to
-liberal education can never lie outside it. For to choose
-otherwise in pursuit of education, is still to have
-answered a question, and to my mind *the* question, that liberal
-education obliges each of us to ask, and ask on our own
-behalf: What does it mean to be educated? And to have
-answered this question by turning away from liberal
-education, is perhaps the best evidence we have that the
-question is real. The death of liberal education would thus
-prove its life, and might be the only proof of life, and the
-only conclusion.  
+us dismissive of it. And in this respect, which to my mind
+is definitive, the threat to liberal education comes from
+liberal education itself. For to choose otherwise in the
+pursuit of education is in effect to have answered
+a question that a liberal education obliges each of us to
+ask, and ask on our own behalf: What does it mean to be
+educated? And that we can answer this question in a choice
+*against* liberal education, putting it at risk of
+extinction if the same choice is made repeatedly and
+resolvedly, is perhaps the best evidence we have that the
+question is real, not rhetorical. The death of liberal
+education, so understood, would be proof of its life, and
+perhaps the only proof of life. 
 
-Then again, those of us devoted to liberal education are
-unlikely to want its death. But what, then, becomes of its
-defense? If the threat to liberal education comes finally
-from within, in a question for each of us about the meaning
-of education, then what in turn does it mean---what should
-it mean---for liberal education to survive such a threat? Or
-maintain itself against such a threat? Or have I not just
-made the internal threat external, by opposing liberal
-education to what ails it, in trying to makes sense of
-a future in which liberal education still exists? It is once
-again hard to envision a defense of liberal education
-without taking the threat to be external, even when the threat
-is internal. And this difficulty suggests a paradox at the
-heart of any defense: for if the threat is to be real, but
-not fatal, perhaps it has to be taken as internal and
-external at once.
+But again, those of us devoted to liberal education are
+unlikely to wish its death at all, much less just to show we
+were devoted to something rather than nothing. But what,
+in that case, becomes of its defense? If the threat to liberal
+education arises finally from itself, in a question 
+for each of us about the meaning of education th, (this should be clarified to
+suggest that what it means to be educated, if it is a real question,
+has then what in turn does
+it mean---what should it mean---for liberal education to
+survive such a threat? Or maintain itself against such
+a threat? Or have I not just made the internal threat
+external, by opposing liberal education to what ails it, in
+trying to makes sense of a future in which liberal education
+still exists? It is once again hard to envision a defense of
+liberal education without such an opposition, where the
+threat is treated as external even when internal. And this
+difficulty suggests a paradox at the heart of any defense:
+for if the threat is to be real, but not fatal, perhaps it
+has to be taken as internal and external at once.
 
 But how? How to speak not just paradoxically, but
 intelligibly, etc. 
