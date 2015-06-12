@@ -5,15 +5,15 @@
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the
-present-day state of liberal education. Yes, another one of
-those. For to have worries at all has become
-reflexive among those of us in any way devoted to this
-education, whether we be students of it, teachers of it, or
-in some other form stewards of it. And there is seemingly no
-end to the think-pieces published nowadays lamenting the
-decline of liberal education, to the point of prophesying
-its death. Type the words "death of liberal education" into
-Google, and you get back such headlines as
+present-day state of liberal education. To have worries at
+all, of course, has become reflexive among those of us in
+any way devoted to this education, whether we be students of
+it, teachers of it, or in some other form stewards of it.
+And there is seemingly no end to the think-pieces published
+nowadays lamenting the decline of liberal education, to the
+point of prophesying its death. Type the words "death of
+liberal education" into Google, and you get back such
+headlines as
 
 > [Why Liberal Arts Education is Dying (or Already Dead)](http://www.aleteia.org/en/education/documents/why-liberal-arts-education-is-dying-or-already-dead-228015)   
 > [Is the Four-Year, Liberal-Arts Education Model Dead?](http://www.cnbc.com/id/41626661)    
@@ -23,6 +23,7 @@ Google, and you get back such headlines as
 > [Liberals are Killing the Liberal Arts](http://www.wsj.com/articles/harvey-silverglate-liberals-are-killing-the-liberal-arts-1415573959)   
 > [Conservatives killed the liberal arts](http://www.salon.com/2012/09/14/conservatives_killed_the_liberal_arts/)   
 > [In Our High-Tech World, Are the Liberal Arts Dead?](https://www.stmarys-ca.edu/in-our-high-tech-world-are-the-liberal-arts-dead)   
+> [The Liberal Arts Are Dead; Long Live STEM](http://thefederalist.com/2015/06/02/the-liberal-arts-are-dead-long-live-stem/)   
 > [Jobs: The Economy, Killing Liberal Arts Education](http://www.newsweek.com/jobs-economy-killing-liberal-arts-education-70405)   
 > [The Liberal Arts Major: Would you like fries with that?](http://collegeadmissionbook.com/blog/liberal-arts-major-would-you-fries)   
 
@@ -34,18 +35,42 @@ internal. The headlines make you think something *else* is
 killing liberal education, whether it be liberals or
 conservatives or technology or the economy. And it is hard
 to envision a defense of liberal education without such a
-distinction. For if liberal education itself were somehow
-the threat, then death might well be liberal education's best
-defense, but in defeat. No surprise, then, that
-those of us devoted to liberal education will take its
-threats as if these came from without. For this
-makes most immediate sense of a defense 
-that succeeds only if liberal education survives.
+distinction, even if headlines draw it simplistically. For
+if liberal education itself were somehow the threat, then
+death might well be liberal education's best defense, but in
+defeat. No surprise, then, that those of us devoted to
+liberal education are likely to conceive its threats as if
+these came from outside it. For this makes most immediate
+sense of a defense that succeeds only if liberal education
+survives.
 
 Still, the more seriously you take such threats, the harder
-it can be to cast them in external terms, or capture in
-a headline. And this leads to a kind of paradox. To see what
-I mean, consider [the
+it can be to cast them in external terms, or capture in a
+headline. The fate of liberal education, after all, will not
+be decided in opinion columns, but in choices made by each
+of us, from a first-person vantage-point, about the best
+education. The best education, that is, for *my* son, or
+*my* daughter, or *me*.  In this respect, those of us
+devoted to liberal education are no different from those of
+us dismissive of it. And in this same respect, the threat to
+liberal education cannot lie outside it; for the threat, in
+this sense, is to have answered for ourselves a question,
+perhaps *the* question, that liberal education obliges us to
+ask: what does it mean to be educated?
+
+But liberal education still in
+need of defense from a choice to pursue a STEM field. WE
+have done this by identifying freedom, and in question.) (Ask
+this question to pursue a liberal education, but does this
+mean liberal education is committed to questions or answers
+in being defended.) 
+
+
+From here I should try to describe how this leads to an
+internal threat
+(And this can lead to a kind of paradox:
+maybe put this later? Or rewrite?) To see what I mean,
+consider [the
 announcement](<http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>)
 St. John's College made for a conference it hosted in Santa
 Fe last October. The stated question of the conference was
@@ -71,41 +96,47 @@ announcement begins:
 > crisis, liberal education can reaffirm its relevance and
 > purposes.
 
-To my mind, this is better than a headline. But what makes it better, 
-I think, is that it describes a threat to liberal education
-that cannot be simply escaped or opposed. Which is to say:
-it describes a threat that is finally internal. It is *we*
-who have been led to undervalue the goals of liberal
-studies, and *we* who suffer from a still deeper uncertainty
-and disorientation, since this affects every field of human
-endeavor. But what makes the paragraph compelling, then,
-also makes it paradoxical, once we reach the final sentence.
-For if every field of human endeavor suffers from
-disorientation, then liberal education suffers
-from it. But how, in that case, can it respond at all to the crisis,
-much less precisely? Any response would seem to require
-orientation, even in the throes of a disorientation having
-reached the point of crisis. Here, then, we see how speaking
-on behalf of liberal education means distinguishing it from
-from what threatens it, even when the threat is internal.
-But we are thus forced to talk paradoxically as if liberal
-education were at once included in yet excluded from the
-threat. 
+To my mind, this is better than a headline, and even
+compelling, so far as it goes. Not because it is longer than
+a headline, or more detailed; but because it describes
+a threat to liberal education that cannot be simply escaped
+or opposed. Which is to say: it describes a threat that is
+finally internal. It is *we* who have been led to undervalue
+the goals of liberal studies, and *we* who suffer from
+a still deeper uncertainty and disorientation, since this
+affects every field of human endeavor. But what makes the
+paragraph compelling also makes it paradoxical, once we
+reach the final sentence. For if every field of human
+endeavor suffers from disorientation, then liberal education
+suffers from it. But how, in that case, can it respond at
+all to the crisis, much less precisely? Any response would
+seem to require orientation, even in the throes of
+a disorientation having reached the point of crisis. Here,
+then, we see how speaking on behalf of liberal education
+means distinguishing it from what threatens it, even
+when the threat is internal. But we are thus forced to talk
+in a kind of paradox: as if liberal education were at once
+included in yet excluded from the threat. 
 
-How to resolve this paradox? That is, how do we talk
-not just paradoxically, but intelligibly, about liberal
-education's powers of guidance in a time of disorientation?
-It is this question that prompts my worry, along with the title of
-my lecture. My worry is that we have found a way of
-talking that we take to be intelligible, but which in truth
-is unintelligible, and a sign of disorientation in the
-mistake. And what makes it unintelligible, finally, is its
-having lost the idea of a liberal art. Or to put this less
-elliptically: we have found a way of talking on behalf
-of liberal education, of defending it, that 
-effectively divorces it from any conception of the
-liberal arts. And this divorce has made our defense *seem*
-sensical, yet *be* nonsensical. 
+How to resolve this paradox? That is, how do we talk not
+just paradoxically, but intelligibly, about liberal
+education's powers of guidance in a time of confusion? Or
+more generally, how do we defend liberal education against
+threats that (put sentence above capturing internality of
+issue.) a matter not of what
+*others* think or do, but what *we* think or do. These are the questions
+that cause my worry, and prompt the title of my lecture.
+(Mention looking up other search terms to save liberal
+education.) My worry is that we have found a way of talking
+that we take to be intelligible, but which in truth is
+unintelligible, and a sign of disorientation in the mistake.
+And what makes it unintelligible, finally, is its having
+lost the idea of a liberal art. Or to put this less
+elliptically: we have found a way of talking on behalf of
+liberal education, of defending it, that effectively
+divorces it from any conception of the liberal arts. And
+this divorce has made our defense *seem* sensical, yet *be*
+nonsensical. 
 
 To accuse us of nonsense is no small charge, of course. And
 there is no case to make for it, I think, that can put it
