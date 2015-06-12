@@ -37,9 +37,9 @@ conservatives or technology or the economy. And it is hard
 to envision a defense of liberal education without such a
 distinction, even if headlines draw it simplistically. For
 if liberal education itself were somehow the threat, then
-death might well be liberal education's best defense, but in
+death might well be liberal education's best defense. But in
 defeat. No surprise, then, that those of us devoted to
-liberal education are likely to conceive its threats as if
+liberal education are wont to conceive its threats as if
 these came from outside it. For this makes most immediate
 sense of a defense that succeeds only if liberal education
 survives.
@@ -58,12 +58,17 @@ this sense, is to have answered for ourselves a question,
 perhaps *the* question, that liberal education obliges us to
 ask: what does it mean to be educated?
 
-But liberal education still in
-need of defense from a choice to pursue a STEM field. WE
-have done this by identifying freedom, and in question.) (Ask
-this question to pursue a liberal education, but does this
-mean liberal education is committed to questions or answers
-in being defended.) 
+Harder to cast in external terms, harder to defend as if in
+external terms. (And this is my worry.) Bring up question of
+how to defend liberal education against this threatBut
+liberal education still in need of defense from a choice to
+pursue a STEM field, lest we take this to be liberal
+education. WE have done this by identifying freedom, and in
+question.) (Ask this question to pursue a liberal education,
+but does this mean liberal education is committed to
+questions or answers in being defended.)  Squeamish about
+saying STEM fields aren't education. Reasonable to say:
+answer is wrong.
 
 
 From here I should try to describe how this leads to an
