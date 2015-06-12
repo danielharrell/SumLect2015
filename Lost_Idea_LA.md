@@ -61,26 +61,49 @@ behalf: What does it mean to be educated? And to have
 answered this question by turning away from liberal
 education, is perhaps the best evidence we have that the
 question is real. The death of liberal education would thus
-prove its life, and might be the only proof of life. 
+prove its life, and might be the only proof of life, and the
+only conclusion.  
 
-But again, those of us devoted to liberal education are
-unlikely to want its death. But if the threat to it comes
-finally from within, then what becomes of its defense? What
-does it mean, what should it mean, for liberal education to
-survive such a threat, or maintain itself against such a
-threat? I hope you can see the paradox. Even raising this
-question makes the threat seem once again external, (speak
-intelligibly rather than paradoxically) by opposing it to
-liberal education, a sign of the challenge of defense. cast
-this internal threat in external terms, My way of putting
-this question shows how easy it is to cast even internal
-threats in external terms. conceive hard it is  suggests
-opposition...  By which I mean, of course, a defense f each
-of us asked the question "what does it mean to be educated?"
-and none of us answered it by pursuing a liberal education,
-no one pursued a liberal education when answerng the
-question "what does it mean to be educated?" then  There is
-a challenge here, and I think
+Then again, those of us devoted to liberal education are
+unlikely to want its death. But what, then, becomes of its
+defense? If the threat to liberal education comes finally
+from within, in a question for each of us about the meaning
+of education, then what in turn does it mean---what should
+it mean---for liberal education to survive such a threat? Or
+maintain itself against such a threat? Or have I not just
+made the internal threat external, by opposing liberal
+education to what ails it, in trying to makes sense of
+a future in which liberal education still exists? It is once
+again hard to envision a defense of liberal education
+without taking the threat to be external, even when the threat
+is internal. And this difficulty suggests a paradox at the
+heart of any defense: for if the threat is to be real, but
+not fatal, perhaps it has to be taken as internal and
+external at once.
+
+But how? How to speak not just paradoxically, but
+intelligibly, etc. 
+
+I hope you can see
+the paradox. Even raising this question makes the threat
+seem once again external, (speak intelligibly rather than
+paradoxically) by opposing it to liberal education, a sign
+of the challenge of defense. cast this internal threat in
+external terms, My way of putting this question shows how
+easy it is to cast even internal threats in external terms.
+conceive hard it is  suggests opposition...  By which I
+mean, of course, a defense f each of us asked the question
+"what does it mean to be educated?" and none of us answered
+it by pursuing a liberal education, no one pursued a liberal
+education when answerng the question "what does it mean to
+be educated?" then  There is a challenge here, and I think
+
+Question defines internality. Answer defines externality,
+and indeed a certain way of envisioning the world (where
+freedom has a place.) Problem: we don't go external, but
+stay internal. What resolves the paradox is to say: an
+internal threat makes for an external solution. (Hmm, this
+isn't quite right.)  
 
 thenits defense, it would seem,  what can be said in its defense? on its behalf, in its
 defense? ow to defend it? For it seems the
