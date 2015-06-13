@@ -4,16 +4,15 @@
 ## Introduction
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
-Art," is meant to express a worry I have about the
-prospects of liberal education. To have worries at
-all, of course, has become reflexive among those of us in
-any way devoted to this education, whether we be students of
-it, teachers of it, or in some other form stewards of it.
-And there is no end these days, it seems, to the think-pieces 
-pondering the decline of liberal education, even 
-prophesying its death. Type the words "death of
-liberal education" into Google, and you get back such
-headlines as
+Art," is meant to express a worry I have about the prospects
+of liberal education. To have worries at all, of course, has
+become reflexive among those of us in any way devoted to
+this education, whether we be students of it, teachers of
+it, or in some other form stewards of it. And there is no
+end these days to think-pieces pondering the decline of
+liberal education, if they are not prophesying its death.
+Type the words "death of liberal education" into Google, and
+you get back such headlines as
 
 > [Why Liberal Arts Education is Dying (or Already Dead)](http://www.aleteia.org/en/education/documents/why-liberal-arts-education-is-dying-or-already-dead-228015)   
 > [Is the Four-Year, Liberal-Arts Education Model Dead?](http://www.cnbc.com/id/41626661)    
@@ -44,50 +43,49 @@ from outside it. For this justifies a defense that succeeds
 only if liberal education survives.
 
 Still, the more seriously you take such threats, the harder
-it can be to cast them in external terms, or capture in
-a headline. The fate of liberal education, after all, will
-not be decided in opinion columns, but in choices made by
-each of us about the best education, once education matters.
-Not the best education, then, in general, as such, *per se*;
-but the best education for my daughter, or my son, or me.
-Once education is a matter of mine to decide, those of us
-devoted to liberal education are no different from those of
-us dismissive of it. And in this respect, which to my mind
-is definitive, the threat to liberal education comes from
-liberal education itself. For to choose otherwise in the
-pursuit of education is in effect to have answered
-a question that a liberal education obliges each of us to
-ask, and ask on our own behalf: What does it mean to be
-educated? And that we can answer this question in a choice
-*against* liberal education, putting it at risk of
-extinction if the same choice is made repeatedly and
-resolvedly, is perhaps the best evidence we have that the
-question is real, not rhetorical. The death of liberal
-education, so understood, would be proof of its life, and
-perhaps the only proof of life. 
+it can be to cast them in external terms, or capture in a
+headline. The fate of liberal education, after all, will not
+be decided in opinion columns, but in choices made by each
+of us about the best education, once education matters. Not
+the best education, then, in general, as such, *per se*; but
+the best education for my daughter, or my son, or me. Once
+education is a matter of mine to decide, those of us devoted
+to liberal education are no different from those of us
+dismissive of it. And in this respect, which to my mind is
+definitive, the threat to liberal education can never come
+from outside it. For to pursue an education at all, liberal
+or no, is to have answered a question that a
+liberal education obliges each of us to ask, and ask on our
+own behalf: What does it mean to be educated? And that we
+can answer this question in a choice *against* liberal
+education, putting it at risk of extinction if the same
+choice is made repeatedly and resolvedly, is perhaps the
+best evidence we have that the question is real. 
+The death of liberal education, so understood,
+would be proof of its life, and perhaps the only proof of
+life. 
 
 But again, those of us devoted to liberal education are
 unlikely to wish its death at all, much less just to show we
-were devoted to something rather than nothing. But what,
-in that case, becomes of its defense? If the threat to liberal
-education arises finally from itself, in a question 
-for each of us about the meaning of education th, (this should be clarified to
-suggest that what it means to be educated, if it is a real question,
-has then what in turn does
-it mean---what should it mean---for liberal education to
-survive such a threat? Or maintain itself against such
-a threat? Or have I not just made the internal threat
-external, by opposing liberal education to what ails it, in
-trying to makes sense of a future in which liberal education
-still exists? It is once again hard to envision a defense of
-liberal education without such an opposition, where the
-threat is treated as external even when internal. And this
-difficulty suggests a paradox at the heart of any defense:
-for if the threat is to be real, but not fatal, perhaps it
-has to be taken as internal and external at once.
-
-But how? How to speak not just paradoxically, but
-intelligibly, etc. 
+were devoted to something rather than nothing. But what, in
+that case, becomes of its defense? Suppose the threat to
+liberal education does come from itself, in a question it
+would have us raise for ourselves, and answer for ourselves,
+about the meaning of education. What in turn could it
+mean---and what should it mean---for liberal education to
+survive this threat? Or overcome this threat? Or maintain
+itself against this threat? And how could a defense of
+liberal education even address this threat without facing
+it, and thus opposing it, but then treating it, an internal
+threat, as if it were external? Even my questions treat the
+threat this way, as something to survive or overcome or
+maintain oneself against, as I try to conceive of a future
+in which liberal education still exists. And this suggests a
+paradox at the heart of any defense: for if the threat in
+this case is to be real, but not fatal, perhaps it has to be
+taken as internal and external at once. But how? How, that
+is, not just paradoxically, but intelligibly, even
+resolutely?  
 
 I hope you can see
 the paradox. Even raising this question makes the threat
