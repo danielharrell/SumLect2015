@@ -69,23 +69,30 @@ But again, those of us devoted to liberal education are
 unlikely to wish its death at all, much less just to show we
 were devoted to something rather than nothing. But what, in
 that case, becomes of its defense? Suppose the threat to
-liberal education does come from itself, in a question it
+liberal education does come from within, in a question it
 would have us raise for ourselves, and answer for ourselves,
 about the meaning of education. What in turn could it
-mean---and what should it mean---for liberal education to
-survive this threat? Or overcome this threat? Or maintain
-itself against this threat? And how could a defense of
-liberal education even address this threat without facing
-it, and thus opposing it, but then treating it, an internal
-threat, as if it were external? Even my questions treat the
-threat this way, as something to survive or overcome or
-maintain oneself against, as I try to conceive of a future
-in which liberal education still exists. And this suggests a
-paradox at the heart of any defense: for if the threat in
-this case is to be real, but not fatal, perhaps it has to be
-taken as internal and external at once. But how? How, that
-is, not just paradoxically, but intelligibly, even
-resolutely?  
+mean---what should it mean---to defend liberal education
+*against* this threat? Even my way of putting this question
+casts the threat in external terms, and suggests there is no
+way to avoid this if a defense is to be made. But how to do this,
+then, without falsifying the sense in which the
+threat is finally internal? (From here, indicate what I think is
+the only answer to this question.)
+
+. challenge, it seems to me, is
+then to do it  o defend liberal education from the theraAnd
+how could a defense of liberal education even address this
+threat without facing it, and thus opposing it, but then
+treating it, an internal threat, as if it were external?
+Even my questions treat the threat this way, as something to
+survive or overcome or maintain oneself against, as I try to
+conceive of a future in which liberal education still
+exists. And this suggests a paradox at the heart of any
+defense: for if the threat in this case is to be real, but
+not fatal, perhaps it has to be taken as internal and
+external at once. But how? How, that is, not just
+paradoxically, but intelligibly, even resolutely?  
 
 I hope you can see
 the paradox. Even raising this question makes the threat
