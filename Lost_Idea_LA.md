@@ -4,7 +4,7 @@
 ## Introduction
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
-Art," is meant to express a worry I have about the prospects
+Art," is meant to express a worry I have about the future
 of liberal education. To have worries at all, of course, has
 become reflexive among those of us in any way devoted to
 this education, whether we be students of it, teachers of
@@ -29,7 +29,7 @@ you get back such headlines as
 All these headlines, I think, have one thing in common.
 While they may disagree about the threat to liberal
 education, they agree in distinguishing liberal education
-from the threat, as if the threat were external to it. The
+from the threat, as if the threat were external. The
 headlines make you think something *else* is killing liberal
 education, whether it be liberals or conservatives or
 technology or the economy. And it is hard to envision
@@ -43,42 +43,96 @@ from outside it. For this justifies a defense that succeeds
 only if liberal education survives.
 
 Still, the more seriously you take such threats, the harder
-it can be to cast them in external terms, or capture in a
-headline. The fate of liberal education, after all, will not
-be decided in opinion columns, but in choices made by each
-of us about the best education, once education matters. Not
-the best education, then, in general, as such, *per se*; but
-the best education for my daughter, or my son, or me. Once
-education is a matter of mine to decide, those of us devoted
-to liberal education are no different from those of us
-dismissive of it. And in this respect, which to my mind is
-definitive, the threat to liberal education can never come
-from outside it. For to pursue an education at all, liberal
-or no, is to have answered a question that a
-liberal education obliges each of us to ask, and ask on our
-own behalf: What does it mean to be educated? And that we
-can answer this question in a choice *against* liberal
+it can be to cast them in external terms, or capture in
+a headline. The fate of liberal education, after all, will
+not be decided in opinion columns, but in choices made by
+each of us about the best education, once education matters.
+Not the best education, then, in general, as such, *per se*;
+but the best education for my daughter, or my son, or me.
+Once education is a matter of mine to decide, those of us
+devoted to liberal education are no different from those of
+us dismissive of it. And in this respect, which to my mind
+is definitive, the threat to liberal education can never
+come from outside it. For to pursue an education at all,
+liberal or no, is to have answered a question that a liberal
+education obliges each of us to ask, and ask on our own
+behalf: What does it mean to be educated? And that we can
+answer this question in a choice *against* liberal
 education, putting it at risk of extinction if the same
 choice is made repeatedly and resolvedly, is perhaps the
-best evidence we have that the question is real. 
-The death of liberal education, so understood,
-would be proof of its life, and perhaps the only proof of
-life. 
+best evidence we have that the question is real, and the
+threat to liberal education intrinsic to it. The
+death of liberal education, so understood, would similarly come
+from within, in a proof of its life, and perhaps the only
+proof of life.
 
 But again, those of us devoted to liberal education are
 unlikely to wish its death at all, much less just to show we
 were devoted to something rather than nothing. But what, in
 that case, becomes of its defense? Suppose the threat to
 liberal education does come from within, in a question it
-would have us raise for ourselves, and answer for ourselves,
+would have us ask for ourselves, and answer for ourselves,
 about the meaning of education. What in turn could it
 mean---what should it mean---to defend liberal education
 *against* this threat? Even my way of putting this question
 casts the threat in external terms, and suggests there is no
-way to avoid this if a defense is to be made. But how to do this,
-then, without falsifying the sense in which the
-threat is finally internal? (From here, indicate what I think is
-the only answer to this question.)
+way of avoiding this if a defense is to be made. But how to
+do this, then, without falsifying the sense in which the
+threat is finally internal? 
+
+It is this question that prompts my worry. For there is only
+one answer to this question, so far as I can tell. And indeed
+there is something about what it means to be an answer implicit
+in it, since it requires us to identify liberal education as an answer
+to the question, what does it mean to be educated? . There is only one answer to this question, so far as I can
+tell. I think, that is simple, direct, and even obvious. The
+threat to liberal education is internal, so we supposed,
+insofar as it comes from a question about the meaning of
+education that we must ask and answer for ourselves, and may
+well answer in a choice against liberal education. But we
+may also answer this question in a choice *for* liberal
+education, which thus represents a second answer to the
+question, opposed to the first. And in this opposition, an
+opposition of answers, we could say that the treat to
+liberal education is external. In answering this question
+for ourselves, we run the risk of being wrong. 
+
+he treat to liberal education is thus external, insofar
+as it comes from an *answer* to the question about the meaning 
+of education, to which liberal education is indeed opposed, rather
+than internal, it would seem, insofar as it comes from an answer
+rather than question about the meaning of education. Liberal education is opposed to its threat as
+one answer is opposed to another. ether. And this suggests
+that the threat to liberal education is external insofar as
+it comeswhich is to say, by choosing liberal education. but
+external insofar as it comes from an answer to that
+question. about the meaning of question. , that liberal
+education would have us raise for ourselves, and answer for
+ourselves.  But if one answer proving the question is real
+is that we may renounce And this question is real insofar as
+we can answer it in a choice against liberal education. But
+if so, then the question is also real insofar as we can
+answer it in a choice for liberal education. And this means
+that liberal education provides an answer to the question it
+would have us pose, about the meaning of education. And it
+is in this sense, the sense in which liberal education
+represents not just a question about education, but an
+answer to it, that the threat to liberal education is
+external:  is opposed to what threatens it, , the sense in
+which liberal education can serve as an answer, and not
+merely a question And this means that liberal education And
+it is in this sense, the sense in which liberal education
+can be identified not just with a question about the meaning
+of education, but an answer, represents not just a question
+about the meaning of education, but an answer to it,tion
+would have us raise for ouYet this answer, I worry, is one
+that defenders of liberal education refuse to give; and what
+they offer in its place in essence risks putting the answer
+they ought to give out of reach. ses of liberal education is
+what causes my worry about the future of liberal education,
+and prompts the title of my lecture. The answer,
+essentially, is this. is this question that causes my worry,
+and prompts the title of my lecture.  
 
 . challenge, it seems to me, is
 then to do it  o defend liberal education from the theraAnd
