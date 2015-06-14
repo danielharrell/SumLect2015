@@ -70,47 +70,75 @@ unlikely to want this death, especially just to show we were
 devoted to something rather than nothing. But what, in that
 case, becomes of its defense? Suppose the threat to liberal
 education does come from within, in a question it would have
-us ask for ourselves about the meaning of education. What in
-turn could it mean---what should it mean---to defend liberal
-education *against* this threat? Even my way of putting this
-question casts the threat in external terms, and suggests
-there is no way of avoiding this if a defense is to be made.
-But how to do this, then, without falsifying the sense in
-which the threat is finally internal? 
+us ask for ourselves about what it means to be educated.
+What in turn could it mean---what should it mean---to defend
+liberal education *against* this threat? Even my way of
+putting this question, and my use of "against," casts the
+threat in external terms, and suggests there is no way of
+avoiding this if a defense is to be made. But how to make
+it, then, without falsifying the sense in which the threat
+is finally internal?  
 
 Here is my best brief stab at an answer. I give it now,
 because it leads to my worry about the future of liberal
-education, and prompts my lecture's title. The threat to
-liberal education is internal---so we supposed, and so
-I believe---insofar as it comes from a question about what
-it means to be educated that we must ask for ourselves, and
-may well answer in a choice against liberal education. But
-then again, we may well answer this question otherwise, by
-choosing liberal education. Liberal education would thus be
-a second answer to the question, opposed to the first. And
-in *this* opposition, an opposition of answers, we could say
-that the threat to liberal education is indeed external. But
-if liberal education then has a future, in surviving this
-threat, it will not be in provoking a question about the
+education. The threat to liberal education is internal---so
+we supposed, and so I believe---insofar as it comes from
+a question about what it means to be educated that we must
+ask for ourselves, and may well answer in a choice against
+liberal education. But then again, we may well answer this
+question otherwise, by choosing liberal education. Liberal
+education would thus be a second answer to the question,
+opposed to the first. And in *this* opposition, an
+opposition of answers, we could say that the threat to
+liberal education is indeed external. 
+
+
+But if liberal education then has a future, by surviving
+this threat, it not be in provoking a question about the
 meaning of education, but rather in providing an answer. And
-if there is any defense of liberal education to help secure
-this future, it will be one that convinces us of this
-answer. Which means at minimum: a defense that convinces us
-liberal education *is* an answer, even for those who give
+if there is a defense of liberal education to help secure
+its future, it will be one that convinces us of this answer.
+Which means at minimum: a defense that convinces us liberal
+education *is* an answer, even for those who give
 a different answer. It will be a defense which, at the very
 least, shows that something is lost in a choice against
 liberal education, whatever might be gained; and that the
 answer we give in such a choice, about the meaning of
 education, risks being wrong. 
 
-And the only way to satisfy this minimal condition, it seems
-to me, is to show that there is something studied in
-liberal education, and something learned, which would
-otherwise go unstudied and unlearned. Which is to say, that
-liberal education has a subject-matter. Or in a word: content.
-And insofar (from here, go on to identify this content with
-liberal arts, so defense will have to make a case for them. Then
-talk about defenses nowadays, and how they fail by these measures.). 
+(Here is where my worry starts.) But the only way to satisfy
+this minimal condition, it seems to me, is to show that
+there is something studied in liberal education, and
+something learned, which would otherwise go unstudied and
+unlearned. To show, in short, that liberal education has
+a subject-matter. Or in a word: content. Traditionally, as
+most of you no doubt know, this content was identified with
+seven liberal arts, a so-called *trivium* of grammar, logic,
+and rhetoric; and a *quadrivium* of arithmetic, geometry,
+music, and astronomy. (Perhaps mention conjoining of skill
+and subject.) And together, these arts were thought to form
+a whole. This is why one could say there was *something* to
+study and learn in a liberal education, rather than many
+things, or anything, or nothing.  And the only wayo even if
+we find this particular list of liberal arts outdated, and
+i And the only way to show that liberal education has
+content, it seems to me, is through some such
+identification, even if we find this one outdated. This list
+of liberal arts thus gives us an example of what , even if
+we wish to set a different example, of what it means to talk
+about the content of a liberal education. Something as
+robust as this.
+
+Second part of paper: why denial of content: because of a tension
+between content and freedom. Mention De Anima, nothing before becoming
+form of something else, no place for freedom. 
+
+. (Talk of what goes missing in the defense,
+starting with liberal arts, moving to content,
+subject-matter, and finally an answer.)And insofar (from
+here, go on to identify this content with liberal arts, so
+defense will have to make a case for them. Then talk about
+defenses nowadays, and how they fail by these measures.). 
 
 Or to put this minimal condition another way: it will be
 a defense that convinces us liberal education has a content.
