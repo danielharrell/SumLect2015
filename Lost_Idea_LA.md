@@ -5,13 +5,13 @@
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the future
-of liberal education; and the lecture itself, to explain that
+of liberal education. And the lecture itself is meant to explain that
 worry. To have worries at all, of course, has
 become reflexive among those of us in any way devoted to
 this education, whether we be students of it, teachers of
 it, or in some other form stewards of it. And there is no
-end these days to think-pieces pondering the decline of
-liberal education, if they are not prophesying its death.
+end these days, so it seems, to think-pieces pondering the decline of
+liberal education, to the point of prophesying its death.
 Type the words "death of liberal education" into Google, and
 you get back such headlines as
 
@@ -91,20 +91,24 @@ well answer this question otherwise, by choosing liberal
 education. Liberal education would thus be a second answer
 to the question, opposed to the first. And in *this*
 opposition, an opposition of answers, we could say that the
-threat to liberal education is indeed external. 
+threat to liberal education is indeed external; even if
+both are answers to the same question, and the threat to liberal
+education in this sense remains internal. 
 
-But if liberal education then has a future, by surviving
-this threat, it will not be in provoking a question about the
-meaning of education, but rather in providing an answer. And
-if there is a defense of liberal education to help secure
-this future, it will be one that convinces us of this answer.
-Which means at minimum: a defense that convinces us liberal
-education *is* an answer, even for those who give
-a different answer. It will be a defense which, at the very
-least, shows that something is lost in a choice against
-liberal education, whatever might be gained; and that the
-answer we give in such a choice, even if it turns out right, 
-risks being wrong. 
+But if liberal education then has a future, it will be in
+facing, meeting, and defeating this threat, or otherwise surviving it.
+Which is to say: in treating the threat as external. And
+this means that liberal education's future depends not on
+provoking a question about the meaning of education, but
+rather on providing an answer. And if there is a defense of
+liberal education to help secure this future, it will be one
+that convinces us of this answer. Which means at minimum:
+a defense that convinces us liberal education *is* an
+answer, even for those who give a different answer. It will
+be a defense which, at the very least, shows that something
+is lost in a choice against liberal education, whatever
+might be gained; and that the answer we give in such
+a choice, even if it turns out right, risks being wrong. 
 
 And the only way to satisfy this minimal condition, it seems
 to me, is to show that there is something studied in liberal
@@ -119,31 +123,37 @@ astronomy. Each of these arts was thought to conjoin a skill
 with a subject. And together, these arts were thought to
 form a whole. This is why one could say there was
 *something* to study and learn in a liberal education,
-rather than many things, or anything, or nothing. This is
-also why one can say, I think, that there is something in
-the *idea* of a liberal art that we cannot lose in making
-sense of liberal education's content, even if we find the
-traditional list of liberal arts now outdated. Something
-else must take its place (in our defense - but perhaps drop
-this qualifier, then pointing out that it isn't just in a
-defense of liberal education, but in liberal education, that this
-can happen, so that not only will no future be secured, but there
-will be no future.) that still makes
-sense, even if different sense, of what it is we study and
-learn in a liberal education. And if nothing else takes its
-place, then we will have lost the idea of
-a liberal art, meaning that no sense is made of liberal
-education's content; no sense is made of liberal education
-more generally as an answer to the question what it means to
-be educated; and no sense is made, then, of any mistake or
-loss in a choice against liberal education. Or to put all this
-more briefly: if we lose the idea of a liberal art in this sense,
-we will have lost any defense of liberal education that can help it
-have a future. , secure
-its future, ca
+rather than many things, or anything, or nothing. 
 
-Now move on to claim that we have indeed lost this idea. And lost,
-in a denial of content. 
+This is also why one can say still, I think, that there is
+something in the *idea* of a liberal art that we cannot lose
+in making sense of liberal education's content, even if we
+find the traditional list of liberal arts outdated.
+Something else must take its place that still makes sense,
+even if different sense, of what a liberal education would
+have us study and learn. And if nothing else takes its
+place, then I think it fair to say we will have lost the
+idea of a liberal art. And this will mean that no sense is
+made of liberal education's having a content; no sense is
+made of liberal education more generally as an answer to
+the question what it means to be educated; and no sense is
+made in turn of any mistake or loss in a choice against
+liberal education. But to have lost the idea of a liberal
+art, then, is to have lost any defense of liberal education
+that might help secure its future, and indeed any reason to
+suppose that liberal education has a future. 
+
+Which brings me, at last, to the worry expressed in my
+lecture's title. For I worry that the idea of a liberal art
+has indeed been lost. 
+
+There are, of course, many defenses of liberal education,
+including a recent book, by Fareed Zakaria, bearing the
+title "A Defense of Liberal Education." (Also mention
+article that suggests the defenses of liberal arts aren't
+working.) Also, you don't know what it is until you have
+experienced it yourself. Now move on to claim that we have
+indeed lost this idea. And lost, in a denial of content. 
 
 Second part of paper: why denial of content: because of a tension
 between content and freedom. Mention De Anima, nothing before becoming
