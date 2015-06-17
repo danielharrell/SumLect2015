@@ -4,16 +4,16 @@
 ## Introduction
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
-Art," is meant to express a worry I have about the future
-of liberal education. And the lecture itself is meant to explain that
-worry. To have worries at all, of course, has
-become reflexive among those of us in any way devoted to
-this education, whether we be students of it, teachers of
-it, or in some other form stewards of it. And there is no
-end these days, so it seems, to think-pieces pondering the decline of
-liberal education, to the point of prophesying its death.
-Type the words "death of liberal education" into Google, and
-you get back such headlines as
+Art," is meant to express a worry I have about the future of
+liberal education. And the lecture itself is meant to
+explain that worry, and, I hope, to justify it. To have
+worries at all, of course, has become reflexive among those
+of us in any way devoted to this education, whether we be
+students of it, teachers of it, or in some other form
+stewards of it. And there is no end these days, it seems, to
+prophecies, or even pronouncements, of death. Type the words
+"death of liberal education" into Google, and you get back
+such headlines as
 
 > [Why Liberal Arts Education is Dying (or Already Dead)](http://www.aleteia.org/en/education/documents/why-liberal-arts-education-is-dying-or-already-dead-228015)   
 > [Is the Four-Year, Liberal-Arts Education Model Dead?](http://www.cnbc.com/id/41626661)    
@@ -50,19 +50,19 @@ not be decided in opinion columns, but in choices made by
 each of us about the best education, once education matters.
 Not the best education, then, in general, as such, *per se*;
 but the best education for my daughter, or my son, or me.
-Once education is a matter of mine to decide, those devoted
-to liberal education are no different from those dismissive
-of it. And in this respect, to my mind decisive,
-the threat to liberal education can never come from outside
-it. To pursue an education at all, liberal or no, is to have
-answered a question that a liberal education obliges each of
-us to ask, and ask on our own behalf: What does it mean to
-be educated? That we can answer this question in a choice
-*against* liberal education, putting it at risk of
-extinction if the same choice is made repeatedly and
-resolvedly, is perhaps the best evidence we have that the
-question is real, and the threat to liberal education
-therefore intrinsic to it. The death of liberal education, so
+Yet in having to make such choices, those devoted to liberal
+education are no different from those dismissive of it.  And
+in this respect, to my mind decisive, the threat to liberal
+education can never lie outside it. To pursue an education
+at all, liberal or no, is to have answered a question that
+a liberal education obliges each of us to ask, and ask on
+our own behalf: What does it mean, in the end, to be
+educated? We might well answer this question in a choice
+*against* liberal education, even at the risk of its
+extinction, if the same choice is made repeatedly. But this
+is perhaps the best evidence we have that the question is
+real, and the threat to liberal education therefore
+intrinsic to it. The death of liberal education, so
 understood, would similarly come from within, in a proof of
 its life, and perhaps the only proof of life.
 
@@ -80,41 +80,40 @@ avoiding this if a defense is to be made. But how to make
 it, then, without falsifying the sense in which the threat
 is finally internal?  
 
-Here is my best brief stab at an answer. I give it now,
-before saying why it causes my worry about liberal
-education's future. The threat to liberal education is
-internal---so we supposed, and so I believe---insofar as it
-comes from a question about what it means to be educated
-that we must ask for ourselves, and may well answer in
-a choice against liberal education. But then again, we may
-well answer this question otherwise, by choosing liberal
-education. Liberal education would thus be a second answer
-to the question, opposed to the first. And in *this*
-opposition, an opposition of answers, we could say that the
-threat to liberal education is indeed external; even if both
-are answers to the same question, and the threat to liberal
-education in this sense remains internal. 
+Here is what strikes me as the simplest answer to this
+question, and the best, so far as it goes. The threat to
+liberal education is internal---so we supposed, and so
+I believe---insofar as it comes from a question about what
+it means to be educated that we must ask for ourselves, and
+may well answer in a choice against liberal education. But
+then again, we may well answer this question otherwise, by
+choosing liberal education. Liberal education would thus
+represent a second answer to the question, opposed to the
+first. The threat, then, remains internal, insofar as both
+answers are to the same question; but the threat becomes
+external insofar as one answer opposes the other.
 
-But if liberal education then has a future, it will be in
-facing, meeting, and defeating this threat, or otherwise surviving it.
-Which is to say: in treating the threat as external. And
-this means that liberal education's future depends not on
-provoking a question about the meaning of education, but
-rather on providing an answer. And if there is a defense of
-liberal education to help secure this future, it will be one
-that convinces us of this answer. Which means at minimum:
-a defense that convinces us liberal education *is* an
-answer, even for those who give a different answer. It will
-be a defense which, at the very least, shows that something
-is lost in a choice against liberal education, whatever
-might be gained; and that the answer we give in such
-a choice, even if it turns out right, risks being wrong. 
+This way of thinking about the threat as external, while
+simple, implies something important, I think, about what it
+means to defend liberal education against the threat, so
+understood. For this defense, to have any chance of success,
+will have to convince us that liberal education does provide
+an answer to the question of what it means to be educated,
+even for those who give a different answer. And to do this,
+the defense will have to show that something is lost in
+a choice against liberal education, whatever might be
+gained; and that the answer we give in such a choice, even
+if it turns out right, risks being wrong. But the only way
+to show this, so far as I can tell, is to show that there is
+something studied in liberal education, and something
+learned, which would otherwise go unstudied and unlearned.
+To show, in short, that liberal education has
+a subject-matter. Or in a word: content. 
 
-And the only way to satisfy this minimal condition, it seems
-to me, is to show that there is something studied in liberal
-education, and something learned, which would otherwise go
-unstudied and unlearned. To show, in short, that liberal
-education has a subject-matter. Or in a word: content.
+(Present problem in this paragraph, then go on to use
+traditional liberal arts as example of problem, but this
+clarifies the sense in which I want to speak of an idea of
+liberal art, as opposed to the matter of liberal art.)
 Traditionally, as most of you no doubt know, this content
 was identified with seven liberal arts, a so-called
 *trivium* of grammar, logic, and rhetoric; and
@@ -123,27 +122,53 @@ astronomy. Each of these arts was thought to conjoin a skill
 with a subject. And together, these arts were thought to
 form a whole. This is why one could say there was
 *something* to study and learn in a liberal education,
-rather than many things, or anything, or nothing. 
+rather than many things, or anything, or nothing.  But if we
+established this curriculum in schools today, many of you,
+I think, would suspect it of being a form of indoctrination,
+with a history of oppression. To graduate as a product of
+one's education rather than a possesor of it. Risk of
+content more generally compromising freedom. Be open rather
+than closed. Questions rather than answers. The  word "liberal" in
+liberal education. Perhaps this particular list
+is outdated. Something else must take its place that still
+makes sense, even if different sense, of a liberal
+education's content. This is also why I think one can still
+say something on behalf of , I think, that there is
+something in the *idea* of a liberal art that cannot be lost
+if we are to make any sense of liberal education's content,
+And if nothing takes its place, then I think it fair to say
+we will have lost the idea of a liberal art, and everything
+that goes with it. Which means that no sense is made of
+liberal education's content; no sense is made of liberal
+education more generally as an answer to the question what
+it means to be educated; and no sense is made made in turn
+of any loss or mistake in a choice against liberal
+education. But to have lost the idea of a liberal art, then,
+is to have lost any defense of liberal education that might
+help secure its future, and indeed any reason to suppose
+that liberal education has a future.
 
-This is also why one can say, I think, that there is
-something in the *idea* of a liberal art that we cannot lose
-in making sense of liberal education's content, even if we
-find the traditional list of liberal arts outdated.
-Something else must take the place of this list that still makes sense,
-even if different sense, of what a liberal education would
-have us study and learn. If nothing else takes its
-place, then I think it fair to say we will have lost the
-idea of a liberal art. And this will mean that no sense is
-made of liberal education's content; no sense is
-made of liberal education more generally as an answer to
-the question what it means to be educated; and no sense is
-made in turn of any mistake or loss in a choice against
-liberal education. But to have lost the idea of a liberal
-art, then, is to have lost any defense of liberal education
-that might help secure its future, and indeed any reason to
-suppose that liberal education has a future. 
+Point to questions as sense of liberal education not having
+content. But then challenge is to resolve this: the sort of
+content that delivers us to freedom, rather simply involving
+the exercise of freedom. Not to give up on content. A risk,
+then, that we will lose the idea of a liberal art in an act
+of forgetting. Especially if it is a choice between freedom
+and servitude. Have paragraph here that describes challenge
+to this, in relation to freedom. How one reason old list of
+liberal arts outdated is because it made students the
+product rather than possessor of education. Also appeal to
+question. Stamped as gentleman. Link this to Meno: question
+about inquiry: desire to satisfy your wants, have power to
+satisfy them, a certain kind of impotence described.
+Socrates encounter with slave boy doesn't counter this,
+since, after all, boy is still a slave. Perhaps also link to
+Santayana, and the singing of a note freely vs singing it in
+a song. Also speak of how this produces a kind of internal
+external threat, where idea is lost because of a certain
+understanding of freedom. 
 
-Which brings me, at last, to the worry expressed in my
+Which brings me to the worry expressed in my
 lecture's title. For while I have been speaking of liberal
 education's defense in the abstract, there is no shortage of
 defenses in the concrete. Type the words "defense of liberal
@@ -163,7 +188,9 @@ president.[^blogs] There have been campaigns to defend
 liberal education, with slogans like *Securing America's
 Future: The Power of Liberal Arts Education,* to mention
 just one initiative, launched in 2012 by the Council of
-Independent Colleges.
+Independent Colleges. There have even been think-pieces pondering why, given
+all these defenses, liberal education remains in peril, as if
+the message hasn't gotten through. 
 
 
 [^books]: Other books include [*Beyond the University: Why
@@ -185,6 +212,11 @@ run currently sitting at number 1 on NYTimes bestseller
 list. The ubiquity of defenses have even produced some
 articles about how many defenses there are, and why the
 message isn't getting through. 
+
+Article about message not getting through and needing to appeal
+to emotion, Delbanco article about ineffability of experience.
+Nothing definite to say about the content of a liberal education, and
+Delbanco doesn't even try. 
 
 But indeed the message isn't getting through. For I worry
 that the idea of a liberal art has indeed been lost. What is
