@@ -110,35 +110,89 @@ learned, which would otherwise go unstudied and unlearned.
 To show, in short, that liberal education has
 a subject-matter. Or in a word: content. 
 
-But what *is* this content? What should we say is studied,
-and finally learned, in a liberal education? Traditionally,
-as many of you no doubt know, this was identified with
-a curriculum of seven liberal arts, a so-called *trivium* of
-grammar, logic, and rhetoric; and a *quadrivium* of
-arithmetic, geometry, music, and astronomy. Each of these
-arts was thought to conjoin a skill with a subject. And
-together, these arts were thought to form a whole. This is
-why one could say there was *something* to study and learn
-in a liberal education, rather than many things, or
-anything, or nothing. But one might also say, or at least
-suspect, that this traditional curriculum was a form of
-initiation and indoctrination, with a history of oppression.
-For as you also may know, the liberal arts were
-traditionally studied and learned by the few rather than the
-many---the leisured few thought already free from servitude.
-It could be argued, then, that the education they received
-was 'liberal' not in liberating them, but in shaping them,
-stamping them, and perpetuating them. (A finishing school?)
-(Perhaps go on to say this might well be the result of any
-content.) But then what of education: not to produce
-a gentleman.) And the content of a more truly liberal
-education, then, has to be identified with different
-curriculum *other* than in any truer sense, if this
-education is to deserve the name 'liberal' by being made
-inclusive and transforming, its content will have to be
-conceived in terms in its liberating the many rather than
-perpetuating the few, to liberate all rather than perpetuate
-the few, 
+But what *is* this content? What should we say is learned
+in a liberal education? Traditionally, this was identified
+with a curriculum of seven liberal arts, a so-called
+*trivium* of grammar, logic, and rhetoric; and
+a *quadrivium* of arithmetic, geometry, music, and
+astronomy. Each of these arts was thought to conjoin a skill
+with a subject. And together, these arts were thought to
+form a whole. This is why one could say there was
+*something* to learn in a liberal education, rather than
+many things, or anything, or nothing. But one might also
+say, or at least suspect, that this traditional curriculum
+was a form of initiation and indoctrination, with a history
+of oppression.  For the liberal arts were traditionally
+learned by the few rather than the many---the leisured few,
+that is, thought already free from servitude. It could be
+argued, then, that the education they received was 'liberal'
+not in liberating them, but in shaping them, stamping them,
+and perpetuating them. This argument can even be made
+against the content of a liberal education more generally.
+For what distinguishes content, so-called, from doctrine, or
+dogma? And in what sense are we liberated by it, rather than
+merely determined by it? If we press this argument against
+content, we might even say that a truly liberal education is
+an education in questions rather than answers; and only in
+this sense can it ever answer a question about the meaning
+of education.
+
+How is this education and not experience?
+
+that it is only in this sense, prior to
+content, as it were, that   a form of inquiry and
+interrogation, where content is nly in being in this sense
+ever-interrogative, , and that it is only in this sense that
+it answers any question about the meaning of education. 
+
+even make my earlier claim paradoxical: that the only sense
+in which liberal education provides an answer to the question of what it means
+to be educated, is in being an education in questions rather than answers. claim that a liberal education is an education
+in questions rather than answers, casting doubt on my earlier claim
+that liberal education provides an answer .  doubt that a liberal education, if
+indeed liberal, is an education ould ever provide an answer to any
+question, much less one about what it means to be educated.
+For answering a question puts it to rest; ; wers to questions,
+the meaning of education; indeed liberal,  could ever
+provide an answer to any question, much less a question
+about the meaning of education, against content, we can
+evenwonder about my earlier claim that the survival of
+liberal education depends on providing an answer to the
+question what it means to be education. For isn't a liberal
+education, first and last, a place of answers. is not only
+to provoke a question about the meaning of education, but
+provide an answer. For isn't provides an answer to the
+question (Try to mention the act of questioning again,
+alluding back to earlier point, .) Why there is indeed
+something to learn in a liberal education, then how If we
+are to be possessors of our education and not simply
+products of it, 
+
+And ifif there were
+something to learn in a liberal education, , for in what sense is the content
+of an education distinguishable from for in what sense could we be truly
+liberated by it rather than merely determined by it? 
+. , exactly, does the content of an education liberate us,
+rather than merely determine us. could we be liberated by it
+rather than determined by it? Or to put the question another
+way: . For while it may sound reasonable to suppose there
+was something to learn in a liberal education, For if there
+were something to learn in such an education, then in what
+sense are we liberated by it, rather than determined by it?
+how there is indeed something to learn in such an education,
+then how are we truly liberated by it, rather than merely
+determined by it? why  (A finishing school?) (Perhaps go on
+to say this might well be the result of any content.) But
+then what of education: not to produce a gentleman.) And the
+content of a more truly liberal education, then, has to be
+identified with different curriculum *other* than in any
+truer sense, if this education is to deserve the name
+'liberal' by being made inclusive and transforming, its
+content will have to be conceived in terms in its liberating
+the many rather than perpetuating the few, to liberate all
+rather than perpetuate the few, (Mention that St. John's
+college 1915 current curriculum bears less resemblance to
+this now than did the college 1815.)
 
 "liberal" in liberal education is to mean freedom for all,
 rather than initiation, , rather than you were not liberated
