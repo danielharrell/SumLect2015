@@ -110,43 +110,71 @@ learned, which would otherwise go unstudied and unlearned.
 To show, in short, that liberal education has
 a subject-matter. Or in a word: content. 
 
-(Present problem in this paragraph, then go on to use
-traditional liberal arts as example of problem, but this
-clarifies the sense in which I want to speak of an idea of
-liberal art, as opposed to the matter of liberal art.)
-Traditionally, as most of you no doubt know, this content
-was identified with seven liberal arts, a so-called
-*trivium* of grammar, logic, and rhetoric; and
-a *quadrivium* of arithmetic, geometry, music, and
-astronomy. Each of these arts was thought to conjoin a skill
-with a subject. And together, these arts were thought to
-form a whole. This is why one could say there was
-*something* to study and learn in a liberal education,
-rather than many things, or anything, or nothing.  But if we
-established this curriculum in schools today, many of you,
-I think, would suspect it of being a form of indoctrination,
-with a history of oppression. To graduate as a product of
-one's education rather than a possesor of it. Risk of
-content more generally compromising freedom. Be open rather
-than closed. Questions rather than answers. The  word "liberal" in
-liberal education. Perhaps this particular list
+But what *is* this content? What should we say is studied,
+and finally learned, in a liberal education? Traditionally,
+as many of you no doubt know, this was identified with
+a curriculum of seven liberal arts, a so-called *trivium* of
+grammar, logic, and rhetoric; and a *quadrivium* of
+arithmetic, geometry, music, and astronomy. Each of these
+arts was thought to conjoin a skill with a subject. And
+together, these arts were thought to form a whole. This is
+why one could say there was *something* to study and learn
+in a liberal education, rather than many things, or
+anything, or nothing. But one might also say, or at least
+suspect, that this traditional curriculum was a form of
+initiation and indoctrination, with a history of oppression.
+For as you also may know, the liberal arts were
+traditionally studied and learned by the few rather than the
+many---the leisured few thought already free from servitude.
+It could be argued, then, that the education they received
+was 'liberal' not in liberating them, but in shaping them,
+stamping them, and perpetuating them. (A finishing school?)
+(Perhaps go on to say this might well be the result of any
+content.) But then what of education: not to produce
+a gentleman.) And the content of a more truly liberal
+education, then, has to be identified with different
+curriculum *other* than in any truer sense, if this
+education is to deserve the name 'liberal' by being made
+inclusive and transforming, its content will have to be
+conceived in terms in its liberating the many rather than
+perpetuating the few, to liberate all rather than perpetuate
+the few, 
+
+"liberal" in liberal education is to mean freedom for all,
+rather than initiation, , rather than you were not liberated
+by what you thereby learned, but indoctrinated, in athat the
+something studied and learned the result of studying and
+learning such arts if you encountered this curriculum at
+a college today, it would hard not to take it as outlandish,
+easy to suspect tempting to suspect it of hard not to think
+of it as a mode of indoctrination rather than education.
+many of you, I think, would suspect it of being a form of
+indoctrination, with a history of oppression. To graduate as
+a product of one's education rather than a possesor of it.
+Risk of content more generally compromising freedom. Be open
+rather than closed. Questions rather than answers. The  word
+"liberal" in liberal education. Perhaps this particular list
 is outdated. Something else must take its place that still
 makes sense, even if different sense, of a liberal
-education's content. This is also why I think one can still
-say something on behalf of , I think, that there is
-something in the *idea* of a liberal art that cannot be lost
-if we are to make any sense of liberal education's content,
-And if nothing takes its place, then I think it fair to say
-we will have lost the idea of a liberal art, and everything
-that goes with it. Which means that no sense is made of
-liberal education's content; no sense is made of liberal
-education more generally as an answer to the question what
-it means to be educated; and no sense is made made in turn
-of any loss or mistake in a choice against liberal
-education. But to have lost the idea of a liberal art, then,
-is to have lost any defense of liberal education that might
-help secure its future, and indeed any reason to suppose
-that liberal education has a future.
+education's content. (Present problem in this paragraph,
+then go on to use traditional liberal arts as example of
+problem, but this clarifies the sense in which I want to
+speak of an idea of liberal art, as opposed to the matter of
+liberal art.)This is also why I think one can still say
+something on behalf of , I think, that there is something in
+the *idea* of a liberal art that cannot be lost if we are to
+make any sense of liberal education's content, And if
+nothing takes its place, then I think it fair to say we will
+have lost the idea of a liberal art, and everything that
+goes with it. Which means that no sense is made of liberal
+education's content; no sense is made of liberal education
+more generally as an answer to the question what it means to
+be educated; and no sense is made made in turn of any loss
+or mistake in a choice against liberal education. But to
+have lost the idea of a liberal art, then, is to have lost
+any defense of liberal education that might help secure its
+future, and indeed any reason to suppose that liberal
+education has a future.
 
 Point to questions as sense of liberal education not having
 content. But then challenge is to resolve this: the sort of
