@@ -147,16 +147,18 @@ condition were to think we know when we don't, or to have
 answers, but to questions that have been forgotten,
 then one can see how recollection, or disillusionment, might
 well be the aim of any education worth the name, especially
-one called 'liberal'. Liberal education would then provide
-an answer to the question of what it means to be educated
-precisely in having us ask that question explicitly, and
-seriously; which is to say, in advance of any answer. And
-this would then oppose any answer to the question where the
-question goes unasked, which would characterize a choice
-against liberal education. (The loss of choice.) 
+one called 'liberal'. And this would not preclude a liberal
+education, so understood, from providing
+an answer to the question of what it means to be educated. For
+the answer would be nothing other than the question, which a liberal
+education would oblige us to ask explicitly and seriously, and which
+risks being answered without being asked in a choice against liberal
+education. 
 
 Here, bring up Socrates proposing liberal arts, and using them in Meno. Start
-with Meno and content. Note that Socrates question to slave boy has
+with Meno and content. Perplexity before a question that has no answer, but
+this ends up meaning the presence of content (Socrates has to draw
+the line) rather than the absence of content. Note that Socrates question to slave boy has
 no answer, strictly speaking, but it requires mathematics to make
 sense of this, and there is no way to avoid the diagonal as an object of
 content, even an object that Socrates has to supply. Then move
