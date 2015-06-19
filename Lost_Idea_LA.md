@@ -134,39 +134,74 @@ by it? What distinguishes content, in other words, from
 doctrine, or dogma? 
 
 If we press this argument against content, we might even say
-that a truly liberal education has no content. Perhaps it is
-best conceived as an education in Socratic perplexity and
-ignorance, for example, where we learn to know that we don't
-know. Or perhaps it is best conceived as an education in
-questions rather than answers. Of course, one might ask why
-questions in this sense, or perplexity in this sense, would
-be matters of education rather than experience. Or why, if
-they are matters of education, they would be found at the
-end of education rather than the beginning. But if our given
-condition were to think we know when we don't, or to have 
-answers, but to questions that have been forgotten,
-then one can see how recollection, or disillusionment, might
-well be the aim of any education worth the name, especially
-one called 'liberal'. And this would not preclude a liberal
-education, so understood, from providing
-an answer to the question of what it means to be educated. For
-the answer would be nothing other than the question, which a liberal
-education would oblige us to ask explicitly and seriously, and which
-risks being answered without being asked in a choice against liberal
-education. 
+that a truly liberal education has no content. Perhaps it
+educates us in a kind of perplexity and ignorance, for
+example, where we come to know that we don't know. Or
+perhaps it educates us in questions rather than answers.  Of
+course, one might ask why questions in this sense, or
+perplexity and ignorance in this sense, would be matters of
+education rather than experience. Or why, if they are
+matters of education, they would be found at the end of
+education rather than the beginning. But if our given
+condition were to think we know when we don't, or to have
+answers, but to questions that have been forgotten, then one
+can see how recollection, or disillusionment, might well be
+the aim of any education worth the name, especially one
+called 'liberal'. And this would not preclude liberal
+education, so understood, from providing an answer to the
+question of what it means to be educated. For the answer in
+that case would be nothing but the question, which a liberal
+education would oblige us to ask explicitly, and seriously,
+and which risks being answered, by a choice against liberal
+education, without being asked. We could also still say
+there was something to learn in a liberal education, but it
+would be something in the self, or even the soul, rather
+than in a subject. Something like how to learn, for example.
+Or even how to love to learn. 
 
-Here, bring up Socrates proposing liberal arts, and using them in Meno. Start
-with Meno and content. Perplexity before a question that has no answer, but
-this ends up meaning the presence of content (Socrates has to draw
-the line) rather than the absence of content. Note that Socrates question to slave boy has
-no answer, strictly speaking, but it requires mathematics to make
-sense of this, and there is no way to avoid the diagonal as an object of
-content, even an object that Socrates has to supply. Then move
-on to questions of inclusiveness, an experience of learning that includes
-the slave boy.
+There seems something plausible, then, in the notion that
+a liberal education has no content---as plausible as the
+notion that a liberally educated person is open rather than
+closed. (Perhaps make into open-minded vs closed-minded.)an
+education without content, then, seems as easy as thinking
+of someone educated as open rather than closed. And it can
+become all the more plausible to those of us who have read
+our Plato and encountered his Socrates, a Socrates "made
+beautiful and young", as Plato admits. But then again, it is
+to Socrates that we owe perhaps our earliest account of
+a liberal education, in Plato's *Republic*. one a moment or
+two of further reflection, I think, will show what is
+implausible and finally unintelligible about it. 
+
+Don't forget arrogance of dismissing other forms of education
+as unthinking.
+second look, I think,
+reveals something unintelligible in it, shows why it must be nonsense. unintelligible. it is also
+wrong, profoundly wrong, I think, mistaken, utterly wrong, at least if we I think, at least if this conception we
+renounce he conception is understood to take it if we take
+it readers of Plato who have fallen, so to speak, for his
+depiction of Socrates as the one man in Athens who knows he
+doesn't know. Here, bring up Socrates proposing liberal
+arts, and using them in Meno. Start with Meno and content.
+Perplexity before a question that has no answer, but this
+ends up meaning the presence of content (Socrates has to
+draw the line) rather than the absence of content. Then move
+on to how this is also inclusive of the slave-boy in an
+experience of learning.) For there to be no content is
+actually more indicative of Meno, and his interest in power.
+Note that Socrates question to slave boy has no answer,
+strictly speaking, but it requires mathematics to make sense
+of this, and there is no way to avoid the diagonal as an
+object of content, even an object that Socrates has to
+supply. Then move on to questions of inclusiveness, an
+experience of learning that includes the slave boy.
 
 Answer isn't to have no one read, but but to have everyone read.
 
+St. John's order: rejection of liberal arts, then brought back, but first hit
+of search gets to conference page, where questions are made central. More
+generally, even if books are central, conversation about books more central. Classes
+resemble philosophy graduate seminars, or book clubs. 
 even make my earlier claim paradoxical: that the only sense
 in which liberal education provides an answer to the question of what it means
 to be educated, is in being an education in questions rather than answers. claim that a liberal education is an education
