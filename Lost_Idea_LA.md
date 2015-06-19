@@ -162,12 +162,13 @@ Or even how to love to learn.
 There seems something plausible, then, in the notion that
 a liberal education has no content---as plausible as the
 notion that a liberally educated person is open rather than
-closed. (Perhaps make into open-minded vs closed-minded.)an
+closed. Worth dwelling on this. (Perhaps make into open-minded vs closed-minded.)an
 education without content, then, seems as easy as thinking
 of someone educated as open rather than closed. And it can
 become all the more plausible to those of us who have read
 our Plato and encountered his Socrates, a Socrates "made
-beautiful and young", as Plato admits. But then again, it is
+beautiful and young", as Plato admits. But also worth dwelling
+on the counterargument. then again, it is
 to Socrates that we owe perhaps our earliest account of
 a liberal education, in Plato's *Republic*. one a moment or
 two of further reflection, I think, will show what is
