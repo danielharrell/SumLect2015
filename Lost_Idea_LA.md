@@ -99,7 +99,7 @@ out right, risks being wrong. And showing this much,
 I think, means showing that there is something learned in
 liberal education, which would otherwise go unlearned. To
 show, in short, that liberal education has a subject-matter.
-Or in a word: content.
+Or, in a word: content.
 
 But what then *is* this content? What should we say is
 learned in a liberal education alone? This is the harder
@@ -116,42 +116,37 @@ suspect, that this traditional curriculum was a form of
 initiation and indoctrination, with a history of exclusion
 and oppression. For the liberal arts were traditionally
 learned by the few rather than the many---the leisured few,
-already free from servitude. It could be argued, then, that
-the education they received was 'liberal' not in liberating
-them, but in shaping them, stamping them, and perpetuating
-them. And the same might be suspected of any content. For in
-what sense could we be liberated by it, rather than merely
-determined by it? What distinguishes content, in other
-words, from dogma, or doctrine?  
+already free from servitude. The education they so received
+was 'liberal,' it could be argued, not in liberating them,
+but in shaping them, stamping them, and perpetuating them.
+And the same might be suspected of any content. For in what
+sense could we be freed by it, rather than bound to it? What
+distinguishes content, in other words, from dogma, or
+doctrine? Or from the closing of a mind that a truly liberal
+education is meant to open? Suppose our given condition is
+to think we know when we don't. Or to have answers, but to
+questions that have been forgotten. In that case the
+so-called content of a liberal education would seem to be in
+questions recollected, or a knowing ignorance---which is to
+say, in something less like the learning of content, and
+more like the liberation from content. There would still be
+something to learn in a liberal education, but it would be
+something in the self, or even the soul, rather than in
+a subject. We learn what it means to learn, and come, in the 
+end, to love it.  
 
-To identify a liberal
-education with content, then, can seem (close-mind)
-
-f we press this argument against content, we might even say
-that a truly liberal education has no content. Perhaps it
-educates us in a kind of perplexity and ignorance, for
-example, where we come to know that we don't know. Or
-perhaps it educates us in questions rather than answers.  Of
-course, one might ask why questions in this sense, or
-perplexity and ignorance in this sense, would be matters of
-education rather than experience. Or why, if they are
-matters of education, they would be found at the end of
-education rather than the beginning. But if our given
-condition were to think we know when we don't, or have
-answers, say, but to questions that have been forgotten, then one
-can see how recollection or disillusionment might well be
-the aim of any education worth the name, especially one
-called 'liberal'. And this would not preclude liberal
-education, so understood, from providing an answer to the
-question of what it means to be educated. For the answer in
-that case would be nothing but the question, which a liberal
-education would oblige us to ask explicitly, and seriously,
-and which risks being answered, by a choice against liberal
-education, without being asked. We could also still say
-there was something to learn in a liberal education, but it
-would be something in the self, or even the soul, rather
-than in a subject. Something like how to learn, for example.
-Or even how to love to learn. 
+And this would
+not preclude liberal education, so understood, from
+providing an answer to the question of what it means to be
+educated. For the answer in that case would be nothing but
+the question, which a liberal education would oblige us to
+ask explicitly, and seriously, and which risks being
+answered, by a choice against liberal education, without
+being asked. We could also still say there was something to
+learn in a liberal education, but it would be something in
+the self, or even the soul, rather than in a subject.
+Something like how to learn, for example. Or even how to
+love to learn. 
 
 There seems something plausible, then, in the notion that
 a liberal education has no content---as plausible as the
