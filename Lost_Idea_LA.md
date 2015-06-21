@@ -160,38 +160,75 @@ the something we finally learn is what it means to learn,
 and even what it means to love it.
 
 The suspicion that a truly liberal education has no content,
-then, can be cast in terms that encompass what many of us
-might say a liberal education is.  And this includes what
-many of us might say to defend it, or what we see in turn to
-threaten it. The triumph of information. Without the space
-to reflect. (Put list of threats as content-based first;
-figure out what list should be.) To see this threat in
-grades, for example, or tests, or other forms of
-results-driven assessment, is to defend the substance of
-liberal education as if it cannot be graded or tested or
-otherwise assessed as a result. And to see this threat in
-STEM, is to defend the process of liberal education as if it
-lacked focus, penetration, or single-mindedness.  how
-learning happens in liberal education as if it lacked the
-focus, and penetration action as i it We deprive it of
-content in some sense, for example, when talking of how it
-transcends the giving of grades, or taking of tests, or any
-other mode of results-driven assessment. Or when we talk of
-how it talking of how it can help develop the breadth of
-mind needed to flourish in a technological world, always on
-the move. when liberate it from any contentWhen talking, for
-example, of developing the how to react think flexibly and
-critically in a technological world, always on the move.
-e might for example say that a liberal education is an
-education that transcends the giving of grades, or tests, or
-any other mode of results-driven assessment. Or we might say
-that a liberal education, against , or in essence. it
-ultimately is. adefense. it can even seem the basis of
-a defense: in a lower register, involving skills, or the
-denouncing of tests, in a higher register, that. But this is
-why, I think, the suspicion should be treated as a perennial
-threat to liberal education rather than a potential defense.
-(talk about the lost idea of a liberal art here).
+then, can be cast in terms that encompass what many of us,
+I think, might say a liberal education is. And this includes
+what we might say to defend it, in light of what we see to
+threaten it. For leaving headlines aside, the list of such
+threats can seem to reduce to the triumph of content over
+context, from rankings and scorecards at the start to tests
+and grades at the end, making the very meaning of education
+a matter of data-driven results, and any choice against
+liberal education the answer to a question never asked. 
+
+But this also seems to reduce the rejoinder of liberal
+education to a refrain that answers are not enough, results
+are not enough, content is not enough, since the rest is
+a matter of context. But this can seem suicide, if you think
+that the end of activity is indeed a matter of answers, results,
+or content. the more that is needed is a matter of
+context . since there is no way, in rejoinder, to privilgive
+content to context, And this can seem to reduce liberal
+education's response to the refrain of answers are not
+enough, results are not enough, content is not enough, in
+a defense of liberal education that is almost certainly not
+enough. Answers are not enough; results are not enough;
+content is not enough. Defending a liberal education can
+then reduce to finding a place for liberal education, o find
+a place for liberal education nd to stand against answers in
+this sense, or results in this sense, or mere content more
+generally, this reduces the defense of liberal education to
+a criticism of content, so understood. For those who don't
+like challenge, or focus, or single-mindedness, or ranks.
+. o speak in defense of liberal education being tested, or
+being graded, o speak in defense of liberal education,
+accordingly, is to speak agaispeak on behalf of context,
+; but since there is no way to give context content  to put
+context in a general formulation,
+
+It becomes hard to speak on behalf of liberal education
+without speaking against content. And this accordingly
+reduces a defense of liberal education to an attack on
+content, so understood, whether it would accordingly be
+against content in this sense that a defense of liberal
+education must be made. 
+
+To see this threat in grades, for example,
+or tests, or other forms of results-driven assessment, is to
+defend the substance of liberal education as if it cannot be
+graded or tested or otherwise assessed as a result. And to
+see this threat in STEM, is to defend the process of liberal
+education as if it lacked focus, penetration, or
+single-mindedness.  how learning happens in liberal
+education as if it lacked the focus, and penetration action
+as i it We deprive it of content in some sense, for example,
+when talking of how it transcends the giving of grades, or
+taking of tests, or any other mode of results-driven
+assessment. Or when we talk of how it talking of how it can
+help develop the breadth of mind needed to flourish in
+a technological world, always on the move. when liberate it
+from any contentWhen talking, for example, of developing the
+how to react think flexibly and critically in
+a technological world, always on the move. e might for
+example say that a liberal education is an education that
+transcends the giving of grades, or tests, or any other mode
+of results-driven assessment. Or we might say that a liberal
+education, against , or in essence. it ultimately is.
+adefense. it can even seem the basis of a defense: in
+a lower register, involving skills, or the denouncing of
+tests, in a higher register, that. But this is why, I think,
+the suspicion should be treated as a perennial threat to
+liberal education rather than a potential defense. (talk
+about the lost idea of a liberal art here).
 
 (from here, talk of how it
 can be expanded, dressed up, associated with things we want
