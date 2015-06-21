@@ -76,7 +76,9 @@ defend liberal education *against* this threat? Even my way
 of putting this question casts the threat in external terms,
 and suggests there is no way of avoiding this if a defense
 is to be made. But how to make it, then, without falsifying
-the sense in which the threat is finally internal?  
+the sense in which the threat is finally internal?
+
+## Part One
 
 This question, I think, can be answered fairly simply, but
 it leads to a harder question. The simple answer goes like
@@ -129,28 +131,69 @@ we be freed by it, rather than bound to it? What
 distinguishes content, so-called, from dogma, or doctrine?
 Or from the closing of a mind that a truly liberal education
 is meant to open? Suppose our given condition were to think
-we know when we don't. Or to have answers, but to questions
-that have been forgotten. In that case the end of a liberal
-education would seem to lie in questions recollected, or
-a knowing ignorance---which is to say, in something less
-like the learning of content, and more like the liberation
-from content. Or suppose our given condition were to live in
-a world that changes more than it abides. Our freedom, then,
-might depend more on adaptation than application. And any
-so-called art worth the name 'liberal', in that case, would
-involve a skill not married to a subject but divorced from
-it; which is to say, a skill that can be applied to many
-subjects, or even to every subject, in yet another liberation
-from content. There would still be something to learn, then,
-in a liberal education without content, but it would be
-something in a skill rather than a subject. Or using a higher
-register, we might describe this as something in the self, or
-the soul, rather than a subject. In a liberal education
-without content, we could finally say, we learn what it means to
-learn, and even what it means to love it. 
+we know when we don't. Or to have answers that make us
+forget their questions. In that case the end of a liberal
+education would seem to lie in the recollection of
+questions. Or a knowledge of ignorance. Which is to say, in
+something less like the learning of content, and more like
+the liberation from content. Or suppose our given condition
+were to live in a world that changes more than it abides,
+and our freedom then a matter of adaptation more than
+application. Any art that deserved the name 'liberal', in
+that case, would involve a skill more likely divorced from
+any subject than married to one; which is to say, a skill
+that can be applied to many subjects, even every subject,
+in yet another liberation from content. 
+
+There would still be something to learn, then, in a liberal
+education without content, but it would be something found
+in a skill rather than a subject. Or using a higher
+register, we could describe this as something found in the
+self, or the soul, rather than a subject. And the more
+liberal an education becomes, so we might say, the more that
+any so-called subject is found in a book, which is found in
+a reader of that book, who is found in a conversation that
+brings the book to life, with all it may contain. And this
+conversation, both with others and with oneself, would
+thereby embody a liberal education without content, where
+the something we finally learn is what it means to learn,
+and even what it means to love it.
 
 The suspicion that a truly liberal education has no content,
-then, can be cast in terms that (from here, talk of how it
+then, can be cast in terms that encompass what many of us
+might say a liberal education is.  And this includes what
+many of us might say to defend it, or what we see in turn to
+threaten it. The triumph of information. Without the space
+to reflect. (Put list of threats as content-based first;
+figure out what list should be.) To see this threat in
+grades, for example, or tests, or other forms of
+results-driven assessment, is to defend the substance of
+liberal education as if it cannot be graded or tested or
+otherwise assessed as a result. And to see this threat in
+STEM, is to defend the process of liberal education as if it
+lacked focus, penetration, or single-mindedness.  how
+learning happens in liberal education as if it lacked the
+focus, and penetration action as i it We deprive it of
+content in some sense, for example, when talking of how it
+transcends the giving of grades, or taking of tests, or any
+other mode of results-driven assessment. Or when we talk of
+how it talking of how it can help develop the breadth of
+mind needed to flourish in a technological world, always on
+the move. when liberate it from any contentWhen talking, for
+example, of developing the how to react think flexibly and
+critically in a technological world, always on the move.
+e might for example say that a liberal education is an
+education that transcends the giving of grades, or tests, or
+any other mode of results-driven assessment. Or we might say
+that a liberal education, against , or in essence. it
+ultimately is. adefense. it can even seem the basis of
+a defense: in a lower register, involving skills, or the
+denouncing of tests, in a higher register, that. But this is
+why, I think, the suspicion should be treated as a perennial
+threat to liberal education rather than a potential defense.
+(talk about the lost idea of a liberal art here).
+
+(from here, talk of how it
 can be expanded, dressed up, associated with things we want
 to say about liberal education ultimately, in its greatest
 importance, and are prevalent, as we shall later see, can be
@@ -166,6 +209,7 @@ the question, which a liberal education would oblige us to
 ask explicitly, and seriously, and which risks being
 answered, by a choice against liberal education, without
 being asked.  
+
 
 There seems something plausible, then, in the notion that
 a liberal education has no content---as plausible as the
@@ -714,7 +758,7 @@ And not to be found is one way of being lost.  So on this argument, the
 idea of a liberal art will be lost on *any* list of them, no matter how
 short, or definite.
 
-### Being forgotten; another way to be lost; formulation of hypothesis
+Being forgotten; another way to be lost; formulation of hypothesis
 
 Still, if we were persuaded by this argument, it seems we would shy away
 from lists when trying to say what a liberal art is.  But it is typical
@@ -772,7 +816,7 @@ that our lists would suggest we possess, as if what we lacked were lost.
 
 Mention Van Doren passage.
 
-## Part one: evidence for hypothesis
+
 
 But is it lost? Have we indeed forgotten what a liberal art is? It is hard to
 know what might *prove* as much. This is why, for better or worse, I call my
