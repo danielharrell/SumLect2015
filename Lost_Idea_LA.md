@@ -132,9 +132,9 @@ distinguishes content, so-called, from dogma, or doctrine?
 Or from the closing of a mind that a truly liberal education
 is meant to open? Suppose our given condition were to think
 we know when we don't. Or to have answers that make us
-forget their questions. In that case the end of a liberal
-education would seem to lie in the recollection of
-questions. Or a knowledge of ignorance. Which is to say, in
+forget their questions. The end of a liberal
+education would then seem to lie in the recollection of
+questions. Or in a knowledge of ignorance. Both to say, in
 something less like the learning of content, and more like
 the liberation from content. Or suppose our given condition
 were to live in a world that changes more than it abides,
@@ -151,44 +151,91 @@ in a skill rather than a subject. Or using a higher
 register, we could describe this as something found in the
 self, or the soul, rather than a subject. And the more
 liberal an education becomes, so we might say, the more that
-any so-called subject is found in a book, which is found in
-a reader of that book, who is found in a conversation that
-brings the book to life, with all it may contain. And this
-conversation, both with others and with oneself, would
-thereby embody a liberal education without content, where
-the something we finally learn is what it means to learn,
-and even what it means to love it.
+what we learn is a matter of how we learn, and who we
+are in learning it. Or, to use St. John's as an example, we
+could say that the more liberal an education becomes, the
+more that any so-called subject is found in a book, which is
+found in a reader of that book, who is found in
+a conversation that brings the book to life, with all it may
+contain. And this conversation, both with others and with
+oneself, would thereby embody a liberal education without
+content; where the something we finally learn is what it
+means to learn, and even what it means to love it.  
 
 The suspicion that a truly liberal education has no content,
 then, can be cast in terms that encompass what many of us,
 I think, might say a liberal education is. And this includes
 what we might say to defend it, in light of what we see to
 threaten it. For leaving headlines aside, the list of such
-threats can seem to reduce to the triumph of content over
-context, from rankings and scorecards at the start to tests
-and grades at the end, making the very meaning of education
-a matter of data-driven results, and any choice against
-liberal education the answer to a question never asked. 
+threats can seem to reflect the triumph of content over
+context, from college rankings and scorecards at the start
+to tests and grades at the end, reducing the very meaning of
+education to a matter of data-driven results, and making any
+choice against liberal education seem the answer to
+a question never asked. Against all this, the first thing we
+might think to say that answers are not enough, results are
+not enough, or finally that content is not enough. 
 
-But this also seems to reduce the rejoinder of liberal
-education to a refrain that answers are not enough, results
-are not enough, content is not enough, since the rest is
-a matter of context. But this can seem suicide, if you think
-that the end of activity is indeed a matter of answers, results,
-or content. the more that is needed is a matter of
-context . since there is no way, in rejoinder, to privilgive
-content to context, And this can seem to reduce liberal
-education's response to the refrain of answers are not
-enough, results are not enough, content is not enough, in
-a defense of liberal education that is almost certainly not
-enough. Answers are not enough; results are not enough;
-content is not enough. Defending a liberal education can
-then reduce to finding a place for liberal education, o find
-a place for liberal education nd to stand against answers in
-this sense, or results in this sense, or mere content more
-generally, this reduces the defense of liberal education to
-a criticism of content, so understood. For those who don't
-like challenge, or focus, or single-mindedness, or ranks.
+But we can recognize that this rejoinder, too, is not
+enough, and even see that saying what more is needed, if
+this is context, escapes being specified, in just the
+way it escapes being captured in a data-driven result. Yet 
+this can reduce our defense of liberal education to
+something like inarticulate pointing. And what if no one
+else turns around? Or to put the problem with context more
+concretely, we can speak with eloquence against the penchant
+in education for testing and ranking and training and
+specializing. But this risks the impression that
+a liberal education, in supposedly transcending all this, is
+really an education for dilettantes, providing an escape
+from being challenged or judged or driven or dedicated. Yet
+if these are matters of context rather than content, then
+the impression of dilettantism can only be corrected, in
+effect, by an invitation to campus. And what if the
+invitation is declined?  
+
+This is the first sign that a defense based on denial of content is
+lacking, and even poses an internal threat.  
+or if this is context for the Also rhetorical.
+content,  , if this is context for the content, can only be
+invoked rather than specified, lest it be turned into
+content. at the risk of being turned into content. not only
+escapes data-driven results, but and therefore something
+that and not be found in data-driven results, can only be
+specified at the risk of being made invoked rather than
+described. hard to put in words. s a matter of context
+rather than content, hat more is needed if these are not
+enough, and if content needs to give way to context, how to
+formulate that in a general way. Also, we give over to , and
+even that to defend liberal education And this sharpens
+reduces our rejoinder of liberal education to a refrain that
+answers are not enough, results are not enough, content is
+not enough---even if this defense of liberal education is
+not enough. Information over insight.  
+
+(Perhaps use answers is not enough refrain at start, at what
+one feels like saying, even if it is recognized this is not
+enough in defense, because of context. But then raise
+a question, if the rest is context, what can be said.) But
+this also seems to reduce the rejoinder of liberal education
+to a refrain that answers are not enough, results are not
+enough, content is not enough, since the rest is a matter of
+context. But this can seem suicide, if you think that the
+end of activity is indeed a matter of answers, results, or
+content. the more that is needed is a matter of context
+. since there is no way, in rejoinder, to privilgive content
+to context, And this can seem to reduce liberal education's
+response to the refrain of answers are not enough, results
+are not enough, content is not enough, in a defense of
+liberal education that is almost certainly not enough.
+Answers are not enough; results are not enough; content is
+not enough. Defending a liberal education can then reduce to
+finding a place for liberal education, o find a place for
+liberal education nd to stand against answers in this sense,
+or results in this sense, or mere content more generally,
+this reduces the defense of liberal education to a criticism
+of content, so understood. For those who don't like
+challenge, or focus, or single-mindedness, or ranks.
 . o speak in defense of liberal education being tested, or
 being graded, o speak in defense of liberal education,
 accordingly, is to speak agaispeak on behalf of context,
