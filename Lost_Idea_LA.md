@@ -5,15 +5,13 @@
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the future of
-liberal education. And the lecture itself is meant to
-explain that worry, and, I hope, to justify it. To have
-worries at all, of course, has become reflexive among those
-of us in any way devoted to this education, whether we be
-students of it, teachers of it, or in some other form
-stewards of it. And there is no end these days, it seems, to
-prophecies, or even pronouncements, of death. Type the words
-"death of liberal education" into Google, and you get back
-such headlines as
+liberal education. To have worries at all, of course, has
+become reflexive among those of us in any way devoted to
+this education, whether we be students of it, teachers of
+it, or in some other form stewards of it. And there is no
+end these days, it seems, to prophecies, even
+pronouncements, of death. Type the words "death of liberal
+education" into Google, and you get back such headlines as
 
 > [Why Liberal Arts Education is Dying (or Already Dead)](http://www.aleteia.org/en/education/documents/why-liberal-arts-education-is-dying-or-already-dead-228015)   
 > [Is the Four-Year, Liberal-Arts Education Model Dead?](http://www.cnbc.com/id/41626661)    
@@ -35,13 +33,74 @@ headlines make you think something *else* is killing liberal
 education, whether it be liberals or conservatives or
 technology or the economy. And it is hard to envision
 a defense of liberal education without such a distinction,
-even if headlines draw it simplistically. For if liberal
-education itself were somehow the threat, then death might
-well be liberal education's best defense, but in defeat. No
-surprise, then, that those of us devoted to liberal
-education are wont to conceive its threats as if these came
-from outside it. For this justifies a defense that succeeds
-only if liberal education survives.
+even if headlines draw it simplistically, or even
+inaccurately. For if liberal education itself were somehow
+the threat, then death might well be liberal education's
+best defense, but in defeat. No surprise, then, that those
+of us devoted to liberal education are wont to conceive its
+threats as if these came from outside it. For this justifies
+a defense that succeeds only if liberal education survives.
+
+And there are no shortage of such defenses. Type the words
+"defense of liberal education" into Google, and you will
+find one, it seems, for every headline predicting the death
+of liberal education. And not just in articles. There are
+books to defend liberal education, most recently [a
+bestseller](http://www.nytimes.com/best-sellers-books/2015-04-19/hardcover-nonfiction/list.html)
+by Fareed Zakaria, bearing the title [*In Defense of
+a Liberal
+Education*](http://books.wwnorton.com/books/In-Defense-of-a-Liberal-Education/).[^books]
+There are blogs to defend liberal education, including [one
+at St. John's](http://blogs.sjc.edu/christopher-nelson/)
+featuring regular posts by Chris Nelson, the Annapolis
+president.[^blogs] There are campaigns to defend liberal
+education, with slogans like *Securing America's Future: The
+Power of Liberal Arts Education,* to mention just [one
+initiative](http://www.cic.edu/Research-and-Data/Liberal-Arts/Campaign/Pages/default.aspx),
+launched in 2012 by the Council of Independent
+Colleges.[^campaigns] And behind these campaigns are
+associations to defend liberal education, like the
+just-mentioned [Council of Independent
+Colleges](http://www.cic.edu/About-CIC/Pages/default.aspx),
+or the [Association of American Colleges and
+Universities](https://www.aacu.org/about), or the
+[Association for General and Liberal
+Studies](http://www.agls.org/AboutUs.htm), or the
+[Association for Core Texts and
+Courses](http://www.coretexts.org/), or the [American
+Academy for Liberal
+Education](http://www.aale.org/index.php/about-aale/mission).
+Liberal education has so many defenders that there are even
+[think-pieces](https://www.insidehighered.com/news/2012/11/19/liberal-arts-colleges-rethink-their-messaging-face-criticism) on why it remains in peril, as if none of these defenses have failed.
+
+My own worry is that it remains in peril because of its
+defenders.  
+
+. , dating back to 2012, the argues that  among the articles
+There have even been think-pieces pondering why, given all
+these defenses, liberal education remains in peril, as if
+the message hasn't gotten through. 
+
+
+[^books]: Other books include [*Beyond the University: Why
+Liberal Education
+Matters*](http://yalepress.yale.edu/book.asp?isbn=9780300175516)
+by Michael S. Roth; and [*College: What It Was, Is, And
+Should be*](http://press.princeton.edu/titles/9978.html) by
+Andrew Delbanco.
+
+[^blogs]: Other blogs include "[The LEAP Challenge
+Blog](https://www.aacu.org/blog)," sponsored by the
+Association of American Colleges and Universities; and [*The
+Power of Liberal Arts* "Blogs"
+page](http://www.liberalartspower.org/views/blogs/Pages/default.aspx),
+sponsored by the Council of Independent Colleges, that
+gathers blog posts defending liberal education. 
+
+[^campaigns]: Other campaigns include [*Liberal Education
+and America's Promise*](https://www.aacu.org/leap), launched in 2005 by the Association of
+American Colleges and Universities.
+
 
 Still, the more seriously you take such threats, the harder
 it can be to cast them in external terms, or capture in
@@ -468,16 +527,6 @@ Independent Colleges. There have even been think-pieces pondering why, given
 all these defenses, liberal education remains in peril, as if
 the message hasn't gotten through. 
 
-
-[^books]: Other books include [*Beyond the University: Why
-Liberal Education
-Matters*](http://yalepress.yale.edu/book.asp?isbn=9780300175516)
-by Michael S. Roth; and [*College: What It Was, Is, And
-Should be*](http://press.princeton.edu/titles/9978.html) by
-Andrew Delbanco.
-
-[^blogs]: Other blogs include "[The LEAP Challenge
-Blog](https://www.aacu.org/blog)," sponsored by the AACU.
 
 A Defense of Liberal Education." The Council
 of Independent Colleges back in 2012 started a campaign for
