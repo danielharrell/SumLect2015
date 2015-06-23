@@ -41,7 +41,7 @@ of us devoted to liberal education are wont to conceive its
 threats as if these came from outside it. For this justifies
 a defense that succeeds only if liberal education survives.
 
-And there are no shortage of such defenses. Type the words
+And there is no shortage of such defenses. Type the words
 "defense of liberal education" into Google, and you will
 find one, it seems, for every headline predicting the death
 of liberal education. And not just in articles. There are
@@ -52,7 +52,7 @@ a Liberal
 Education*](http://books.wwnorton.com/books/In-Defense-of-a-Liberal-Education/).[^books]
 There are blogs to defend liberal education, including [one
 at St. John's](http://blogs.sjc.edu/christopher-nelson/)
-featuring regular posts by Chris Nelson, the Annapolis
+featuring regular posts by Christopher Nelson, the Annapolis
 president.[^blogs] There are campaigns to defend liberal
 education, with slogans like *Securing America's Future: The
 Power of Liberal Arts Education,* to mention just [one
@@ -70,17 +70,11 @@ Studies](http://www.agls.org/AboutUs.htm), or the
 Courses](http://www.coretexts.org/), or the [American
 Academy for Liberal
 Education](http://www.aale.org/index.php/about-aale/mission).
-Liberal education has so many defenders that there are even
-[think-pieces](https://www.insidehighered.com/news/2012/11/19/liberal-arts-colleges-rethink-their-messaging-face-criticism) on why it remains in peril, as if none of these defenses have failed.
-
-My own worry is that it remains in peril because of its
-defenders.  
-
-. , dating back to 2012, the argues that  among the articles
-There have even been think-pieces pondering why, given all
-these defenses, liberal education remains in peril, as if
-the message hasn't gotten through. 
-
+There are so many defenses of liberal education, in fact,
+that you can even find
+[think-pieces](https://www.insidehighered.com/news/2012/11/19/liberal-arts-colleges-rethink-their-messaging-face-criticism)
+pondering why they seem to have failed, since liberal
+education remains in peril.
 
 [^books]: Other books include [*Beyond the University: Why
 Liberal Education
@@ -101,28 +95,45 @@ gathers blog posts defending liberal education.
 and America's Promise*](https://www.aacu.org/leap), launched in 2005 by the Association of
 American Colleges and Universities.
 
+But what if these defenses have succeeded---by putting
+liberal education in peril? What if the threat to liberal
+education comes from within? Let the idea of a liberal art,
+for the moment, simply mean whatever it is that
+distinguishes a liberal education from any other form of
+education---a technical education, say. What if our many
+defenses of liberal education have made us forget this idea?
+What if the idea of a liberal art, in this sense, is lost?
+(Perhaps put sentence about my lecture making this suggestion
+plausible, if not persuasive, should go here. Then move to
+next section as a part one.)
 
-Still, the more seriously you take such threats, the harder
-it can be to cast them in external terms, or capture in
-a headline. The fate of liberal education, after all, will
-not be decided in opinion columns, but in choices made by
-each of us about the best education, once education matters.
-Not the best education, then, in general, as such, *per se*;
-but the best education for my daughter, or my son, or me. In
-having to make such choices, those devoted to liberal
-education are no different from those dismissive of it.  And
-in this respect, the threat to liberal education can never
-lie outside it. To pursue an education at all, liberal or
-no, is to have answered a question that a liberal education
-obliges each of us to ask, and ask on our own behalf: What
-does it mean to be educated? And we might well answer this
-question in a choice *against* liberal education, even at
-the risk of its extinction, if the same choice is made
-repeatedly. But this is perhaps the best evidence we have
-that the question is real, and the threat to liberal
-education therefore intrinsic to it. The death of liberal
-education, so understood, would similarly come from within,
-in a proof of its life, and perhaps the only proof of life.
+## Part One
+
+(Here borrow from above mention of technical education to
+introduce opposition more quickly; then end a brief argument
+about internal threat with a line about how the threat can
+still seem external.) Certainly the more seriously you take
+threats against, the harder it can be to cast them in
+external terms, or capture in a headline. The fate of
+liberal education, after all, will not be decided in opinion
+columns, but in choices made by each of us about the best
+education, once education matters. Not the best education,
+then, in general, as such, *per se*; but the best education
+for my daughter, or my son, or me. In having to make such
+choices, those devoted to liberal education are no different
+from those dismissive of it.  And in this respect, the
+threat to liberal education can never lie outside it. To
+pursue an education at all, liberal or no, is to have
+answered a question that a liberal education obliges each of
+us to ask, and ask on our own behalf: What does it mean to
+be educated? And we might well answer this question in
+a choice *against* liberal education, even at the risk of
+its extinction, if the same choice is made repeatedly. But
+this is perhaps the best evidence we have that the question
+is real, and the threat to liberal education therefore
+intrinsic to it. The death of liberal education, so
+understood, would similarly come from within, in a proof of
+its life, and perhaps the only proof of life.
 
 But again, those of us devoted to liberal education are
 unlikely to want this death, especially just to show we were
@@ -137,7 +148,7 @@ and suggests there is no way of avoiding this if a defense
 is to be made. But how to make it, then, without falsifying
 the sense in which the threat is finally internal?
 
-## Part One
+## Part Two
 
 This question, I think, can be answered fairly simply, but
 it leads to a harder question. The simple answer goes like
