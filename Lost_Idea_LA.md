@@ -70,7 +70,7 @@ Studies](http://www.agls.org/AboutUs.htm), or the
 Courses](http://www.coretexts.org/), or the [American
 Academy for Liberal
 Education](http://www.aale.org/index.php/about-aale/mission).
-There are so many defenses of liberal education, in fact,
+There are so many defenders of liberal education, in fact,
 that you can even find
 [think-pieces](https://www.insidehighered.com/news/2012/11/19/liberal-arts-colleges-rethink-their-messaging-face-criticism)
 pondering why they seem to have failed, since liberal
@@ -95,91 +95,80 @@ gathers blog posts defending liberal education.
 and America's Promise*](https://www.aacu.org/leap), launched in 2005 by the Association of
 American Colleges and Universities.
 
-But what if these defenses have succeeded---by putting
+But what if these defenders have succeeded---by putting
 liberal education in peril? What if the threat to liberal
 education comes from within? Let the idea of a liberal art,
 for the moment, simply mean whatever it is that
 distinguishes a liberal education from any other form of
 education---a technical education, say. What if our many
 defenses of liberal education have made us forget this idea?
-What if the idea of a liberal art, in this sense, is lost?
-(Perhaps put sentence about my lecture making this suggestion
-plausible, if not persuasive, should go here. Then move to
-next section as a part one.)
+What if the idea of a liberal art is lost?
+
 
 ## Part One
 
-(Here borrow from above mention of technical education to
-introduce opposition more quickly; then end a brief argument
-about internal threat with a line about how the threat can
-still seem external.) Certainly the more seriously you take
-threats against, the harder it can be to cast them in
-external terms, or capture in a headline. The fate of
-liberal education, after all, will not be decided in opinion
-columns, but in choices made by each of us about the best
-education, once education matters. Not the best education,
-then, in general, as such, *per se*; but the best education
-for my daughter, or my son, or me. In having to make such
-choices, those devoted to liberal education are no different
-from those dismissive of it.  And in this respect, the
-threat to liberal education can never lie outside it. To
-pursue an education at all, liberal or no, is to have
-answered a question that a liberal education obliges each of
-us to ask, and ask on our own behalf: What does it mean to
-be educated? And we might well answer this question in
-a choice *against* liberal education, even at the risk of
-its extinction, if the same choice is made repeatedly. But
-this is perhaps the best evidence we have that the question
-is real, and the threat to liberal education therefore
+Now in one sense, I think, the threat to liberal education
+will always come from within. The fate of liberal education,
+after all, will not be decided in opinion columns, but in
+choices made by each of us about the best education, once
+education matters. Not the best education, then, in general,
+as such, *per se*; but the best education for my daughter,
+or my son, or me. In having to make such choices, those
+devoted to liberal education are no different from those
+dismissive of it.  And in this respect, the threat to
+liberal education can never lie outside it. To pursue an
+education at all, liberal or no, is to have answered
+a question that a liberal education obliges each of us to
+ask, and ask on our own behalf: What does it mean to be
+educated? And we might well answer this question in a choice
+*against* liberal education, even at the risk of its
+extinction, if the same choice is made repeatedly. But this
+is perhaps the best evidence we have that the question is
+real, and the threat to liberal education therefore
 intrinsic to it. The death of liberal education, so
 understood, would similarly come from within, in a proof of
 its life, and perhaps the only proof of life.
 
 But again, those of us devoted to liberal education are
 unlikely to want this death, especially just to show we were
-devoted to something rather than nothing. But what, in that
-case, becomes of its defense? Suppose the threat to liberal
-education does come from within, in a question it would have
-us ask for ourselves about what it means to be educated.
-What in turn could it mean, what should it mean, to
-defend liberal education *against* this threat? Even my way
-of putting this question casts the threat in external terms,
-and suggests there is no way of avoiding this if a defense
-is to be made. But how to make it, then, without falsifying
-the sense in which the threat is finally internal?
+devoted to something rather than nothing. And while the
+threat may be internal in this general sense, it still seems
+external in a more specific sense. For if the threat to
+liberal education does come from within, in a question it
+would have us ask for ourselves about what it means to be
+educated, then, true, we may well answer this question in
+a choice against liberal education. But then again, we may
+well answer the question otherwise, by choosing liberal
+education. Liberal education would then be a second answer
+to the question, opposed to the first. And insofar as one
+answer opposes the other, the threat to liberal education
+would be external, even though it remained internal insofar
+as both answers are to the same question. 
+
+But if the threat is external as one answer opposed to
+another, then at least one thing can be inferred about any
+defense of liberal education against this threat. It will
+have to convince us that liberal education *does* provide an
+answer to the question of what it means to be educated, even
+for those who give a different answer. The defense will have
+to show us that something is lost in a choice against
+liberal education, whatever might be gained; and that the
+answer we give in such a choice, even if it turns out right,
+risks being wrong. And showing this much, I think, means
+showing that there is something learned in liberal
+education, which would otherwise go unlearned. To show, in
+short, that liberal education has a subject-matter. Or, in
+a word: content.
+
+
+But what then *is* this content? What should we say is
+learned in a liberal education alone? 
 
 ## Part Two
 
-This question, I think, can be answered fairly simply, but
-it leads to a harder question. The simple answer goes like
-this. If we must ask what it means to be educated for
-ourselves, then, true, we may well answer in a choice
-against liberal education. But then again, we may well
-answer otherwise, by choosing liberal education. Liberal
-education would thus be a second answer to the question,
-opposed to the first. Insofar as one answer opposes the
-other, the threat to liberal education would be external,
-even though it remained internal insofar as both answers are
-to the same question. 
-
-But if the threat is external as one answer opposed to
-another, then at least one thing can be inferred about
-liberal education's defense. It will have to convince us
-that liberal education *does* provide an answer to the
-question of what it means to be educated, even for those who
-give a different answer. The defense will have to show us that
-something is lost in a choice against liberal education,
-whatever might be gained; and that the answer we give in
-such a choice, even if it turns out right, risks being
-wrong. And showing this much, I think, means showing that
-there is something learned in liberal education, which would
-otherwise go unlearned. To show, in short, that liberal
-education has a subject-matter. Or, in a word: content.
-
-But what then *is* this content? What should we say is
-learned in a liberal education alone? This is the harder
-question. Traditionally, the content of a liberal education
-was identified with a curriculum of seven liberal arts,
+(Start revision from here.) This is the harder question.
+Traditionally, the content of a liberal education was
+identified with a curriculum of seven liberal arts,
 a so-called *trivium* of grammar, logic, and rhetoric; and
 a *quadrivium* of arithmetic, geometry, music, and
 astronomy. Each of these arts was thought to marry a skill
