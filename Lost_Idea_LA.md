@@ -198,24 +198,50 @@ answers, but to questions that have been forgotten. The end
 of a liberal education would then seem to lie in the
 recollection of questions, or a knowledge of ignorance. Both
 to say, in something less like the learning of content, and
-more like the liberation from content. Or from another
-angle, suppose our given condition were to live in a world
-that changes more than it abides, and our freedom, then,
-a matter of adaptation more than application. Any art that
-deserved the name 'liberal', in that case, would involve
-a skill more likely divorced from any subject than married
-to one; which is to say, a skill that can be applied to many
-subjects, even every subject, in yet another liberation from
-content. And suppose the number of such subjects to have
-multiplied past counting since medieval times, in one of the
-most striking ways the world has changed, since the advent
-of modern science. What the liberal arts truly form when put
-together, in that case, seems closer to a manifold, or
-diversity, than to some grand totality or whole, in still
-another liberation from content.     
+more like the liberation from content. 
 
-There would still be something to learn in a liberal
-education without content, but it would be something found
+Or from another angle, suppose our given condition were to
+live in a world that changes more than it abides, and our
+freedom, then, a matter of adaptation more than application.
+Any art that deserved the name 'liberal', in that case,
+would involve a skill more likely divorced from any subject
+than married to one; which is to say, a skill that can be
+applied to many subjects, or even to every subject, in yet another
+liberation from content. And suppose the number of such
+subjects to have multiplied past counting since medieval
+times, in one of the most striking ways the world has
+changed, with the advent of modern science. This would seem
+to leave the number of so-called liberal arts indefinite, and better
+understood to encompass a variety or diversity than to form
+some totality or whole, in still another liberation from
+content.     
+
+But perhaps the simplest way to capture this shift away from
+content is to assert what it would seem absurd to deny: that
+the aim of any truly liberal education is to liberate the
+self. The effect of this might be conceived as a kind of
+self-knowledge, or as a kind of self-formation; but in any
+case it suggests that what is learned to liberate the self
+is finally found in the self, rather than in any subject. It
+makes sense of saying that what we learn is a matter of how
+we learn, and who we become in learning it. (St. John's
+commitment to learning without teaching.) (Now move on to
+formulation what we learn learn what it means to learn, and
+what it means see why a liberal education may have no
+content is to recognize that that it is we, in the end, who
+are liberated by it. This suggests that what is learned in
+such an education is found, finally, in the self, rather
+than in any subject. And indeed it would seem foolish to
+deny that self-knowledge, or even self-formation, is one way
+to capture the aim of a liberal education.  is , This
+suggests that what is learned is found in the self rather
+than any subject, that And leaving these details aside,
+there is also simply a sense in which it is we who are
+liberated in a liberal education. And this suggests that
+what is learned is finally found in the self rather than any
+subject. Formation of the self, selfhood. 
+
+be something found
 in a skill rather than a subject. Or using a higher
 register, we could describe this as something found in the
 self, or the soul, rather than a subject. And the more
@@ -233,8 +259,26 @@ means to learn, and even what it means to love it.
 
 The suspicion that a truly liberal education has no content,
 then, can be cast in terms that encompass what many of us,
-I think, might say a liberal education is, and indeed what we
-do say it is. (Mention student quote.) And this includes
+I think, might say a liberal education is, and indeed what
+we do say it is. (Mention student quote.) Liberal education
+faces its own challenge: for someone liberally educated to
+sound like that student, than like a dry and dusty latin
+scholar, or, to borrow a different image, than like the
+Mississippi slave-holder who knows his Greek. (In this
+paragraph, make clearer the distinction between skills and
+soul. Highlight this in student speech, and distinguish it
+from the dry and dusty latin scholar on the one hand, or the
+Mississippi slave-holder who knows his Greek.) (This part
+should be cast explictly in terms of internal challenge,
+before we ever face external challenge, which seems to
+encourage more denial of content.) Also, when moving to
+defense, note that these were parts of speech that
+Christopher Nelson decided to quote. Also: frame defense in
+terms of providing a context in light of a human life well
+lived.  Engagement with life.
+
+
+And this includes
 what we might say to defend it, in light of what we see to
 threaten it. For leaving headlines aside, the list of such
 threats can seem to reflect the triumph of content over
