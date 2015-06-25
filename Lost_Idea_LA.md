@@ -104,8 +104,8 @@ any other form of education---a technical education, say.
 What if our many defenses of liberal education have made us
 forget this idea? What if the idea of a liberal art is lost?
 
-In my lecture, then, I want to explain why I worry we
-have lost this idea, and what it is, more exactly, we have
+In my lecture, then, I want to explain why I worry we have
+lost this idea, and what it is, more exactly, we may have
 lost. 
 
 ## Part One
@@ -168,9 +168,9 @@ learned in a liberal education alone?
 ## Part Two
 
 It is this question, I think, that poses a challenge to
-liberal education from within. And this challenge leads to
+liberal education from within. (And this challenge leads to
 the threat that worries me, with a kind of logic that I will
-now try to trace. Traditionally, the content of a liberal
+now try to trace.) Traditionally, the content of a liberal
 education was identified with a curriculum of seven liberal
 arts, a so-called *trivium* of grammar, logic, and rhetoric;
 and a *quadrivium* of arithmetic, geometry, music, and
@@ -192,7 +192,10 @@ them. And the same might be suspected of any content. For in
 what sense could we be freed by it, rather than bound to it?
 What distinguishes content, so-called, from dogma, or
 doctrine? What keeps it from closing the mind that a truly
-liberal education is meant to open? Suppose our given
+liberal education is meant to open? 
+(Formulate challenge here.)
+
+Suppose our given
 condition were to think we know when we don't. Or to have
 answers, but to questions that have been forgotten. The end
 of a liberal education would then seem to lie in the
@@ -200,66 +203,53 @@ recollection of questions, or a knowledge of ignorance. Both
 to say, in something less like the learning of content, and
 more like the liberation from content. 
 
-Or from another angle, suppose our given condition were to
-live in a world that changes more than it abides, and our
-freedom, then, a matter of adaptation more than application.
-Any art that deserved the name 'liberal', in that case,
-would involve a skill more likely divorced from any subject
-than married to one; which is to say, a skill that can be
-applied to many subjects, or even to every subject, in yet another
-liberation from content. And suppose the number of such
-subjects to have multiplied past counting since medieval
-times, in one of the most striking ways the world has
-changed, with the advent of modern science. This would seem
-to leave the number of so-called liberal arts indefinite, and better
-understood to encompass a variety or diversity than to form
-some totality or whole, in still another liberation from
-content.     
+Or to look at our given condition from another angle,
+suppose we lived in a world that changes more than it
+abides, and our freedom, then, a matter of adaptation more
+than application. Any art that deserved the name 'liberal',
+in that case, would involve a skill more likely divorced
+from any subject than married to one; which is to say,
+a skill that can be applied to many subjects, even to every
+subject, in yet another liberation from content. And suppose
+the number of such subjects to have multiplied past counting
+since medieval times, in one of the most striking ways the
+world has changed, with the advent of modern science. This
+would seem to leave the number of liberal arts
+indefinite, and better understood to encompass a variety or
+diversity than to form some totality or whole, in still
+another liberation from content.     
 
-But perhaps the simplest way to capture this shift away from
-content is to assert what it would seem absurd to deny: that
-the aim of any truly liberal education is to liberate the
-self. The effect of this might be conceived as a kind of
-self-knowledge, or as a kind of self-formation; but in any
-case it suggests that what is learned to liberate the self
-is finally found in the self, rather than in any subject. It
-makes sense of saying that what we learn is a matter of how
-we learn, and who we become in learning it. (St. John's
-commitment to learning without teaching.) (Now move on to
-formulation what we learn learn what it means to learn, and
-what it means see why a liberal education may have no
-content is to recognize that that it is we, in the end, who
-are liberated by it. This suggests that what is learned in
-such an education is found, finally, in the self, rather
-than in any subject. And indeed it would seem foolish to
-deny that self-knowledge, or even self-formation, is one way
-to capture the aim of a liberal education.  is , This
-suggests that what is learned is found in the self rather
-than any subject, that And leaving these details aside,
-there is also simply a sense in which it is we who are
-liberated in a liberal education. And this suggests that
-what is learned is finally found in the self rather than any
-subject. Formation of the self, selfhood. 
-
-be something found
-in a skill rather than a subject. Or using a higher
-register, we could describe this as something found in the
-self, or the soul, rather than a subject. And the more
-liberal an education becomes, so we might say, the more that
-what we learn is a matter of how we learn, and who we
-are in learning it. Or, to use St. John's as an example, we
+Or to look at our given condition from yet a final angle:
+suppose we could only learn, truly learn, insofar as we did
+this for ourselves. What we learned, in that case, would
+seem to be found in the self, or even the soul, rather than
+in a set of subjects. Here we would have a final liberation
+from content, that still possessed a unity in the self. And
+pressing the point, we might say that the more liberal an
+education becomes, the more that what we learn is a matter
+of how we learn, and who we are in learning it, along with
+who we become. Or, to put this in terms closer to home, we
 could say that the more liberal an education becomes, the
 more that any so-called subject is found in a book, which is
 found in a reader of that book, who is found in
-a conversation that brings the book to life, with all it may
-contain. And this conversation, both with others and with
-oneself, would thereby embody a liberal education without
-content; where the something we finally learn is what it
-means to learn, and even what it means to love it.  
+a conversation about that book, that brings the book to
+life, with all it may contain. And this conversation,
+conducted by turns with others and with oneself, would thereby
+embody a liberal education without content, which is to say:
+an education in selfhood rather than subjects, where the
+something we finally learn is what it means to learn, and
+even what it means to love it.  
+
+(Need to include sentence about how the unity then is shifted
+from content to selfhood.)
 
 The suspicion that a truly liberal education has no content,
 then, can be cast in terms that encompass what many of us,
-I think, might say a liberal education is, and indeed what
+I think, might say a liberal education is. And it is close enough
+to what
+we do say it is. To give just one example of this,
+here are the words of recent St. John's graduate, speaking of  in an address
+delivered to and indeed what
 we do say it is. (Mention student quote.) Liberal education
 faces its own challenge: for someone liberally educated to
 sound like that student, than like a dry and dusty latin
