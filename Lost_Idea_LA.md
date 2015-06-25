@@ -168,9 +168,9 @@ learned in a liberal education alone?
 ## Part Two
 
 It is this question, I think, that poses a challenge to
-liberal education from within. (And this challenge leads to
+liberal education from within. And this challenge leads to
 the threat that worries me, with a kind of logic that I will
-now try to trace.) Traditionally, the content of a liberal
+now try to trace. Traditionally, the content of a liberal
 education was identified with a curriculum of seven liberal
 arts, a so-called *trivium* of grammar, logic, and rhetoric;
 and a *quadrivium* of arithmetic, geometry, music, and
@@ -192,8 +192,20 @@ them. And the same might be suspected of any content. For in
 what sense could we be freed by it, rather than bound to it?
 What distinguishes content, so-called, from dogma, or
 doctrine? What keeps it from closing the mind that a truly
-liberal education is meant to open? 
-(Formulate challenge here.)
+liberal education is meant to open? These questions point to
+a paradox in the very notion of a liberal education. For if
+this is to be an education, then there must be something to
+learn, which in that sense determines us. But this something
+must also free us, if the education is to be liberal. How,
+then, is the paradox to be resolved? What should we say is
+learned in a liberal education alone that at once determines us
+yet frees us? 
+
+(Organization of following part: make point about liberating us
+from content: first in liberal arts (with examples) then with ignorance
+(Pamela Kraus example), and finally with learning.
+(Shift from liberation from content to flight from content.)
+
 
 Suppose our given
 condition were to think we know when we don't. Or to have
