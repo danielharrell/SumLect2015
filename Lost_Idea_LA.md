@@ -171,24 +171,19 @@ It is this question, I think, that poses a challenge to
 liberal education from within. And it leads to the threat
 that worries me. For the answer implicit in our defenses of
 liberal education, so far as I can tell, is that a liberal
-education has no content. 
+education has no content.
 
-we now commonly give to this
-question suggests that a liberal education (And this
-challenge leads to the threat that worries me, with a kind
-of logic that I will now try to trace.) Traditionally, the
-content of a liberal education was identified with
-a curriculum of seven liberal arts, a so-called *trivium* of
-grammar, logic, and rhetoric; and a *quadrivium* of
-arithmetic, geometry, music, and astronomy. Each of these
-arts was thought to marry a skill and a subject. And
-together, these arts were thought to form a whole. This is
-why one could say there was *something* to learn in
-a liberal education, rather than many things, or anything,
-or nothing. 
+Traditionally, this content was identified with a curriculum
+of seven liberal arts, a so-called *trivium* of grammar,
+logic, and rhetoric; and a *quadrivium* of arithmetic,
+geometry, music, and astronomy. Each of these arts was
+thought to marry a skill to a subject. And together, these
+arts were thought to form a whole. This is why one could say
+there was *something* to learn in a liberal education,
+rather than many things, or anything, or nothing. 
 
 But one might also say, or at least suspect, that this
-medieval curriculum was a form of initiation and
+curriculum was a form of initiation and
 indoctrination, with a history of exclusion and oppression.
 For the liberal arts were traditionally learned by the few
 rather than the many---the leisured few, in that sense
@@ -201,9 +196,72 @@ What distinguishes content, so-called, from dogma, or
 doctrine? What keeps it from closing the mind that a truly
 liberal education is meant to open? 
 
-to we
-learn But this challenge to 
+There are more specific reasons, however, to be suspicious
+of content. Perhaps the most pressing comes from the
+perceived threats to liberal education, which leaving
+headlines aside, can seem to reflect a triumph of content
+over context, from college rankings and scorecards at the
+start, to tests and grades at the end, making the very
+meaning of education a matter of data-driven results, and
+any choice against liberal education the answer to
+a question never asked. Against all this, the first thing we
+might think to say is that answers are not enough, results
+are not enough, content is not enough. Or to offer just two
+quotes from what we actually have said
+in this vein:
 
+> The maturation of the student---not
+information transfer---is the real purpose of colleges and
+universities. Of course, information transfer occurs during
+this process. One cannot become a master of one’s own
+learning without learning something. But information
+transfer is a corollary of the maturation process, not its
+primary purpose.[^NelsonInfoTransfer]
+
+
+> If we are to navigate skillfully the turbulent changes of
+the twenty-first century, we must educate students not only
+to process information effectively, but to think wisely and
+well. To my mind, nothing fosters that end better than
+a liberal arts education.[^Creighton]
+
+[^NelsonInfoTransfer]:<http://blogs.sjc.edu/christopher-nelson/2014/12/11/looking-value-college-wrong/>
+[^Creighton]:<https://www.mtholyoke.edu/joannecreighton/article_liberal99>
+
+This second quote, and its talk of the turbulent changes of
+the twenty-first century, reflects a second reason to be
+suspicious of content, along with a more direct motivation
+for ridding the liberal arts, in effect, of content. For if
+we did live in a world that changes more than it abides,
+then our freedom might be thought a matter of adaptation
+more than application. Empowering quote here perhaps. Or
+again to quote from what we actually say: Any art that
+deserved the name 'liberal', in that case, would involve
+a skill more likely divorced from any subject than married
+to one; which is to say, a skill that can be applied to many
+subjects, even to every subject, in a kind of liberation
+from content. And suppose the number of such subjects to
+have multiplied past counting since medieval times, in one
+of the most striking ways the world has changed, with the
+advent of modern science. This would seem to leave the
+number of liberal arts indefinite, and better understood to
+encompass a variety or diversity than to form some totality
+or whole, in still another liberation from content.     
+
+content. For , and provides a first motivation for re-thinking There are
+specific things, moreover, that seem to confirm this
+suspicion of content. s suspicion of content gains apparent
+confirmation, moreover, when Here maybe mention that this is
+what the challenge is. But meeting it means denying content
+implicity, liberating from content rather than learning of
+content. to we learn But this challenge to 
+
+"With boundaries among the
+disciplines vanishing, with job requirements and needs changing rapidly, we need
+citizens prepared for change, prepared to adapt to jobs that do not yet exist, prepared to
+enter an unknown world with a kind of fearless determination to undertake whatever is
+required to succeed. We will need skills of inquiry to enter a world we cannot yet even
+envision" <http://www.sjc.edu/files/8013/9593/4530/league-of-women-voters-2011.pdf>
 Our 
 (Organization of following part: make point about liberating us
 from content: first in liberal arts (with examples) then with ignorance
@@ -218,22 +276,6 @@ of a liberal education would then seem to lie in the
 recollection of questions, or a knowledge of ignorance. Both
 to say, in something less like the learning of content, and
 more like the liberation from content. 
-
-Or to look at our given condition from another angle,
-suppose we lived in a world that changes more than it
-abides, and our freedom, then, a matter of adaptation more
-than application. Any art that deserved the name 'liberal',
-in that case, would involve a skill more likely divorced
-from any subject than married to one; which is to say,
-a skill that can be applied to many subjects, even to every
-subject, in yet another liberation from content. And suppose
-the number of such subjects to have multiplied past counting
-since medieval times, in one of the most striking ways the
-world has changed, with the advent of modern science. This
-would seem to leave the number of liberal arts
-indefinite, and better understood to encompass a variety or
-diversity than to form some totality or whole, in still
-another liberation from content.     
 
 Or to look at our given condition from yet a final angle:
 suppose we could only learn, truly learn, insofar as we did
