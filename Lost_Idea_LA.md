@@ -252,13 +252,14 @@ The current St. John's website, for example,
 [speaks](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts)
 of the college's "wide-ranging, interdisciplinary
 curriculum," and then says that "areas of study
-include"---as if they did not exhaust---"philosophy,
+include"---as if there might be more---"philosophy,
 literature, history, mathematics, economics, political
 theory, theology, biology, physics, music, chemistry, and
-languages." And the website for the earlier-mentioned *Power
-of Liberal Arts* campaign [makes it
+languages." And other lists of liberal-arts subjects are
+even more expansive. Here is one from the earlier-mentioned
+*Power of Liberal Arts* campaign, which [makes it
 sound](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
-as if you might study anything in a liberal education: 
+as if you might study anything:  
 
 > You might be surprised by the kinds of subjects and majors
 that are included in the liberal arts. They include much
@@ -272,21 +273,99 @@ psychology. Students can study newer subjects, such as
 environmental science and neuroscience, and traditional
 ones, too.
 
-But thisAnd to say a liberal education allows you to study anything
-goes hand in hand with saying it prepares you for anything,
-which turns us to a set of skills again separated from
-subjects. On the same website this is captured as "By
-studying the liberal arts, students develop strong critical
-thinking, problem solving, and communication skills. Liberal
-arts students learn to approach questions flexibly and to
-think across multiple disciplines." A more usual way to put
-this is to say, as does Zakaria in his book, a liberal education
-teaches you how to write, how to speak, how to learn, how to think. 
+And the website for *My College Guide* takes a final step in
+this direction of expansion when it
+[answers](http://mycollegeguide.org/articles/8/145/what-are-liberal-arts)
+the question "What do liberal arts majors learn?" with the
+quip: "A better question would be: What won't you
+learn?"---as if you could learn not just anything, but
+everything. And in a sense you do learn "everything,"
+according to defenses of liberal education, but this is
+spelled out not in terms of subjects, but instead in terms
+of skills. You learn everything, then, in learning *how* to
+learn. And this encompasses a range of skills similarly
+presented apart from any
+subjects: how to read, how to write, how to speak, even
+how to think.[^ZakariaEarthly] Or as one college close to home
+[puts it:](<http://www.sjc.edu/about/why-sjc/>) "St. John's
+students learn to speak articulately, read attentively,
+reason effectively, and think creatively."
+
+[^ZakariaEarthly]: For a typical example of this see
+<http://www.huffingtonpost.com/fareed-zakaria/fareed-zakaria-liberal-arts-education_b_5380896.html>
+
+And to speak of skills apart from subjects this way, when
+the times are turbulent, can seem to capture the very
+essence of a truly liberal art. Here is [one
+example](http://www.sjc.edu/files/8013/9593/4530/league-of-women-voters-2011.pdf)
+of this, from an address by Chris Nelson, where the skills
+in question are "skills of inquiry": 
+
+> With boundaries among the disciplines vanishing, with job
+requirements and needs changing rapidly, we need citizens
+prepared for change, prepared to adapt to jobs that do not
+yet exist, prepared to enter an unknown world with a kind of
+fearless determination to undertake whatever is required to
+succeed. We will need skills of inquiry to enter a world we
+cannot yet even envision.
+
+
+But so-called "skills of inquiry" is just one way to capture
+the sense in which a truly liberal art involves a skill
+without a subject. A more common way speaks of the liberal
+arts not as if they impelled us, but instead as if they
+empowered us. The aforementioned [*Power of Liberal Arts*
+campaign](http://www.liberalartspower.org/Pages/default.aspx)
+is the most explicit example of this. Another is to speak of
+the liberal arts as useful; and "useful" has become a ubiquitous
+word in defenses of liberal education, as one might expect,
+against the opinion, and indeed the traditional conviction,
+that the liberal arts are useless.[^Linker] A related
+example is to call the liberal arts "transferable skills,"
+a common way to gloss their usefulness, which makes the
+separation of skill from subject explicit.[^transferable]
+
+### Lack of content in inquiry
+
+It also makes a kind of
+sense, even if the times aren't turbulent. For the
+difference between learning *how* to think and
+learning *what* to think, so again it might be argued, is
+precisely the difference between being educated and being indoctrinated.
+And this leads to a third reason to wonder
+if a liberal education has any content. For suppose...
+
+[^Linker]: "How can liberal education be saved? By becoming truly, enduringly
+useful." <http://theweek.com/articles/559681/how-save-liberal-arts-education>
+
+[^transferable]: "Although modern liberal arts curriculums have an updated
+choice of a larger range of subjects, it still retains the
+core aims of the liberal arts curricula maintained by the
+medieval universities: to develop well-rounded individuals
+with general knowledge of a wide range of subjects and with
+mastery of a range of transferable skills. They will become
+‘global citizens’, with the capacity to pursue lifelong
+learning and become valuable members of their communities."
+<http://www.topuniversities.com/blog/what-liberal-arts-education>
+
+ as peaking of them as useful skills,
+And to speak of skills this way apart from subjects is to
+speak of them, it seems, as liberal.  it would arguably be indoctrination rather than
+education if we learned what to read, what to write, what to
+say, and what to think. And And think rather than how. And
+the force of calling the thinking we learn how to do
+"creative"  subjects his separation of skills from subjects
+reflects the sense in which the skills are liberal. One way
+to understand this separation of skills from subjects is to
+ask what it would mean if ether we would call it education
+rather than indoctrination if we learned what to  To
+separate skills from subjects this way makes
+
 
 Page 60 of Zakaria book: hat "to speak
 articulately, read attentively, reason effectively, and
 think creatively." St. John's way of putting this
-<http://www.sjc.edu/about/why-sjc/> ". to say you might
+ ". to say you might
 study anything in a liberal education goes hand in hand with
 saying a liberal education prepares A clear example the
 liberal arts as skills without subjects. Iby recasting them
@@ -295,48 +374,6 @@ of our predicament has it, skills of inquiry: (use inquiry
 as transition to next section, contrasting first with
 Buchanan and then making more general point).
 
-> With boundaries among the disciplines vanishing, with job
-requirements and needs changing rapidly, we need citizens
-prepared for change, prepared to adapt to jobs that do not
-yet exist, prepared to enter an unknown world with a kind of
-fearless determination to undertake whatever is required to
-succeed. We will need skills of inquiry to enter a world we
-cannot yet even envision[^NelsonChange]
-
-[^NelsonChange]:<http://www.sjc.edu/files/8013/9593/4530/league-of-women-voters-2011.pdf>
-
-But so-called "skills of inquiry" is just one way to invoke
-the liberal arts in a separation of skill from subject.
-Another way, which is more common in defenses of liberal
-education that mention the liberal arts, invokes them not as
-if they impelled us, but instead as if they empowered us.
-I have already mentioned the most explicit example of this,
-the Council of Independent Colleges' [*Power of Liberal
-Arts*
-campaign](http://www.liberalartspower.org/Pages/default.aspx).
-Calling the liberal arts "useful" is another example; and
-this has become ubiquitous in defenses of liberal education,
-as one might expect, against the opinion, and indeed the
-traditional conviction, that the liberal arts are useless.
-Still another example is to call the liberal arts
-"transferable skills," a common way to gloss their
-usefulness, which makes the separation of skill from subject
-explicit, and also makes a kind of sense, especially if the
-times are turbulent.[^transferable] 
-(Put examples here.)
-(Put
-examples here.)
-
-[^transferable]: [For
-example (italics added)](http://www.topuniversities.com/blog/what-liberal-arts-education):
-"Although modern liberal arts curriculums have an updated
-choice of a larger range of subjects, it still retains the
-core aims of the liberal arts curricula maintained by the
-medieval universities: to develop well-rounded individuals
-with general knowledge of a wide range of subjects and with
-mastery of a range of *transferable skills*. They will become
-‘global citizens’, with the capacity to pursue lifelong
-learning and become valuable members of their communities."
 
 What has accordingly replaced the traditional list of
 liberal arts is, at one end, an open-ended range of
