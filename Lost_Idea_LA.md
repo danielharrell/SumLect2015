@@ -95,7 +95,7 @@ gathers blog posts defending liberal education.
 and America's Promise*](https://www.aacu.org/leap), launched in 2005 by the Association of
 American Colleges and Universities.
 
-But what if these defenders have succeeded---in 
+But what if the defenders have succeeded---by 
 putting liberal education in peril? What if the threat to
 liberal education comes from within? This is my worry. Let
 the idea of a liberal art, for the moment, simply mean
@@ -108,7 +108,7 @@ In my lecture, then, I want to explain why I worry we have
 lost this idea, and what it is, more exactly, we may have
 lost. 
 
-## Part One
+## Liberal Education as an answer
 
 Now in one sense, I think, the threat to liberal education
 must always come from within. The fate of liberal education,
@@ -165,16 +165,9 @@ content.
 But if so, then what *is* this content? What should we say is
 learned in a liberal education alone? 
 
-## Part Two
+## The link of the answer to the liberal arts, and its rejection
 
-It is this question, I think, that poses a challenge to
-liberal education from within. And it leads to the threat
-that worries me. For the answer implicit in our defenses of
-liberal education, so far as I can tell, is that a liberal
-education has no content.
-
-From one point of view, this is unsurprising, and all to the
-good. For traditionally, the content of a liberal education
+Traditionally, the content of a liberal education
 was identified with a curriculum of seven liberal arts,
 a so-called *trivium* of grammar, logic, and rhetoric; and
 a *quadrivium* of arithmetic, geometry, music, and
@@ -182,28 +175,31 @@ astronomy. Each of these arts was thought to marry a skill
 to a subject. And together, these arts were thought to form
 a whole. This is why one could say there was *something* to
 learn in a liberal education, rather than many things, or
-anything, or nothing. But one might also say, or at least
-suspect, that this curriculum was a form of initiation and
-indoctrination, with a history of exclusion and oppression.
-For the liberal arts were traditionally learned by the few
-rather than the many---the leisured few, in that sense
-already free from servitude. The education they received,
-then, was 'liberal,' it could be argued, not in liberating
-them, but in shaping them, stamping them, and perpetuating
-them. And the same might be suspected of any content. For in
-what sense could we be freed by it, rather than bound to it?
-What distinguishes content, so-called, from dogma, or
-doctrine? What keeps it from closing the mind that a truly
-liberal education is meant to open? 
+anything, or nothing. 
 
-There are more specific reasons, however, to suspect that
-a truly liberal education has no content. Perhaps the most
+But one might also say, or at least suspect, that this
+curriculum was a form of initiation and indoctrination, with
+a history of exclusion and oppression. For the liberal arts
+were traditionally learned by the few rather than the
+many---the leisured few, in that sense already free from
+servitude. The education they received, then, was 'liberal,'
+it could be argued, not in liberating them, but in shaping
+them, stamping them, and perpetuating them. And the same
+might be suspected of any content. For in what sense could
+we be freed by it, rather than bound to it? What
+distinguishes content, so-called, from dogma, or doctrine?
+What keeps it from closing the mind that a truly liberal
+education is meant to open? 
+
+### Content is not enough
+There are more specific reasons, however, to wonder if
+a truly liberal education has any content. Perhaps the most
 pressing comes from the perceived threats to liberal
-education, which leaving headlines aside, can seem to
+education, which, leaving headlines aside, can seem to
 reflect a triumph of content over context, from college
 rankings and scorecards at the start, to tests and grades at
 the end, making the very meaning of education a matter of
-data-driven results, and any choice against liberal
+data-driven results, and a choice against liberal
 education the answer to a question never asked. Against all
 this, the first thing we might think to say is that answers
 are not enough, results are not enough, content is not
@@ -228,12 +224,76 @@ a liberal arts education.[^Creighton]
 [^NelsonInfoTransfer]:<http://blogs.sjc.edu/christopher-nelson/2014/12/11/looking-value-college-wrong/>
 [^Creighton]:<https://www.mtholyoke.edu/joannecreighton/article_liberal99>
 
-And this second quote, with its talk of turbulent change,
-reflects a second reason to be suspicious of content, and
-suggests a more direct motivation for ridding the liberal
-arts of content, in effect, by recasting them as skills
-without subjects. Or, as the following description of our
-predicament has it, skills of inquiry: 
+### Skills separated from subjects
+
+Talk of turbulent change points to a second reason we might
+wonder if a liberal education has any content.  For suppose
+we did live in a world that changes more than it abides,
+where our freedom, to the extent this depended on skill,
+were a matter of adaptation more than application. Any art
+that deserved the name 'liberal', in that case, would
+involve a skill more likely divorced from any subject than
+married to one; which is to say, a skill that can be applied
+to many subjects, even to every subject, in a kind of
+liberation from content. And suppose the number of such
+subjects to have multiplied past counting, in one way the
+world indeed seems to have changed, since the advent of
+modern science. If the liberal arts could still be said to
+encompass a set of subjects, then it would seem better
+understood as a diversity than as a totality, in yet another
+liberation from content.  
+
+And it has indeed become common in defenses of liberal
+education to separate its skills from its subjects. The
+subjects, if they are specified at all, are specified to
+give an impression of breadth, as if there were many things
+one might learn in a liberal education rather than just one.
+The current St. John's website, for example,
+[speaks](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts)
+of the college's "wide-ranging, interdisciplinary
+curriculum," and then says that "areas of study
+include"---as if they did not exhaust---"philosophy,
+literature, history, mathematics, economics, political
+theory, theology, biology, physics, music, chemistry, and
+languages." And the website for the earlier-mentioned *Power
+of Liberal Arts* campaign [makes it
+sound](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
+as if you might study anything in a liberal education: 
+
+> You might be surprised by the kinds of subjects and majors
+that are included in the liberal arts. They include much
+more than studio art and English classes (though those are
+great!)---they range from mathematics to Mandarin, from
+statistics to sociology. At liberal arts colleges and
+universities students can study the sciences---such as
+biology, chemistry, and physics---and social
+sciences---including economics, political science, and
+psychology. Students can study newer subjects, such as
+environmental science and neuroscience, and traditional
+ones, too.
+
+But thisAnd to say a liberal education allows you to study anything
+goes hand in hand with saying it prepares you for anything,
+which turns us to a set of skills again separated from
+subjects. On the same website this is captured as "By
+studying the liberal arts, students develop strong critical
+thinking, problem solving, and communication skills. Liberal
+arts students learn to approach questions flexibly and to
+think across multiple disciplines." A more usual way to put
+this is to say, as does Zakaria in his book, a liberal education
+teaches you how to write, how to speak, how to learn, how to think. 
+
+Page 60 of Zakaria book: hat "to speak
+articulately, read attentively, reason effectively, and
+think creatively." St. John's way of putting this
+<http://www.sjc.edu/about/why-sjc/> ". to say you might
+study anything in a liberal education goes hand in hand with
+saying a liberal education prepares A clear example the
+liberal arts as skills without subjects. Iby recasting them
+as skills without subjects. Or, as the following description
+of our predicament has it, skills of inquiry: (use inquiry
+as transition to next section, contrasting first with
+Buchanan and then making more general point).
 
 > With boundaries among the disciplines vanishing, with job
 requirements and needs changing rapidly, we need citizens
@@ -262,23 +322,9 @@ Still another example is to call the liberal arts
 "transferable skills," a common way to gloss their
 usefulness, which makes the separation of skill from subject
 explicit, and also makes a kind of sense, especially if the
-times are turbulent.[^transferable] For suppose we did live
-in a world that changes more than it abides, where our
-freedom, to the extent this depended on skill, were a matter
-of adaptation more than application. Any art that deserved
-the name 'liberal', in that case, would involve a skill more
-likely divorced from any subject than married to one; which
-is to say, a skill that can be applied to many subjects,
-even to every subject, in a kind of liberation from content.
+times are turbulent.[^transferable] 
 (Put examples here.)
-And still another liberation from content seems to result
-from any attempt to re-identify the liberal arts with a set of
-subjects. For one way the world indeed seems to have
-changed, since the advent of modern science, is in the
-number of such subjects, having multiplied past counting.
-This would seem to leave the would-be number of liberal arts
-indefinite, and better understood to encompass a variety, or
-diversity, than to comprise some totality or whole. (Put
+(Put
 examples here.)
 
 [^transferable]: [For
@@ -1057,14 +1103,7 @@ website](http://www.topuniversities.com/blog/what-liberal-arts-education).
 To base If
 there is and where the most commonly listed item is the term "*et
 cetera*". equally indefinite breadth, if you do a simple Google search
-for the phrase "liberal artsAnd two more lists can be found on [the same
-page](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts/)
-of the current St. John's website.  The first list has twelve items on
-it: philosophy, literature, history, mathematics, economics, political
-theory, theology, biology, physics, music, chemistry, and languages. And
-the second list reduces this twelve to eight: music and literature,
-philosophy and theology, history and social science, mathematics and
-natural science.  There is nothing that accompanies either list to
+for the phrase "liberal artsThere is nothing that accompanies either list to
 explain why *these* are the liberal arts, or to explain why one list
 differs from the other, or even to explain why both differ from the
 medieval list you may recall.  And if you do recall the medieval list,
