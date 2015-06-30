@@ -278,7 +278,7 @@ psychology. Students can study newer subjects, such as
 environmental science and neuroscience, and traditional
 ones, too.
 
-And this same impression of breadth is given in the way
+This same impression of breadth is given in the way
 defenses of liberal education present its skills apart from
 subjects. You can indeed learn anything, then, in learning
 *how* to learn. And this encompasses a range of skills
@@ -355,8 +355,10 @@ St. John's, where it would sound antiquated to claim, as
 Scott Buchanan did in the first catalog of the New Program,
 on behalf of a traditional conception of liberal arts, that
 these were "the arts of apprehending, understanding, and
-knowing the truth."[^Buchanan] Here are recent two examples, both from
-blogposts of Chris Nelson, of what we say instead:
+knowing the truth."[^Buchanan] What we say instead is self-consciously
+Socratic; I give two recent examples of this,
+one from a blogpost of Chris Nelson; the other from an address given
+by a recent St. John's graduate:
 
 > Liberal education is the best and quickest way to become
 comfortable not knowing. By mastering a range of subject
@@ -364,12 +366,19 @@ matter that may not always be congenial, students are
 repeatedly brought to the point of intellectual impasse. In
 time, they become comfortable with their ignorance.[^Nelson_comfort]
 
-> To learn, students must be open to the new and the unknown.
-They must examine ideas inherited from others and question
-statements made by others. They must even reexamine what
-they think they know on the basis of prior examination. In
-other words, learning is grounded in recognition and
-acceptance of one’s own ignorance.[^Nelson_ignorance]
+> Before I came to the College, I read enthusiastically, yet
+timidly. Now I read with fiercely inquisitive bravery.
+I have learned that great questions lead to more and more
+questions, not necessarily to answers, and I have learned
+that the greatness of the human spirit shows itself in just
+this realization. As Socrates says in Plato’s *Meno*: “We
+shall be better and braver and less helpless if we think
+that we ought to enquire, than we should have been if we
+indulged in the idle fancy that there was no knowing and no
+use in seeking to know what we do not know.” We must have
+intellectual bravery, that is, the courage to push forward,
+to continue seeking truth even in the face of doubts about
+its very existence.[^Tyson]
 
 [^Buchanan]: "The arts of apprehending, understanding, and knowing the
 truth are the liberal arts, and they set their own ends."
@@ -377,7 +386,6 @@ truth are the liberal arts, and they set their own ends."
 
 [^Nelson_comfort]: <http://blogs.sjc.edu/christopher-nelson/2014/10/20/knowing-learn/>
 
-[^Nelson_ignorance]: <http://blogs.sjc.edu/christopher-nelson/2014/11/10/accountability-commodifying-examined-life/>
 
 A final example in this vein comes from the announcement for
 a conference on liberal education, held on the Santa Fe campus
@@ -396,56 +404,43 @@ we do, and the liberal arts mentioned only in passing.
 > studies in the liberal arts (interpretive and substantive
 > work on texts and within disciplines).[^SFConf]
 
-
 [^SFConf]: <http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>
 
-St. John's recently even tried dropping any reference to the
-liberal arts on its website, in the attempt, as I will
-generously describe this, to give a more vibrant sense of
-St. John's Socratic heart. We so come to a final reason we
-might wonder if a liberal education has any content; and
-perhaps our best reason to forget rather than recall the
-idea of a liberal art. For suppose we were able to learn,
-truly learn, only insofar as we did this for ourselves. What
-we learned, in that case, would seem to be found in the
-self, or even the soul, rather than in a set of subjects.
-And the more liberal an education becomes, so we might say,
-the more that *what* we learn is a matter of *how* we learn,
-and who we become in learning it. And at one college, at
-least, this means that the more liberal an education
-becomes, the more that any so-called subject is found in
-a book, which is found in a reader of that book, who is
-found in a conversation about that book, which brings the
-book to life, with all it may contain. And this
-conversation, both with others and with oneself, would
+It is this same Socratic approach that explains why an
+all-required program of books, which might otherwise be
+thought full of content, can more deeply be said to lack it.
+For anything written down, we could claim, is simply
+doctrine, until a reader puts it into dialogue by
+questioning it rather than assimilating it. This brings us
+to a final reason we might wonder if a liberal education has
+any content; and perhaps our best reason to forget the idea
+of a liberal art. For suppose we were only able to learn,
+truly learn, insofar as we did this for ourselves, from
+within. What we learned, in that case, would seem to be
+found in the self, or even the soul, rather than in a set of
+subjects. And this is the same self that a liberal
+education makes free. So the more liberal an education becomes, we
+might say, the more that *what* we learn is a matter of
+*how* we learn, and *who* we become in learning it. Which at
+one college, at least, is to say the more that any so-called
+subject is found in a book, which is found in a reader of
+that book, who is found in a conversation about that book,
+which brings the book to life, with all it may contain. And
+this conversation, both with others and with oneself, would
 embody a liberal education without content: an education in
 selfhood rather than subjects, where the something we
 finally learn is what it means to learn, and even what it
-means to love it.  
+means to love it.   
 
 The suspicion that a truly liberal education has no content,
 then, can be cast in terms that encompass what many of us,
 I think, might say a liberal education finally is, and where
 any appeal to a number of liberal arts seems beside the
-point. It is no surprise, then, that the self, and a
-a self ready for anything, is perhaps the most defining
-element in defenses of liberal education made by students of
-it. Here are two passages by way of example, both from
-a recent address given by one St. John's graduate: 
-
-> Before I came to the College, I read enthusiastically, yet
-timidly. Now I read with fiercely inquisitive bravery.
-I have learned that great questions lead to more and more
-questions, not necessarily to answers, and I have learned
-that the greatness of the human spirit shows itself in just
-this realization. (As Socrates says in Plato’s *Meno*: “We
-shall be better and braver and less helpless if we think
-that we ought to enquire, than we should have been if we
-indulged in the idle fancy that there was no knowing and no
-use in seeking to know what we do not know.”) We must have
-intellectual bravery, that is, the courage to push forward,
-to continue seeking truth even in the face of doubts about
-its very existence.
+point. It is no surprise, then, that the self, and a self
+ready for anything, is a final element in defenses of
+liberal education, as a way of characterizing its end. Here
+are one example from the same address by a recent St. John's graduate
+that I quoted just above: 
 
 > After my two-year commitment with Teach For America,
 I hope to continue my work in the field of education. But
@@ -458,19 +453,47 @@ here. [^Tyson]
 
 [^Tyson]: <http://www.thejohnniechair.com/when-you-know-better-you-do-better-a-seniors-reflections-on-st-johns/> and parts quoted in <http://www.huffingtonpost.com/christopher-nelson/is-it-worth-it_1_b_3321206.html>
 
-I think it safe to say that for most of us, this graduate of
-the college gives a better voice to liberal education than
-would the likes of an Edward Casaubon, for example; or a Mississippi
-slave-holder who knows his Greek. And in that sort of
-contrast, I think, we can find reason enough to suppose that
-we are better off forgetting the idea of a liberal art than
-recalling it, much less reviving it.  
+I can mention one more example of this as a way to conclude
+Part One. For in wanting to capture this kind of student
+voice on behalf of its education, St. John's performed an
+experiment for several months when it first launched its new
+website. And the experiment was to describe itself without
+a word about the liberal arts, or even liberal
+education, in the most conspicuous attempt I know of simply
+to forget the whole idea. 
+
 
 ## Part Two
 
-But then again, another alumni compared this
-to bringing a canary into a coalmine, and then shooting it
-in the head.
+Here is what another graduate of St. John's had to say
+about its experiment, in one of the few recently-published
+defenses of liberal education that I think is worth reading: 
+
+> Even my own alma mater, St. John’s College, a liberal arts
+college par excellence, has recently dropped both “liberal
+arts” and “liberal education” from its own
+self-description---which is a bit like the canary you brought
+down into the coal mine drawing out a little pistol and
+shooting itself in the head. St. John’s now speaks about an
+education that develops “critical thinking and
+collaboration”---good things, to be sure, but skills one can
+learn behind that notorious Starbucks counter, where you’re
+at least getting paid. Or, for that matter, in kindergarten.[^McClay]
+
+[^McClay]: <http://spectator.org/articles/60752/defense-liberal-arts>
+
+Having given the best Just a moment ago, I gave what
+I called a generous description of St. John's briefly-lived
+attempt to drop any reference to the liberal arts on its
+website. But a less generous description was given by an
+alumna at the time, and I confess I find it far closer to
+the truth: she likened it to bringing a canary into
+a coalmine, and then shooting it in the head. entioned that
+St. John's did an experiment, since abandoned, where it
+dropped any reference to the liberal arts. gave a generous
+reading of an experiment St. John's did, since abandoned,
+But then again, another alumni compared this to bringing
+a canary into a coalmine, and then shooting it in the head.
 
 hen mentioning that St. John's dropped liberal arts, also mention McClay's reply.
 Liberal education faces its own
