@@ -563,9 +563,44 @@ This, then, is the first problem with a defense of liberal
 education that deprives it, in effect, of any content. The
 defense makes it hard to distinguish a liberal education
 from any education, or even from what happens in human life
-regardless of education. But this leads to a second
-problem, which is more serious insofar as it implies
-something self-defeating in the defense. 
+regardless of education. Or to put this problem another way,
+to speak of a liberal education as if it had no content makes
+it harder, not easier, to see how it provides an answer
+to the question of what it means to be educated. And this makes it
+easier to think that a choice against liberal education is not just another answer
+to the question, but the only
+answer. can make
+it seem as if another answer is the only answer. cation. But this leads to a second problem,
+which is more serious insofar as it implies something
+self-defeating in the defense. 
+
+For if there is no reason to choose a liberal
+education over any other form of education given what is said on its behalf, then
+For if a distinction between different kinds of
+distinction then depends on content, and the choice about one's education depends on drawing such
+a distinction, lack of content erases the 
+distinction between one education and another, then wmaking that distinction, if speaking about a liberal education as
+if it lacked content makes it seem no different from any education, then what
+does distinguish one education from another will be its content. s no
+different from any education insofar as it lacks content, is nothing said about a
+liberal education that distinguishes it from any education, then what
+will distinguish such an education is its content. a choice about one's education
+means choosing one education over another, then there is nothingthe defense is meant to
+present if speaking about
+a liberal education as if it lacked content makes it seem no
+different from any education, then it risks escaping the
+notice of anyone faced with a choice a liberal education
+cannot be distinguished you cannot distinguish a liberal
+education from any education, there is no clear distinction
+being drawn between a liberal education and any education
+a liberal education cannot be clearly distinguished from any
+education insofar as it lacks content, then choosing
+a education  means paying attention to content, which would
+seem to mean a choice against liberal education. such
+a defense risks making any choice about education a matter
+of content, since there is nothi about one's education means
+choosing one education to speak of liberal education as if
+it lacked content, is to risk making any education 
 
 which is that such a defense makes any choice about
 education seem a matter of content. 
@@ -605,6 +640,7 @@ to pride rather than humility.
 Note, adjectives are absurd and insulating. The line of defense
 falls apart as soon as you take it seriously and not just rhetorically.
 Or to put this another way, that reveals a second 
+
 But we can recognize that this rejoinder, too, is not
 enough, and even see that saying what more is needed, if
 this is context, escapes being specified, in just the
