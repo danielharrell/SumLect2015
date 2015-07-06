@@ -5,6 +5,7 @@
 
 <!--Perhaps replace "defenses" with "defenders" in much of what
 follows-->
+<!--Perhaps streamline quotes-->
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the future of
@@ -55,7 +56,8 @@ Education*](http://books.wwnorton.com/books/In-Defense-of-a-Liberal-Education/).
 There are blogs to defend liberal education, including [one
 at St. John's](http://blogs.sjc.edu/christopher-nelson/)
 featuring regular posts by Christopher Nelson, the Annapolis
-president.[^blogs] There are campaigns to defend liberal
+president.[^blogs] <!--Perhaps mention that you'll be quoting from
+this in what follows.--> There are campaigns to defend liberal
 education, with slogans like *Securing America's Future: The
 Power of Liberal Arts Education,* to mention just [one
 initiative](http://www.cic.edu/Research-and-Data/Liberal-Arts/Campaign/Pages/default.aspx),
@@ -106,24 +108,6 @@ of education---a technical education, say. What if our many
 defenses of liberal education have made us forget this idea?
 What if the idea of a liberal art is lost?
 
-This will be the proposal of my lecture tonight. In what
-follows, I want to show how it is possible, even plausible,
-to infer from current defenses of liberal education,
-including those made at St. John's, that we have lost the
-idea of a liberal art, and in a double sense. We have lost
-it, first, in *an act* of forgetting; and second, in *a
-state* of forgetting caused by the act. In the first sense
-of forgetting, we would be in a condition of knowledge, more
-or less, about what we have lost. And a case for this will
-be made in the first half of my lecture. But in the second
-sense of forgetting, we would be in a condition of ignorance
-about what we have lost. And a case for this will be made in
-the second half of my lecture. One way to speak of the two
-senses together, in another formulation of the lecture's
-proposal, and by way of concluding this introduction, is to
-say that *we* are lost, once the idea of a liberal art is
-lost. 
-
 <!--Perhaps use "lost" near the end, when
 speaking of how we place liberal education in the world.-->
 
@@ -131,9 +115,7 @@ speaking of how we place liberal education in the world.-->
 art is the lose the distinction between a liberal education and
 any other form of education.-->
 
-## Part One
-
-Now in one respect, I think, the threat to liberal education
+Now in one sense, I think, the threat to liberal education
 must always come from within. The fate of liberal education,
 after all, will not be decided in headlines, but in
 choices made by each of us about the best education, once
@@ -231,39 +213,25 @@ are not enough, results are not enough, answers are not
 enough, content is not enough. 
 
 Defenses of liberal education, accordingly, have generally
-made education a matter of context rather than content. And
-perhaps the most common way of doing this is to locate
+made education a matter of context rather than content. 
+Perhaps the most common way of doing this is to locate
 learning not in a set of subjects, but instead in the self.
-Here are two examples of this, the first from an address by
-Christopher Nelson: 
-
-> The maturation of the student---not
+Thus it is said that "the maturation of the student---not
 information transfer---is the real purpose of colleges and
-universities. Of course, information transfer occurs during
-this process. One cannot become a master of one’s own
-learning without learning something. But information
-transfer is a corollary of the maturation process, not its
-primary purpose.[^NelsonInfoTransfer]
-
-
-> If we are to navigate skillfully the turbulent changes of
+universities."[^NelsonInfoTransfer] Or that "if we are to navigate skillfully the turbulent changes of
 the twenty-first century, we must educate students not only
 to process information effectively, but to think wisely and
-well. To my mind, nothing fosters that end better than
-a liberal arts education.[^Creighton]
+well."[^Creighton]
 
 [^NelsonInfoTransfer]:<http://blogs.sjc.edu/christopher-nelson/2014/12/11/looking-value-college-wrong/>
 [^Creighton]:<https://www.mtholyoke.edu/joannecreighton/article_liberal99>
 
-The talk of turbulent changes in the second quote points to
-still another way that defenses of liberal education have
-made it a matter of context: by locating the self in an
-ever-changing world. Here is one example of this, again from
-an address by Chris Nelson: 
-
+And talk of turbulent changes points to another way that
+defenses of liberal education have made it a matter of
+context: by locating the self in an ever-changing world.
 Here is [one
 example](http://www.sjc.edu/files/8013/9593/4530/league-of-women-voters-2011.pdf)
-from an address by Chris Nelson: 
+of this, from an address by Chris Nelson: 
 
 > With boundaries among the disciplines vanishing, with job
 requirements and needs changing rapidly, we need citizens
@@ -273,36 +241,34 @@ fearless determination to undertake whatever is required to
 succeed. We will need skills of inquiry to enter a world we
 cannot yet even envision.
 
-We can also begin to see from this quote why making liberal
+We can begin to see from this quote why making liberal
 education a matter of context rather than content, means
-forgetting, in effect, the idea of a liberal art. For
-suppose we did live in a world that changes more than it
+forgetting, more or less deliberately, the idea of a liberal
+art. For suppose we did live in a world that changes more than it
 abides, where our freedom, to the extent this depended on
 skill, was a matter of adaptation more than application.
-<!--Later correct this as a world that doesn't change, 
-because the truth doesn't change.--> Any art
-that deserved the name 'liberal', in that case, would
-involve a skill more likely divorced from any subject than
-wedded to one; which is to say, a skill that can be applied
-to many subjects, even to every subject, in a kind of
-liberation from content. And suppose the number of such
-subjects to have multiplied past counting, in one way the
-world indeed seems to have changed, since the advent of
-modern science. <!--Perhaps allude to this later. Modern
-science produces diversity; ancient science a totality.--> If
-the liberal arts could still be said to encompass a set of
-subjects, then it would seem better understood as
-a diversity than as a totality, in yet another liberation
-from content.  
+<!--Later correct this as a world that doesn't change,
+because the truth doesn't change.--> Any art that deserved
+the name 'liberal', in that case, would involve a skill more
+likely divorced from any subject than wedded to one; which
+is to say, a skill that can be applied to many subjects,
+even to every subject, in a kind of liberation from content.
+And suppose the number of such subjects to have multiplied
+past counting, in one way the world indeed seems to have
+changed, since the advent of modern science. <!--Perhaps
+allude to this later. Modern science produces diversity;
+ancient science a totality.--> If the liberal arts could
+still be said to encompass a set of subjects, then it would
+seem better understood as a diversity than as a totality, in
+yet another liberation from content.  
 
 So once defenses of liberal education make it a matter of
 context, it is unsurprising that they separate its skills
-from its subjects, and in that sense forget the idea of
-a liberal art. The subjects, if they are specified at all,
-are specified to give an impression of breadth, as if there
-were many things one might learn in a liberal education
-rather than just one. The current St. John's website, for
-example,
+from its subjects.  The subjects, if they are specified at
+all, are specified to give an impression of breadth, as if
+there were many things one might learn in a liberal
+education rather than just one. The current St. John's
+website, for example,
 [speaks](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts)
 of the college's "wide-ranging, interdisciplinary
 curriculum," where "areas of study include philosophy,
@@ -343,9 +309,9 @@ reason effectively, and think creatively."
 In a similar vein, defenses of liberal education will call
 the liberal arts "transferable skills," [^transferable],
 again against the backdrop of an ever-changing job market;
-just as "usefulness" has become a ubiquitous word to counter
+and "usefulness" has become a ubiquitous word to counter
 the opinion, and the traditional conviction, that the
-liberal arts are useless.[^Linker]<!--Bring "useless" back up
+liberal arts are useless. <!--Bring "useless" back up
 later, and give a defense of it--> It is more generally the
 habit in defenses of liberal education to talk of the
 liberal arts as if they empowered us rather than enlightened
@@ -354,7 +320,7 @@ campaign](http://www.liberalartspower.org/Pages/default.aspx)
 being the most explicit example.
 
 [^Linker]: "How can liberal education be saved? By becoming truly, enduringly
-useful." <http://theweek.com/articles/559681/how-save-liberal-arts-education>
+useful." <>
 
 [^transferable]: "Although modern liberal arts curriculums have an updated
 choice of a larger range of subjects, it still retains the
@@ -366,23 +332,51 @@ mastery of a range of transferable skills. They will become
 learning and become valuable members of their communities."
 <http://www.topuniversities.com/blog/what-liberal-arts-education>
 
-To conceive a liberal art as a skill without a subject,
-however, can make sense even if the world were
-never-changing rather than ever-changing. For the difference
-between learning *how* to think and learning *what* to
-think, so we might say, is just the difference between being
-educated and being indoctrinated.  Or to revert to an
-earlier formulation of this: a truly liberal education is
-meant to open minds rather than close them. And a deeper
-vein in defenses of liberal education, again making it
-matter of context, locates what is learned in a 
-cultivated openness to the world, whether the self so opened
-is thought to be curious, inquisitive, imaginative,
-self-critical, or sympathetic. A well-known example of this
-strain of defense comes from Martha Nussbaum, who typically
-identifies what is learned in a truly liberal education with
-the following three traits: [puts
-this](http://net.educause.edu/ir/library/pdf/ff0709s.pdf):[^Nussbaum]
+There are deeper strains in this line of defense, that
+try to reach beyond a liberal education's usefulness for any
+career, to the way it might be useful for life, making the
+self, in sense, the subject of its skills. A liberal arts
+education can be "truly, enduringly useful," so [one
+recent 
+defense puts
+it](http://theweek.com/articles/559681/how-save-liberal-arts-education),
+once it is "oriented
+towards the question of how to live." Or as Chris Nelson [has
+written](http://blogs.sjc.edu/christopher-nelson/2015/02/26/hiring-grads-whats-going-part-iv/): 
+
+> The primary purpose of college---contrary to the opinion of
+> hiring managers---is not to provide trained-up workers for
+> business, nor even to provide young people with the skills
+> needed to make a living. The primary purpose is to help
+> young people develop the character and the judgment to
+> shape a life worth living.
+
+In these appeals to the way a life might be shaped, defenses
+of liberal education might be said to deepen the sense in
+which liberal education is a matter of context, not content,
+by locating what is learned in a cultivated readiness for
+the world, whatever the world may hold. Here is how a recent
+St. John's graduate puts it: 
+
+> After my two-year commitment with Teach For America,
+I hope to continue my work in the field of education. But
+really, I can do anything. St. John’s has given me the
+tools: the ability to listen, to think, to speak, to write,
+and ultimately, to act. I need only to decide where to
+direct my passion, and the world is mine, thanks to the
+incredible education I have had the blessing to receive
+here. [^Tyson]
+
+[^Tyson]: <http://www.thejohnniechair.com/when-you-know-better-you-do-better-a-seniors-reflections-on-st-johns/> and parts quoted in <http://www.huffingtonpost.com/christopher-nelson/is-it-worth-it_1_b_3321206.html>
+
+And there are ways to deepen this context still further; the
+most common way, I think, is to take this readiness for the
+world as an openness to the world, whether the self so
+opened is thought to be curious, inquisitive, imaginative,
+self-critical, or sympathetic. Thus we find Martha Nussbaum,
+to pick on a famous example, [defending liberal
+education](http://net.educause.edu/ir/library/pdf/ff0709s.pdf)
+insofar as it develops[^Nussbaum]
 
 1. The capacity for Socratic
 self-criticism and critical thought about one's own traditions.
@@ -397,40 +391,18 @@ of this list, from *Not for Profit: Why Democracy Needs the Humanities* (p.7), r
 2. The ability to transcend local loyal­ ties and to approach world problems as a “citizen of the world."   
 3. The ability to imagine sympathetically the predicament of another person.
 
-But as her reference to Socrates in the first trait suggests,
-this strain of defense has particular appeal and has gained
-particular attraction at St. John's. Socrates 
-For suppose our given condition---that is, our
-uneducated condition---were to think we know when we don't.
-Or suppose we had answers, in a sense, but to questions that
-have been forgotten. The end of a liberal education would
-then seem to lie in a recollection of questions; or
-a knowledge of ignorance. Which is to say, in something less
-like the learning of content, and more again like the
-liberation from content.
+And as suggested by Nussbaum's reference to Socrates, the
+sense in which a truly liberal education opens minds rather than
+closes them has particular appeal at St. John's, where it
+would now sound antiquated to claim that the liberal arts
+put us in possession of the truth, as Scott Buchanan did in
+the first catalog of the New Program.[^Buchanan] What we say
+instead is self-consciously Socratic. Thus Chris Nelson
+will say that "liberal education is the best and quickest way to become
+comfortable not knowing."[^Nelson_comfort] Or as the same
+St. John's graduate I quoted earlier puts it: 
 
-And this is a third way that defenses of liberal education
-make it a matter of something other than content: by
-identifying learning with the act of questioning rather than
-the act of answering. This is especially so at St. John's,
-where it would sound antiquated to claim, as Scott Buchanan
-did in the first catalog of the New Program, and on behalf
-of a traditional conception of liberal arts, that these were
-"the arts of apprehending, understanding, and knowing the
-truth."[^Buchanan] What we say instead is self-consciously
-Socratic; I give two recent examples of this, one from
-a blogpost of Chris Nelson; the other from an address given
-by a recent St. John's graduate:
-
-> Liberal education is the best and quickest way to become
-comfortable not knowing. By mastering a range of subject
-matter that may not always be congenial, students are
-repeatedly brought to the point of intellectual impasse. In
-time, they become comfortable with their ignorance.[^Nelson_comfort]
-
-> Before I came to the College, I read enthusiastically, yet
-timidly. Now I read with fiercely inquisitive bravery.
-I have learned that great questions lead to more and more
+> I have learned that great questions lead to more and more
 questions, not necessarily to answers, and I have learned
 that the greatness of the human spirit shows itself in just
 this realization. As Socrates says in Plato’s *Meno*: “We
@@ -467,54 +439,51 @@ we do, and the liberal arts mentioned only in passing.
 
 [^SFConf]: <http://www.sjc.edu/programs-and-events/santa-fe/50th-anniversary-conference/>
 
-It is this same Socratic approach that explains why an
-all-required program of books, which might otherwise be
-thought full of content, could more deeply be said to lack
-it. For anything written down, we might claim, is simply
-doctrine, until a reader puts it into dialogue, and by
-questioning it rather than assimilating it. This brings us
-to a final reason, then, we might wonder if a liberal
-education has any content; and perhaps our best reason to
-forget the idea of a liberal art. For suppose we were only
-able to learn, truly learn, insofar as we did this for
-ourselves. What we learned, in that case, would
-seem to be found in the self, or even the soul, rather than
-in a set of subjects. And this is the same self that
-a liberal education makes free. So the more liberal an
-education becomes, we might say, the more that *what* we
-learn is a matter of *how* we learn, and *who* we become in
-learning it. Which at this college, at least, is to say the
-more that any so-called subject is found in a book, which is
-found in a reader of that book, who is found in
-a conversation about that book, which brings the book to
-life, with all it may contain. And this conversation, both
-with others and with oneself, might then be said to embody
-a liberal education without content: an education in
-selfhood rather than subjects, where the something we
-finally learn is what it means to learn, and even what it
-means to love it.   
+It is this same Socratic approach that explains how St.
+John's can make even an all-required program of books, which
+might thought inescapably full of content, into a matter of
+context. For anything written down, we might claim, is
+simply doctrine, until a reader puts it into dialogue by
+questioning it rather than assimilating it. And underlying
+this shift from doctrine to dialogue is perhaps the deepest
+belief one can have about a truly liberal education: which
+is that we are only able to learn, truly learn, insofar as
+we do this for ourselves. It would seem straightaway to follow from this
+that *what* we learn is found in the self, or
+even the soul, rather than in a set of subjects. And the
+more liberal an education becomes, so we could say, the more
+that *what* we learn is a matter of *how* we learn, and
+*who* we become in learning it. Which at this college, at
+least, means the more that any so-called subject is found in
+a book, which is found in a reader of that book, who is
+found in a conversation about that book, which brings the
+book to life, with all it may contain. And this
+conversation, both with others and with oneself, might then
+be said to embody a liberal education of context rather
+content: an education in selfhood rather than subjects,
+where the something we finally learn is what it means to
+learn, and even what it means to love it.   
 
 The suspicion that a truly liberal education has no content,
-then, can be cast in terms that encompass what many of us,
-I think, might say a liberal education finally is, and where
+then, can be cast in terms that encompass what many of us, I
+think, might say a liberal education finally is, and where
 any appeal to a number of liberal arts seems beside the
-point. It is no surprise, then, that a final way defenses of
-liberal education make it a matter of something other than
-content is to identify its end with the self, and
-a self ready for anything. Here is one example from the same
+point. St. John's even tried dropping any reference to the
+liberal arts, along with any mention of liberal education,
+when it first launched its new website, as if in fact to
+forget the whole idea. And this was in the attempt, I think,
+to give a more vibrant sense of context to its education.
+(Bring up context-setting from here.) , where mere words
+like "liberal education" are insufficient and even
+distracting, 
+
+s I will generously describe this, to give a
+more vibrant impression of what a liberal education truly
+is: the life-changing,
+self-transformative  nd indeed any reference to liberal
+eduaction, did an experiment, Here is one example from the same
 address by a recent St. John's graduate that I quoted just
 above: 
-
-> After my two-year commitment with Teach For America,
-I hope to continue my work in the field of education. But
-really, I can do anything. St. John’s has given me the
-tools: the ability to listen, to think, to speak, to write,
-and ultimately, to act. I need only to decide where to
-direct my passion, and the world is mine, thanks to the
-incredible education I have had the blessing to receive
-here. [^Tyson]
-
-[^Tyson]: <http://www.thejohnniechair.com/when-you-know-better-you-do-better-a-seniors-reflections-on-st-johns/> and parts quoted in <http://www.huffingtonpost.com/christopher-nelson/is-it-worth-it_1_b_3321206.html>
 
 I can mention one last example in this vein, as a way to
 conclude Part One of my lecture. For in wanting to capture
@@ -527,7 +496,7 @@ to forget the whole idea.
 
 
 ## Part Two
-
+But forgetting is deliberate. So why should I be worried? 
 But this, again, would be to lose the idea knowingly. And it
 is time to ask what it might mean to lose this idea
 unknowingly. In what sense, then, might *we* be lost, once
