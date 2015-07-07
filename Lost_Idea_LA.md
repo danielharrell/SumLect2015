@@ -652,34 +652,100 @@ read among college presidents---who is making the most,
 I think, of the script.   
 
 Still, I suspect that those of us devoted to liberal
-education will indeed need more than a script to survive.
-And if my lecture so far is right, this means finding what
-we have lost, or recollecting what we have forgotten. So in
-the time I have left, I want to sketch out one path of
-thought back to the idea of a liberal art. And for the first
-step in this path, I want you to imagine that we shut the
-window of St. John's College and draw the curtain, as if the
-place of a liberal education were not within the world but
-apart from it. Why would we do this? We would do it,
+education will need more than a script to survive. And if my
+lecture so far is right, this means finding what we have
+lost, or recollecting what we have forgotten. So in the time
+I have left, I want to sketch out one path of thought back
+to the idea of a liberal art. And to take the first step in
+this path, I want you to imagine that we shut all the
+windows at St. John's College, and draw the curtains, as if
+the place of a liberal education were not within the world
+but apart from it. Why would we do this? We would do it,
 I think, because of how we understood the freedom promised
 by a liberal education. We would take it to be important
 enough, yet fragile enough, to protect its pursuit.  It
 would be the kind of freedom, then, that we regard as
-invaluable, but not indispensable: a life could be lived,
-and even lived well, without it. Which is why the pursuit of
-this freedom would need protection from the ongoing world.
-For it might be forgotten in the living of life, or even
-dismissed, or denied---for example, in the choice of another
-form of education. 
+invaluable, but not indispensable. A life could be lived,
+and even lived well, without it. This would be why its
+pursuit would need protection from the outside world. For it
+would be a thing that might be forgotten in the living of
+life, or even dismissed, or denied---for example, in the
+choice of another form of education. Or in the quest for
+power, or success. The kind of freedom that Meno might not
+want, but that his slave-boy needs to be free at all. The
+kind of freedom you can count on, then, not when you
+might do anything, but when you can do nothing.
+Unlucky enough to be enchained, or imprisoned, or
+impoverished. Or mortal enough to live a life never
+liberated from death. The kind of freedom you might be said
+to die for, when there is nothing left to live for.
 
-But what kind of freedom could we dispense with in the
-living of life? A freedom, I think, that transcends the
-horizons of life, and indeed *is* a kind of freedom, and
-perhaps the highest kind of freedom, in being without
-horizons. And while there are other ways, perhaps, to
-describe what it might mean to be without horizons, for the
-rest of my sketch, I will describe this in the simplest way
-I know: being without horizons means being in the truth.
+But what kind of freedom is this? It would
+be a freedom, I think, that transcends the horizons of life,
+and indeed be the freedom it is, perhaps the highest kind
+there is, in having no horizons. There
+are several ways, perhaps, to describe what it might mean to
+have no horizons. But for the rest of my sketch, I will
+describe this in the simplest way I know: having no horizons
+means having the truth. And a liberal
+education, then, would promise you the truth. 
+
+If this promise sounds ridiculous, then good. For if my
+critique above was right, then better to say ridiculous
+things than obvious things in defense of liberal education.
+Yet the promise should also sound attractive, at least if
+there is any chance for a liberal education to keep it. But
+perhaps you think no liberal arts college these days would
+even dare to make it. Well, you would be wrong. At the time
+I write this sentence (which was yesterday), the college
+whose curriculum most resembles St. John's had the slogan
+"Truth Matters" emblazoned across [its home
+page](http://www.thomasaquinas.edu/), and began [its own
+defense](http://www.thomasaquinas.edu/a-liberating-education)
+of liberal education by claiming that "to learn is to
+discover and grow in the truth about reality. It is the
+truth, and nothing less, that sets men free." Now, I admit
+that the college in question is Thomas Aquinas. And perhaps
+you would tell me their belief in truth is based on their
+belief in Christ. This is good too: for it means you would
+agree with me that truth can be matter of belief in
+in education, and not just a matter of doubt, or of
+never-ending inquiry. But we would disagree about the rest.
+For what I now want to say, as another step in the path back
+to the idea of a liberal art, is that to believe in truth,
+we don't have to believe in Christ. But we do have to
+believe in Ptolemy.
+
+To explain what I mean by this, however, and to finish this
+path back to a liberal art, I'm going to turn now not to
+Ptolemy, but instead to Socrates, and indeed, a Socrates we
+are all familiar with, from Plato's *Meno*. But it will be
+the mathematical rather than mythical side of SocratesBut
+(Go back to Tyson speech.)
+
+Isolate two moments in Ptolemy at end, and then say I would hope to say
+something similar for the other six liberal arts, but I have
+come to the end. 
+l turn not toand in a kind of conclusion of
+my ing
+my lecture, 
+
+But to make the rest of my sketch easier on all of us,
+I will now try to show how believing in the truth merely means
+believing in Socrates, and indeed the Socrates we are all
+familiar with, in Plato's *Meno*.  
+
+my work in this sketch is done. For it s an attempt to make
+a promise on liberal education's behalf that is defend
+liberal education in a way that makes sense of a choice
+against it. But the promise,  to offer a defense of liberal
+education   have just said something on behalf of liberal
+education that To say this much in defense of liberal
+education, I think, is not as outlandish, or antiquated, as
+it may sound---at least if the defense in question is of
+a college like St. John's. For one thing, the school that
+most resembles us in curriculum is almost certainly, ontent
+is , .  
 
 Bring up Thomas Aquinas. Then Santayana as one piece of
 Rhetoric from an Atheist. Then Ptolemy, liberal art, back
