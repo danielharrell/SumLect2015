@@ -634,7 +634,7 @@ lost, or recollecting what we have forgotten. So in the time
 I have left, I want to sketch one way back
 to the idea of a liberal art. 
 
-### Part Three
+## Part Three
 
 To take the first step back, I want you to imagine that we
 have shut every window at St. John's College, and drawn
@@ -657,10 +657,11 @@ someone like Meno might not want, but that his slave-boy
 might need, to be free at all. The kind of freedom, then,
 that might be possessed even by those in chains, or in
 prison, or in poverty. The kind of freedom we can still
-at the moment of death, when there is no life left to live.
-The kind of freedom you can count on, then, not when you might do
-anything, but when you can do nothing. At moments of
-life when you need a useless skill, not a useful one.
+possess at the moment of death, when there is no life left
+to live. The kind of freedom you can count on, then, not
+when you might do anything, but when you can do nothing. At
+moments of life when you might be said to need a useless
+skill, not a useful one.
 
 But what kind of freedom could this be? The answer, I think,
 takes us a second step back. For this would be a freedom,
@@ -710,10 +711,10 @@ John's can already be said to believe in anything, it
 believes in this: you can only learn, truly learn, insofar
 as you do this for yourself. But if Socrates's myth of
 recollection to Meno can be believed, then learning for
-yourself would be impossible, unless we somehow already
-possessed whatever we might learn. Which is almost to say:
-unless we somehow already had the truth. Of course, we might
-take this myth to be merely myth; and one sign of its
+yourself would be impossible, unless you somehow already
+possessed whatever you might learn. Which is all but to say:
+unless you somehow already had the truth. Of course, we
+might take this myth to be merely myth; and one sign of its
 doubtfulness even at St. John's can be glimpsed in what
 I earlier quoted from a St. John's graduate, when she
 claimed that "We must have intellectual bravery, that is,
@@ -732,11 +733,11 @@ a liberal art. And to recover it, I now offer what I call
 a loose reading of this
 encounter. 
 
-The central question of this episode, in its first
-formulation, is: how many feet is the side of an eight-foot
-square? Now, as most of you no doubt know, because the line
+The central question of this episode is: how long,
+exactly, is the side of an eight-foot
+square? Now, as you no doubt know, because the line
 in question is irrational, there is no answer to the
-question in this formulation. But I prefer to put this
+question in terms of feet. But I prefer to put this
 a different way. There *is* an answer, but only insofar as
 the answer is made into a matter of research, with
 a divide-and-conquer approach. And this is one way to
@@ -767,7 +768,7 @@ But again, the slave-boy gives up on this approach at the
 very first number 2. And Socrates doesn't exhort him to keep
 at it, or show him how to divide the 3 foot line any
 further. Instead, Socrates says to the slave-boy:  if you
-don't want to count the line out, then just point to it.
+don't want to count the line out, then just show it to me.
 ---It's as if Socrates had a different idea of intellectual
 courage, a different idea of learning, and a different idea
 of how the question should be approached, forming a different
@@ -787,10 +788,11 @@ the truth, but never possessing the truth.
 So what idea of approach does Socrates have in mind instead?
 We can see it coming-to-be in the very next thing he does
 with the slave-boy. For the slave-boy is truly stumped, and
-can't even point to the line in question. For of course the
-line in question is nowhere yet to be pointed to; and in the
-slave-boy's mind, we might say, it is still a matter of
-research. So in perhaps his one act of instruction, giving
+can't even show the line in question. For of course it not
+in front of the slave-boy yet; and in his mind, we might
+say, it is not yet a matter of recognition, but still
+a matter of research, even though he's given the project up.
+So in perhaps his one outright act of teaching, giving
 birth, we might say, to the very idea of a liberal art,
 Socrates simply draws the line in question---erasing at once
 any remaining horizon of discovery, and showing we are
@@ -799,12 +801,12 @@ drawing this line radically changes what it means for the
 slave-boy to learn. For this is no longer to discover any
 more about the line in question, but instead to recognize
 the line in question. Or perhaps I should say recollect the
-line in question. But in either formulation, this means seeing that
-the line Socrates has drawn is indeed the line in question.
-And the slave boy does this in yet another act of
-recognition, when he sees that the figure Socrates draws,
-upon the line that he draws, is indeed the eight-foot square in
-question. 
+line in question. But in either formulation, this means
+seeing that the line Socrates has drawn is indeed the line
+in question. And the slave boy does this in yet another act
+of recognition, when he sees that the figure Socrates draws,
+upon the line that he draws, is indeed the eight-foot square
+in question. 
 
 But let me try to clarify this by generalizing it. Let us
 suppose that Socrates has asked the slave-boy a more
@@ -815,16 +817,16 @@ sub-fields of research, in a divide-and-conquer approach to
 the question. But this risks putting the matter beyond the
 reach of recognition. True, we will learn more and more
 about heavenly motions in this approach; but there is no
-promise that we will ever learn enough
-to finally answer the question. And this reflects one way to
-understand learning, leading to one interpretation of
-"astronomy", that we have inherited from
-modern science. But there is still another way to understand
-learning, leading to another interpretation of "astronomy,"
-that we have inherited from ancient science, and that
-promises us an answer, in promising us the truth. And
-a college like ours is committed to it, I think, if we
-believe that learning is a finally a matter of recognition. 
+promise that we will ever learn enough to finally answer the
+question. And this reflects one way to understand learning,
+leading to one interpretation of "astronomy", that we have
+inherited from modern science. But there is still another
+way to understand learning, leading to another
+interpretation of "astronomy," that we have inherited from
+ancient science, and that promises us an answer, in
+promising us the truth. And a college like ours is committed
+to it, I think, if we believe that learning is a finally
+a matter of recognition. 
 
 So another way of answering the question "Why do the heavens
 move as they do?" that we can still call "astronomy",
@@ -855,29 +857,29 @@ an act of recognition. But in another approach---let us call
 this a liberal education---we would be led to seven liberal
 arts to answer the question, where this recovery of the
 world in an act of recognition is precisely the point. And
-this is why, I think, these arts might still be said to
-form a whole, that gives a liberal education its content.
+this is why, I think, these antique seven arts might still
+be said to form a whole, that gives a truly liberal
+education its content.
 
-But as a way of completing my attempted recovery of the idea
-of a liberal art, let us now suppose that we do have the
-truth, and that the truth is very generous. So generous,
-that when we ask the question "Why is the world the way it
-is?" there is not just one right answer, or two right
-answers, or seven right answers, but something closer to
-a hundred. And let us suppose that the lines drawn to
-compose this hundred are drawn in a way, not to form
-squares, or circles, but letters; and that the letters are
-suitably arranged in words, sentences, and paragraphs, to
-compose what we might call "books." Any so-called book, in
-that case, would allow us to recover the world in an act of
-recognition. Which suggests something we might call
-"reading," where we come to recognize the world in the
-book---as if it were inescapably full of content, in being
-inescapably full of truth; and as if it gave to any
-conversation that brought the book to life, a purpose, and
-point, beyond that life, proving there was more, even to
-life, than life: the more that we might again simply call
-the truth. I think it would only be in this sense that you
-might take reading, or writing, or speaking, or even
-thinking, to be a liberal art, and something you learn in
-college, at least at one or two colleges. 
+But let me say one final thing in this spirit of
+recollection on behalf of St. John's College. Let us suppose
+that the truth is very generous. So generous, that when we
+ask the question "Why is the world the way it is?" there is
+not just one answer, or two answers, or seven answers, but
+something closer to a hundred. And let us suppose that the
+lines that might be drawn to produce this hundred are drawn,
+not to form squares, or circles, but letters; and that the
+letters are suitably arranged in words, sentences, 
+paragraphs, to compose what we might call "books." Any of
+the hundred so-called books, in that case, would allow us to
+recover the world in an act of recognition. And we could
+recognize the world in such a book, by reading it with the
+same generosity possessed by the truth. The book, in that
+case, would be inescapably be full of content, in being
+inescapably full of truth. These are the books I think we
+read at the college, and believe in. And in being
+inescapably full of truth, they give to any conversation at
+the college that brings them to life, a purpose, and
+a point, beyond that life, proving there is more, even to
+life, than life. Truth.  
+
