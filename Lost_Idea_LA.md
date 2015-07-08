@@ -555,13 +555,9 @@ think creatively. But are we we then to believe that you
 will be left speaking inarticulately, reading inattentively,
 reasoning ineffectively, or thinking uncreatively, if you
 choose another kind of education---say, to pursue a degree
-in computer programming? The implication can seem not just
-incredible, but insulting; and it risks the very elitism
-that made sense of losing the traditional idea of a liberal
-art in the first place. Or perhaps nothing is meant against
-another form of education when it is said what you can learn
-in a liberal education. But if so, then what again
-distinguishes a liberal education from any education? 
+in computer programming? This is doubtful. But if so, then
+what again distinguishes a liberal education from any
+education? 
 
 The same problem emerges from the attempt to distinguish
 a liberal education on higher-sounding grounds. In [one of
@@ -575,7 +571,7 @@ one could ask how such encompassing terms could distinguish
 a St. John's education from any education, or even from
 human experience as such. For isn't the distinction between
 experience and innocence, or experience and endurance, found
-exactly in the kind of learning, and living, that is
+in just the kind of learning, and living, that is
 necessarily one's own? Or suppose we take our bearings from
 Socrates, and claim that St. John's will teach you
 intellectual courage: how to persevere in the pursuit of
@@ -593,10 +589,10 @@ it becomes hard to distinguish a liberal education from any
 education when it is made a matter of context, it becomes
 easy to make a choice against liberal education merely by
 wanting an education with content. To consider this problem
-from one angle, take the the penchant in education for
+from one angle, take the penchant in education nowadays for
 testing and ranking and training and specializing. It may be
-necessary to speak against all of this in defense of liberal
-education, but it also risks the
+good and even necessary to speak against all of this in
+defense of liberal education, but it also risks the
 impression that a liberal education is an education for
 dilettantes, providing an escape from being challenged or
 judged or driven or dedicated. And what can be said to
@@ -604,10 +600,9 @@ correct this impression, if in a liberal education, these
 virtues are matters of context rather than content? Matters,
 that is, about which nothing more can be said, but only
 shown---where you see such students for yourself? Or even be
-such a student yourself?---as one noted defender of liberal
-education, Andrew Delbanco, [puts
-it](http://chronicle.com/article/College-at-Risk/130893/),
-when he writes:
+such a student yourself? For as one noted defender of liberal
+education, Andrew Delbanco, [has put
+it](http://chronicle.com/article/College-at-Risk/130893/):
 
 > One of the difficulties in making the case
 for liberal education against the rising tide of skepticism
@@ -626,103 +621,215 @@ such an experience to be persuasive?
 There are, of course, ways of trying to capture this
 experience in images, as I earlier discussed in the case of
 St. John's. But this same case reflects the problem. If we
-make its education a matter of context, in images of
-students playing croquet, or reading a book on a bench near
-a tree, or even speaking with passion and eloquence about
-how much their education means, we haven't yet distinguished
-St. John's from any other college where such things might be
+make its education a matter of context, showing students
+playing croquet, or reading a book on a bench near a tree,
+or even speaking with passion and eloquence about how much
+their education means, we haven't yet distinguished St.
+John's from any other college where such things might be
 said or done---even though St. John's is unique, in having
 renounced the elective system and established an
-all-required curriculum. But St. John's is unique, then,
-as a matter of content, not context. And something
-similar by way of distinction-erasing might be said of
-defenses of liberal education more generally. For if these
-defenses were also the products of a liberal education, one
-might have expected them to reflect a diversity of views, or
-an originality of thought. But so far as these defenses make
+all-required curriculum. But St. John's is unique, then, as
+a matter of content, not context. And something similar by
+way of distinction-erasing might be said of the defenses
+more generally. For if the defenses of liberal education
+were products of a liberal education, one might have
+expected them to reflect a diversity of views, or an
+originality of thought. But so far as these defenses make
 liberal education a matter of context, and speak of the kind
 of skills one needs to flourish in life, it becomes hard not
 to speak in platitudes or commonplaces; and indeed these
-defenses follow a kind of script: In an ever-changing world,
-now more than ever, we need the truly useful arts of
+defenses more or less follow a script: In an ever-changing
+world, now more than ever, we need the truly useful arts of
 a liberal education. Even President Nelson hasn't quite
 managed to liberate himself from this script, even though
-I regard him as a gifted writer---certainly the best I've
-read among college presidents---who is making the most,
+I regard him as a gifted writer, who is making the most,
 I think, of the script.   
 
 Still, I suspect that those of us devoted to liberal
 education will need more than a script to survive. And if my
 lecture so far is right, this means finding what we have
 lost, or recollecting what we have forgotten. So in the time
-I have left, I want to sketch out one path of thought back
-to the idea of a liberal art. And to take the first step in
-this path, I want you to imagine that we shut all the
-windows at St. John's College, and draw the curtains, as if
-the place of a liberal education were not within the world
-but apart from it. Why would we do this? We would do it,
-I think, because of how we understood the freedom promised
-by a liberal education. We would take it to be important
-enough, yet fragile enough, to protect its pursuit.  It
-would be the kind of freedom, then, that we regard as
-invaluable, but not indispensable. A life could be lived,
-and even lived well, without it. This would be why its
-pursuit would need protection from the outside world. For it
-would be a thing that might be forgotten in the living of
-life, or even dismissed, or denied---for example, in the
+I have left, I want to sketch one way back
+to the idea of a liberal art. 
+
+And to take the first step, I want you to imagine that we
+have shut every window at St. John's College, and drawn
+every curtain, as if St. John's were indeed a cult. Or to
+put this more generously: as if the place of liberal
+education were not within the world but apart from it. But
+why would we believe this? We would believe it, I think,
+because of something we believed about the freedom promised
+by a liberal education. We would take this freedom to be
+important enough, yet fragile enough, to protect its
+pursuit.  We would regard this freedom as invaluable, then,
+but not indispensable. A life could be lived, and even lived
+well, without it. And this would be why its pursuit would
+need protection from the outside world. For it would be
+a freedom that might well be forgotten in the living of
+life; or even dismissed, or denied---for example, in the
 choice of another form of education. Or in the quest for
-power, or success. The kind of freedom that Meno might not
-want, but that his slave-boy needs to be free at all. The
-kind of freedom you can count on, then, not when you
-might do anything, but when you can do nothing.
-Unlucky enough to be enchained, or imprisoned, or
-impoverished. Or mortal enough to live a life never
-liberated from death. The kind of freedom you might be said
-to die for, when there is nothing left to live for.
+power, or the pursuit of success. The kind of freedom, then,
+that someone like Meno might not want, but that his
+slave-boy might need, to be free at all. The kind of
+freedom, then, that might be possessed even by those in
+chains, or in prison, or in poverty. The kind of freedom we
+all can have, at the moment of death, when there is no life
+left to live. In sum, the kind of freedom you can count on,
+not when you might do anything, but when you can do nothing. 
 
 But what kind of freedom is this? It would
 be a freedom, I think, that transcends the horizons of life,
-and indeed be the freedom it is, perhaps the highest kind
-there is, in having no horizons. There
-are several ways, perhaps, to describe what it might mean to
-have no horizons. But for the rest of my sketch, I will
-describe this in the simplest way I know: having no horizons
+and indeed be the freedom it is---perhaps the highest kind
+there is---in having no horizons. But what does having
+no horizons mean? Here is one answer, and to my mind
+the simplest answer: having no horizons
 means having the truth. And a liberal
 education, then, would promise you the truth. 
 
 If this promise sounds ridiculous, then good. For if my
-critique above was right, then better to say ridiculous
+critique above was right, then we are better off saying ridiculous
 things than obvious things in defense of liberal education.
 Yet the promise should also sound attractive, at least if
-there is any chance for a liberal education to keep it. But
-perhaps you think no liberal arts college these days would
-even dare to make it. Well, you would be wrong. At the time
-I write this sentence (which was yesterday), the college
-whose curriculum most resembles St. John's had the slogan
-"Truth Matters" emblazoned across [its home
-page](http://www.thomasaquinas.edu/), and began [its own
+there is any chance to keep it. But perhaps you think no
+liberal arts college these days would dare to make it. Well,
+you would be wrong. At the time I write this sentence (which
+was yesterday), the college whose curriculum most resembles
+St. John's had the slogan "Truth Matters" emblazoned across
+[its home page](http://www.thomasaquinas.edu/), and began
+[its own
 defense](http://www.thomasaquinas.edu/a-liberating-education)
 of liberal education by claiming that "to learn is to
 discover and grow in the truth about reality. It is the
 truth, and nothing less, that sets men free." Now, I admit
 that the college in question is Thomas Aquinas. And perhaps
 you would tell me their belief in truth is based on their
-belief in Christ. This is good too: for it means you would
-agree with me that truth can be matter of belief in
-in education, and not just a matter of doubt, or of
-never-ending inquiry. But we would disagree about the rest.
-For what I now want to say, as another step in the path back
-to the idea of a liberal art, is that to believe in truth,
-we don't have to believe in Christ. But we do have to
-believe in Ptolemy.
+belief in Christ. I would agree, but hasten to add that St.
+John's has a source of its own for a belief in truth. And
+though we may not have to believe in Christ, perhaps we do
+have to believe in Ptolemy.
 
-To explain what I mean by this, however, and to finish this
-path back to a liberal art, I'm going to turn now not to
-Ptolemy, but instead to Socrates, and indeed, a Socrates we
-are all familiar with, from Plato's *Meno*. But it will be
-the mathematical rather than mythical side of SocratesBut
-(Go back to Tyson speech.)
+To explain what I mean by this belief in Ptolemy, however,
+and to finish this path back to a liberal art, I'm going to
+turn now *not* to Ptolemy, but instead to Socrates, and
+indeed, a Socrates we are all familiar with, from Plato's
+*Meno*. I do this because I think a belief in Ptolemy is
+less common among us than a belief in Socrates, and in
+particular, a belief in what he suggests about learning in
+the *Meno*, a belief I already mentioned: which is that
+learning is something you can only do for yourself. But if
+Socrates's myth of recollection to Meno can be believed,
+then learning in this sense would be impossible, unless we
+somehow already possessed whatever we might learn. Which is
+to say: unless we somehow already had the truth---at least
+if learning is a form of knowing. Of course, we might take
+this myth to be mere myth; and one sign of its
+doubtfulness even at St. John's can be glimpsed in what
+I earlier quoted from a St. John's graduate, when she
+claimed "We must have intellectual bravery, that is, the
+courage to push forward, to continue seeking truth even in
+the face of doubts about its very existence."[^Tyson]
+I think Socrates's myth is meant to suggest, to the
+contrary, that as soon as we start to learn, all doubts
+about truth's existence are put to rest.
 
+But I call this a suggestion because the proof, I want to
+say, actually lies in Socrates's turn to mathematics; and it
+is here, I think, that we can find the lost idea of
+a liberal art. And to recover it, I now offer what I will
+call a loose reading of the slave-boy episode. The central
+question of this episode, in its initial formulation, is how
+many feet is the line of an eight-foot square? And as most
+of you no doubt know, because the line in question is
+irrational, there is no answer to the question in this
+formulation. Or as I'll rather put it: there *is* an answer,
+but only insofar as it is made into what might be called
+a field of research, which is one way to describe the
+slave-boy's initial stab at the question; when he learns
+that the line in question is between 2 feet and 3 in length,
+before giving up. But under one view of intellectual
+courage, we should not give up, and could forge ahead with
+further research. We can learn that the line is between 2.8
+and 2.9 feet; then we can learn it is between 2.82 and 2.83
+feet; then we can learn it is between 2.828 and 2.829 feet.
+Or to make what we learn still more exact: we can learn that
+the first number in the length of the line is 2; and the
+next is 8; and the next is 2; then 8; then 4; then 2; then
+7; and so on. There would be no pattern in the numbers
+found, but this is what would make every number found
+a genuine discovery, which carried us ever-closer to the
+truth. And in this sense there would always be something to
+learn, leading us from one learned thing to the next. This
+can therefore look like a perfect example of what Socrates
+means by learning, and what it means to persevere in the
+pursuit of knowledge rather that yield in the face of
+ignorance; and it more or less captures the basic sense of
+any ongoing field of research. 
+
+So why is it, when the slave-boy gives up on this strategy
+at the very first number 2, Socrates doesn't encourage him
+to keep at it, or show him how to subdivide a line to keep
+at it, but instead just says: "if you don't want to count
+the line, then just show it to me?"  (No square without the
+actual line. And this gives us something to contemplate, in
+an ordered whole.) What is the line? ells him that Socrates
+But because the relation between the findings and the truth
+was asymptotic, there would be no end to such findings. And
+one might say we would always be located at first number
+found, with an ever-expanding but never-vanishing horizon at
+the last number found. In other words, we would be seeking
+the truth, and ever-advancing towards the truth, but never
+possessing the truth.  (The fact that Meno gives up at the
+first finding, and Socrates never teaches Meno how to
+subdivide a line, it suggests that whatever it means to
+learn is not this.) Learing is to be in the possession of
+the truth.
+
+and  , . Or to reduce this analogy to
+a field of research,  
+
+. The first finding Your first finding in this research might be that
+the line take a first step in the inquiry,  we could say the line is between
+. Socrates, you'll recall, draws a square of two-foot lines,
+which the slave-boy recognizes to be four feet in size. The
+first question Socrates then asks the slave-boy, is how many
+feet is a square twice this size, which the slave-boy is
+able to answer correctly: eight feet. The next question
+Socrates asks, of course, is long the lines of this eight
+foot square will be, and seemingly goes out of his way to
+how many feet : eight feet. , then, is how long are the
+lines of a square twice this size?
+
+
+Plato regards this as so important a claim about
+learning, I want to say, that he is unwilling to leave it
+on the level of Socratic myth, and has Socrates turn to 
+the slave-boy shifts from myth to
+mathematics.  for those of you who might not be convinced,
+it is because we already somehow possess the truth that we
+can recollect it, and in recollecting it the truth, and
+because we can recollect the truth that we can learn it And
+the *Meno* gives us an account of how this is possible,
+which identifies any act of learning with an act of
+recollection, and any act of recollection, then, with
+possession. : which is that learning is always a form of
+recollection. But if it *is* a form of recollection, one way
+to put the myth of recollection that Socrates tell Meno, (Go
+straight to Meno's challenge, allude only in passing to
+graduate.)
+
+Must look to the center of the square to see the square as
+a whole. Can't be told but only shown. Liberal art puts us
+this way at the center. But it will be the
+mathematical rather than mythical side of SocratesBut (Go
+back to Tyson speech.) That we haven't found it means it may
+not exist, but no, that we can search for it means it does
+exist.
+
+If we don't believe in the myth, we don't believe in the truth. Perhaps.
+But the liberal art gives us another source, and better source, for the
+belief.
+
+Also mention how Meno sets up approximation. Between.
 Isolate two moments in Ptolemy at end, and then say I would hope to say
 something similar for the other six liberal arts, but I have
 come to the end. 
