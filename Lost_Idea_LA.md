@@ -722,71 +722,179 @@ then learning in this sense would be impossible, unless we
 somehow already possessed whatever we might learn. Which is
 to say: unless we somehow already had the truth---at least
 if learning is a form of knowing. Of course, we might take
-this myth to be mere myth; and one sign of its
-doubtfulness even at St. John's can be glimpsed in what
-I earlier quoted from a St. John's graduate, when she
-claimed "We must have intellectual bravery, that is, the
-courage to push forward, to continue seeking truth even in
-the face of doubts about its very existence."[^Tyson]
-I think Socrates's myth is meant to suggest, to the
-contrary, that as soon as we start to learn, all doubts
-about truth's existence are put to rest.
+this myth to be mere myth; and one sign of its doubtfulness
+even at St. John's can be glimpsed in what I earlier quoted
+from a St. John's graduate, when she claimed that "We must
+have intellectual bravery, that is, the courage to push
+forward, to continue seeking truth even in the face of
+doubts about its very existence."[^Tyson] I think Socrates's
+myth is meant to suggest, to the contrary, that all doubts
+about truth's existence are put to rest, as soon as we start
+to learn. 
 
 But I call this a suggestion because the proof, I want to
 say, actually lies in Socrates's turn to mathematics; and it
 is here, I think, that we can find the lost idea of
 a liberal art. And to recover it, I now offer what I will
 call a loose reading of the slave-boy episode. The central
-question of this episode, in its initial formulation, is how
-many feet is the line of an eight-foot square? And as most
+question of this episode, in its first formulation, is how
+many feet is the side of an eight-foot square? And as most
 of you no doubt know, because the line in question is
 irrational, there is no answer to the question in this
 formulation. Or as I'll rather put it: there *is* an answer,
-but only insofar as it is made into what might be called
-a field of research, which is one way to describe the
-slave-boy's initial stab at the question; when he learns
-that the line in question is between 2 feet and 3 in length,
-before giving up. But under one view of intellectual
-courage, we should not give up, and could forge ahead with
-further research. We can learn that the line is between 2.8
-and 2.9 feet; then we can learn it is between 2.82 and 2.83
-feet; then we can learn it is between 2.828 and 2.829 feet.
-Or to make what we learn still more exact: we can learn that
-the first number in the length of the line is 2; and the
-next is 8; and the next is 2; then 8; then 4; then 2; then
-7; and so on. There would be no pattern in the numbers
-found, but this is what would make every number found
-a genuine discovery, which carried us ever-closer to the
-truth. And in this sense there would always be something to
-learn, leading us from one learned thing to the next. This
-can therefore look like a perfect example of what Socrates
-means by learning, and what it means to persevere in the
-pursuit of knowledge rather that yield in the face of
-ignorance; and it more or less captures the basic sense of
-any ongoing field of research. 
+but only insofar as it is made into a matter of
+research, with a divide-and-conquer approach. This is
+one way to describe the slave-boy's initial stab at the
+question, when he learns that the line in question is
+between 2 feet and 3 feet in length, before giving up. But
+under one view of intellectual courage, we should not give
+up. And we could forge ahead, on the slave-boy's behalf, in
+further research, by dividing the 3 foot line even more.
+Doing this, we learn that the line is between 2.8 and 2.9
+feet; then we learn it is between 2.82 and 2.83 feet; then
+we learn it is between 2.828 and 2.829 feet. Or to put what
+we learn still more exactly: the first number in the length
+of the line is 2; and the next is 8; and the next is 2; then
+8; then 4; then 2; then 7; and so on. There would be no
+pattern in the numbers thereby found, but this is what would
+make every number found a genuine discovery, which carried
+us ever farther in truth. And in this sense, there would
+always be something to learn, leading us from one learned
+thing to the next. We could even say we were learning for
+ourselves, and persevering in the pursuit of knowledge
+rather than yielding in the face of ignorance. And I think
+this more or less captures the meaning of learning in what
+I will call the idea of a field of research, which we have
+inherited from modern science.  
 
-So why is it, when the slave-boy gives up on this strategy
-at the very first number 2, Socrates doesn't encourage him
-to keep at it, or show him how to subdivide a line to keep
-at it, but instead just says: "if you don't want to count
-the line, then just show it to me?"  (No square without the
-actual line. And this gives us something to contemplate, in
-an ordered whole.) What is the line? ells him that Socrates
-But because the relation between the findings and the truth
-was asymptotic, there would be no end to such findings. And
-one might say we would always be located at first number
-found, with an ever-expanding but never-vanishing horizon at
-the last number found. In other words, we would be seeking
-the truth, and ever-advancing towards the truth, but never
-possessing the truth.  (The fact that Meno gives up at the
-first finding, and Socrates never teaches Meno how to
-subdivide a line, it suggests that whatever it means to
-learn is not this.) Learing is to be in the possession of
-the truth.
+But again, the slave-boy gives up on this approach at the
+very first number 2. And Socrates doesn't exhort him to keep
+at it, or show him how to divide the 3 foot line any
+further. Instead, and somewhat abruptly, I like to think,
+Socrates says:  if you don't want to count the line out,
+then just point to it. ---As if Socrates had a different
+idea of intellectual courage, a different
+idea of learning, and a different idea of how the question
+should be approached. And I think we can already say why.
+For while you can certainly make the line in question a matter of
+research, you thereby put it out of
+reach as a matter of recognition. For there is no end to the
+numbers you will find in the divide-and-conquer approach to
+the line in question. So you are learning more and more
+about an object that you will never get to see, and in that
+sense never get to know. We will always be left, as it were,
+at the first number we find, with an ever-expanding but
+never-vanishing horizon at the latest number we find. Or
+more simply put, we will be seeking the truth, and advancing
+in the truth, but never possessing the truth.
+
+So what does Socrates propose instead? We can see it in the
+next thing he does with the slave-boy. For the slave-boy is
+truly stumped, and can't even point to the line in question.
+For of course the line is nowhere yet to be pointed to, and
+in the slave-boy's mind, I suggest, still a matter of
+ongoing research. So in perhaps his one act of instruction,
+giving birth, we might say, to the very idea of a liberal
+art, Socrates simply draws the line in question---erasing at
+once any remaining horizon of discovery, and showing we are
+already in possession of the truth---and in that sense,
+perhaps, forever free. And all this radically changes what
+it means for the slave-boy to learn. For this is no
+longer to discover more and more and more about the line in
+question, but instead simply to recognize---or should I say
+recollect?---the line in question, which means seeing that
+the line Socrates drew is indeed the line in question. And
+the slave boy does this in yet another act of recognition,
+when he sees that the figure Socrates is able to draw, upon
+the line he just drew, is indeed the eight-foot square in
+question. 
+
+But to see this idea of a liberal art more generally, let us
+now suppose that Socrates asked the slave-boy a question
+like: "Why do the heavens move as they do?" One way to
+answer this question is again to make it a matter of
+research, producing fields and even sub-fields of research,
+in a divide-and-conquer approach to the question. But this
+risks putting the matter beyond the reach of recognition.
+True, we will learn more and more and more about these
+motions in this approach; but there is no promise, and
+perhaps no way, that we will ever learn enough to finally
+answer the question. And this is one meaning of "astronomy",
+I think, that we have inherited from modern science. But
+there is then another meaning of "astronomy," I want to say,
+that we have inherited from ancient science. And a college
+like ours is committed to it, I think, if we believe that
+learning culminates in an act of recognition. So how, in
+that case, do we approach the question "Why do the heavens
+move as they do?" We approach it, by simply answering it, in
+possessing the truth. And we don't even have to stop at one
+answer: Ptolemy, as I recall, gives two. In other words, we
+simply draw the lines, as Socrates drew the line, that allow
+us to see, or more exactly see again, the object in
+question. Which in this more encompassing question, about
+the motions of the heavens, means drawing the lines that
+allow us to recover the motions of the heavens in an act of
+recognition. 
+
+And if we made the question still more encompassing, or even
+all-encompassing---something like "why is everything the way
+it is"---there would be one answer we could give, that leads
+us into ever-more numerous fields of research; and another
+answer we could give, that leads us to 
+seven liberal arts. 
+
+And in being led into research, you would be
+making one choice in education, pledging you to the noble and
+never-ending search for truth, along with the prospect of a life
+lived well. But if you make another choice
+in education, you might be led to acts of recognition, ; while in being led to recognitto make one choice
+n
+in education would then pledge you to the never-ending
+search for truth, while making another choice in education
+would promise you the truth. 
+
+Rather than looking for an explanation,
+simply devises an explanation, or in Ptolemy's account two,
+that can be understood as explanations in allow us not
+simply to explain what we see, but to recognize what we see
+in a recovery of the world. Science leaves the world
+unrecognizable. An act of learning that leaves it
+unrecognizable. But the act that makes it recognizable means
+we are already in possession of the truth. Proof of
+possession is in the sense that explanation allows us to
+recognize the world we see, in an act of recovery. as if we
+were already in possession of the truth, n response to
+Socrates's request simply to show him the line, 
+
+Simply draws the line, erasing any horizon, as if we were already
+in possession of it. (Devises the explanation, as if we were already in
+possession of it.)
+
+A belief in ancient science, rather than a pledge to modern
+science. And to reject the elective system means we've
+already made it. to modern science. Give basic answer, then
+distinguish it from other answer, then do this more
+generally in case of question of heavens, on Ptolemy's
+behalf, then even more generally for all liberal arts, in
+act of learning leading to liberal art, then the idea of
+learning that lead to field of research in modern science,
+then finally turn to book, and how it is also a devising,
+putting us in the truth, to recover the world we see. Or
+that it is about something. Just like
+
 
 and  , . Or to reduce this analogy to
 a field of research,  
-
+(Need to figure
+out how to make this a matter of order. A matter of
+inspection.) (No square without the actual line. And this
+gives us something to contemplate, in an ordered whole.
+A line that produces the given. And allows slave-boy to see
+the eight-foot square as produced by the line in question.
+Shows him what Socrates is talking about. Matter of
+calculation made into a matter of inspection, as if at the
+center. No way to show what Socrates is talking about?) What
+is the line? ells him that Socrates 
 . The first finding Your first finding in this research might be that
 the line take a first step in the inquiry,  we could say the line is between
 . Socrates, you'll recall, draws a square of two-foot lines,
