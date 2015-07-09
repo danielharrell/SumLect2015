@@ -1,10 +1,22 @@
+Title: The Lost Idea of a Liberal art
+Author: Daniel Harrell
+Date: July 9, 2015
+Base Header Level: 3
 
-# The Lost Idea of a Liberal Art
+A lecture I gave on the Annapolis campus of St. John's
+College on July 8, 2015...
 
-## Introduction
+### Contents [top]
 
-<!--Perhaps replace "defenses" with "defenders" in much of what
-follows-->
+[Introduction] [intro]      
+[Part One] [one]  
+[Part Two] [two]  
+[Part Three] [three]  
+[Acknowledgment] [ack]    
+
+***
+
+## Introduction [intro]
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the future of
@@ -107,14 +119,12 @@ of education---a technical education, say. What if our many
 defenses of liberal education have made us forget this idea?
 What if the idea of a liberal art is lost?
 
-<!--Perhaps use "lost" near the end, when
-speaking of how we place liberal education in the world.-->
+[[MORE]]
 
-<!--Also, perhaps make clear later how to lose the idea of a liberal
-art is the lose the distinction between a liberal education and
-any other form of education.-->
+[Back to top][top]
 
-## Part One
+
+## Part One [one]
 
 Now in one sense, I think, the threat to liberal education
 must always come from within. The fate of liberal education,
@@ -215,17 +225,14 @@ not enough, answers are not enough, content is not enough.
 Defenses of liberal education, accordingly, have generally
 made education a matter of context rather than content. And
 the most common way of doing this is to locate learning not
-in a set of subjects, but instead in the self. Thus it is
-said that "the maturation of the student---not information
+in a set of subjects, but instead in the self. Thus [it is
+said that](http://blogs.sjc.edu/christopher-nelson/2014/12/11/looking-value-college-wrong/) "the maturation of the student---not information
 transfer---is the real purpose of colleges and
-universities."[^NelsonInfoTransfer] Or that "if we are to
+universities." [Or that](https://www.mtholyoke.edu/joannecreighton/article_liberal99) "if we are to
 navigate skillfully the turbulent changes of the
 twenty-first century, we must educate students not only to
 process information effectively, but to think wisely and
-well."[^Creighton]
-
-[^NelsonInfoTransfer]:<http://blogs.sjc.edu/christopher-nelson/2014/12/11/looking-value-college-wrong/>
-[^Creighton]:<https://www.mtholyoke.edu/joannecreighton/article_liberal99>
+well."
 
 And talk of turbulent changes points to another way that
 defenses of liberal education have made it a matter of
@@ -303,8 +310,9 @@ claim](<http://www.sjc.edu/about/why-sjc/>) that its
 students "learn to speak articulately, read attentively,
 reason effectively, and think creatively."
 
-[^ZakariaEarthly]: For a typical example of this see
-<http://www.huffingtonpost.com/fareed-zakaria/fareed-zakaria-liberal-arts-education_b_5380896.html>
+[^ZakariaEarthly]: A good example of this is found in Fareed Zakaria, ["What is
+the Earthly Use of Liberal
+Education."](http://www.huffingtonpost.com/fareed-zakaria/fareed-zakaria-liberal-arts-education_b_5380896.html)
 
 In a similar vein, defenses of liberal education will call
 the liberal arts "transferable skills," [^transferable],
@@ -367,7 +375,7 @@ direct my passion, and the world is mine, thanks to the
 incredible education I have had the blessing to receive
 here. [^Tyson]
 
-[^Tyson]: <http://www.thejohnniechair.com/when-you-know-better-you-do-better-a-seniors-reflections-on-st-johns/> and parts quoted in <http://www.huffingtonpost.com/christopher-nelson/is-it-worth-it_1_b_3321206.html>
+[^Tyson]: This comes from Grace Tyson, ["'When You Know Better, You Do Better': A Senior's Reflections on St. John's](http://www.thejohnniechair.com/when-you-know-better-you-do-better-a-seniors-reflections-on-st-johns/). Parts of this address are also quoted in Christopher Nelson, [Is It Worth It?](http://www.huffingtonpost.com/christopher-nelson/is-it-worth-it_1_b_3321206.html).
 
 And there are ways to deepen this context still further; the
 most common being to take this readiness for the world as an
@@ -376,7 +384,7 @@ described as curious, inquisitive, imaginative,
 self-critical, or sympathetic. Thus we find Martha Nussbaum,
 to pick on a famous example, [defending liberal
 education](http://net.educause.edu/ir/library/pdf/ff0709s.pdf)
-insofar as it develops[^Nussbaum]
+insofar as it develops
 
 1. The capacity for Socratic
 self-criticism and critical thought about one's own traditions.
@@ -385,12 +393,6 @@ and world.
 3. The ability to sympathetically imagine the lives of people different
 from oneself.
 
-[^Nussbaum]: A [later version](http://press.princeton.edu/chapters/s9112.pdf)
-of this list, from *Not for Profit: Why Democracy Needs the Humanities* (p.7), reads:    
-> 1. The ability to think critically;    
-2. The ability to transcend local loyal­ ties and to approach world problems as a “citizen of the world."   
-3. The ability to imagine sympathetically the predicament of another person.
-
 And as suggested by Nussbaum's reference to Socrates, the
 sense in which a truly liberal education opens minds rather
 than closes them has particular appeal at St. John's, where
@@ -398,10 +400,10 @@ it would now sound antiquated to claim, as Scott Buchanan
 did in the first catalog of the New Program, that the
 liberal arts put us in possession of the truth.[^Buchanan]
 What we say instead is self-consciously Socratic. Thus President 
-Nelson will say that "liberal education is the best and
+Nelson [will say that](http://blogs.sjc.edu/christopher-nelson/2014/10/20/knowing-learn/) "liberal education is the best and
 quickest way to become comfortable not
-knowing."[^Nelson_comfort] Or that "learning is grounded in recognition and
-acceptance of one’s own ignorance."[^Nelson_ignorance]
+knowing." [Or that](http://blogs.sjc.edu/christopher-nelson/2014/11/10/accountability-commodifying-examined-life/) "learning is grounded in recognition and
+acceptance of one’s own ignorance."
 Or as the same St. John's
 graduate I quoted earlier puts it: 
 
@@ -415,15 +417,11 @@ indulged in the idle fancy that there was no knowing and no
 use in seeking to know what we do not know.” We must have
 intellectual bravery, that is, the courage to push forward,
 to continue seeking truth even in the face of doubts about
-its very existence.[^Tyson]
+its very existence.
 
 [^Buchanan]: "The arts of apprehending, understanding, and knowing the
 truth are the liberal arts, and they set their own ends."
 (*Bulletin of St. John's College in Annapolis, 1937--38*).
-
-[^Nelson_comfort]: <http://blogs.sjc.edu/christopher-nelson/2014/10/20/knowing-learn/>
-
-[^Nelson_ignorance]: <http://blogs.sjc.edu/christopher-nelson/2014/11/10/accountability-commodifying-examined-life/> 
 
 It is this same Socratic self-consciousness that explains
 how St. John's can make even an all-required program of
@@ -492,7 +490,9 @@ it. ---And this is perhaps the most visible way that a liberal
 education is now being made a matter of context rather than
 content. 
 
-## Part Two
+[Back to top][top]
+
+## Part Two [two]
 
 By this point in my lecture, however, I think one could make
 an objection. For I haven't yet given any grounds for
@@ -634,7 +634,10 @@ lost, or recollecting what we have forgotten. So in the time
 I have left, I want to sketch one way back
 to the idea of a liberal art. 
 
-## Part Three
+
+[Back to top][top]
+
+## Part Three [three]
 
 To take the first step back, I want you to imagine that we
 have shut every window at St. John's College, and drawn
@@ -672,22 +675,22 @@ Here is one answer, and to my mind the best answer: having
 no horizons means having the truth. And a liberal education,
 then, would promise you the truth. 
 
-If this promise sounds ridiculous, then good. For if my
-critique above was right, then we are better off saying
+If this promise sounds ridiculous, then good. For if what
+I have so far argued is right, then we are better off saying
 ridiculous things than obvious things in defense of liberal
 education. But this promise, you'll also have to admit, is
 one way, and perhaps the simplest way, to claim that
 a liberal education has content. And truth might be the only
 way to understand a content that frees us rather than binds
-us. The promise of truth should also sound attractive, at least if
-there is any chance to keep the promise. But perhaps you think no
-liberal arts college these days would dare to make the promise. Well,
-you would be wrong. At the time I write this sentence (which
-was yesterday), the college whose curriculum most resembles
-St. John's had the slogan "Truth Matters" emblazoned across
-[its home page](http://www.thomasaquinas.edu/). And this
-same college began
-[its own
+us. The promise of truth should also sound attractive, at
+least if there is any chance to keep the promise. But
+perhaps you think no liberal arts college these days would
+dare to make the promise. Well, you would be wrong. At the
+time I write this sentence (which was yesterday), the
+college whose curriculum most resembles St. John's had the
+slogan "Truth Matters" emblazoned across [its home
+page](http://www.thomasaquinas.edu/). And this same college
+began [its own
 defense](http://www.thomasaquinas.edu/a-liberating-education)
 of liberal education by claiming that "to learn is to
 discover and grow in the truth about reality. It is the
@@ -719,7 +722,7 @@ doubtfulness even at St. John's can be glimpsed in what
 I earlier quoted from a St. John's graduate, when she
 claimed that "We must have intellectual bravery, that is,
 the courage to push forward, to continue seeking truth even
-in the face of doubts about its very existence."[^Tyson]
+in the face of doubts about its very existence."
 I think Socrates's myth is meant to suggest, to the
 contrary, that all doubts about truth's existence are put to
 rest, as soon as we start to learn. 
@@ -735,7 +738,7 @@ encounter.
 
 The central question of this episode is: how long,
 exactly, is the side of an eight-foot
-square? Now, as you no doubt know, because the line
+square? (*Meno* 82e) Now, as you no doubt know, because the line
 in question is irrational, there is no answer to the
 question in terms of feet. But I prefer to put this
 a different way. There *is* an answer, but only insofar as
@@ -743,7 +746,7 @@ the answer is made into a matter of research, with
 a divide-and-conquer approach. And this is one way to
 describe the slave-boy's initial stab at the question, when
 he finds that the line in question is between 2 feet and
-3 feet in length, before giving up. But under one idea of
+3 feet in length, before giving up. (84a) But under one idea of
 intellectual courage, we could say, we should not give up.
 And we could forge ahead, on the slave-boy's behalf, in
 further research, by dividing the 3 foot line even more. And
@@ -768,7 +771,7 @@ But again, the slave-boy gives up on this approach at the
 very first number 2. And Socrates doesn't exhort him to keep
 at it, or show him how to divide the 3 foot line any
 further. Instead, Socrates says to the slave-boy:  if you
-don't want to count the line out, then just show it to me.
+don't want to count the line out, then just show it to me. (84a)
 ---It's as if Socrates had a different idea of intellectual
 courage, a different idea of learning, and a different idea
 of how the question should be approached, forming a different
@@ -796,7 +799,7 @@ So in perhaps his one outright act of teaching, giving
 birth, we might say, to the very idea of a liberal art,
 Socrates simply draws the line in question---erasing at once
 any remaining horizon of discovery, and showing we are
-already in possession of the truth. And what he does in
+already in possession of the truth. (85a) And what he does in
 drawing this line radically changes what it means for the
 slave-boy to learn. For this is no longer to discover any
 more about the line in question, but instead to recognize
@@ -878,8 +881,23 @@ same generosity possessed by the truth. The book, in that
 case, would be inescapably be full of content, in being
 inescapably full of truth. These are the books I think we
 read at the college, and believe in. And in being
-inescapably full of truth, they give to any conversation at
+full of truth, they give to any conversation at
 the college that brings them to life, a purpose, and
 a point, beyond that life, proving there is more, even to
 life, than life. Truth.  
 
+
+### Acknowledgment [ack]
+
+
+Much of the thinking in this lecture is indebted to Barbara McClay. So
+I wanted to thank her for that, and dedicate the lecture to her. For
+more on her own defense of liberal education, which is much better
+than the defenses I discuss here, see:
+
+["In Defense of Liberal Arts"](http://spectator.org/articles/60752/defense-liberal-arts)   
+["'What is Liberal Education For?': A Preview"](http://iasc-culture.org/THR/channels/THR/2014/10/what-is-liberal-education-for-a-preview/)    
+["We're All Pinmakers Now: Liberal Education in a Specialized Age"](http://bakingcathedrals.tumblr.com/post/99858912585/were-all-pinmakers-now-liberal-education-in-a)    
+["With Friends Like These"](http://iasc-culture.org/THR/channels/THR/2015/06/with-friends-like-these/)   
+
+[Back to top][top]
