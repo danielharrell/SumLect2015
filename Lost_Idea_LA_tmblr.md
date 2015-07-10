@@ -1,22 +1,21 @@
-Title: The Lost Idea of a Liberal art
-Author: Daniel Harrell
-Date: July 9, 2015
-Base Header Level: 3
+% The Lost Idea of a Liberal art
+% Daniel Harrell
+% July 8, 2015
 
 A lecture I gave on the Annapolis campus of St. John's
 College on July 8, 2015...
 
-### Contents [top]
+### Contents {#top}
 
-[Introduction] [intro]      
-[Part One] [one]  
-[Part Two] [two]  
-[Part Three] [three]  
-[Acknowledgment] [ack]    
+[Introduction](#intro)      
+[Part One](#one)  
+[Part Two](#two)  
+[Part Three](#three)  
+[Acknowledgment](#ack)    
 
 ***
 
-## Introduction [intro]
+## Introduction {#intro}
 
 The title of my lecture tonight, "The Lost Idea of a Liberal
 Art," is meant to express a worry I have about the future of
@@ -121,10 +120,10 @@ What if the idea of a liberal art is lost?
 
 [[MORE]]
 
-[Back to top][top]
+[Back to top](#top)
 
 
-## Part One [one]
+## Part One {#one}
 
 Now in one sense, I think, the threat to liberal education
 must always come from within. The fate of liberal education,
@@ -490,9 +489,9 @@ it. ---And this is perhaps the most visible way that a liberal
 education is now being made a matter of context rather than
 content. 
 
-[Back to top][top]
+[Back to top](#top)
 
-## Part Two [two]
+## Part Two {#two}
 
 By this point in my lecture, however, I think one could make
 an objection. For I haven't yet given any grounds for
@@ -635,9 +634,9 @@ I have left, I want to sketch one way back
 to the idea of a liberal art. 
 
 
-[Back to top][top]
+[Back to top](#top)
 
-## Part Three [three]
+## Part Three {#three}
 
 To take the first step back, I want you to imagine that we
 have shut every window at St. John's College, and drawn
@@ -791,7 +790,7 @@ the truth, but never possessing the truth.
 So what idea of approach does Socrates have in mind instead?
 We can see it coming-to-be in the very next thing he does
 with the slave-boy. For the slave-boy is truly stumped, and
-can't even show the line in question. For of course it not
+can't even show the line in question. For of course it is not
 in front of the slave-boy yet; and in his mind, we might
 say, it is not yet a matter of recognition, but still
 a matter of research, even though he's given the project up.
@@ -887,7 +886,7 @@ a point, beyond that life, proving there is more, even to
 life, than life. Truth.  
 
 
-### Acknowledgment [ack]
+### Acknowledgment {#ack}
 
 
 Much of the thinking in this lecture is indebted to Barbara McClay. So
@@ -900,4 +899,4 @@ than the defenses I discuss here, see:
 ["We're All Pinmakers Now: Liberal Education in a Specialized Age"](http://bakingcathedrals.tumblr.com/post/99858912585/were-all-pinmakers-now-liberal-education-in-a)    
 ["With Friends Like These"](http://iasc-culture.org/THR/channels/THR/2015/06/with-friends-like-these/)   
 
-[Back to top][top]
+[Back to top](#top)

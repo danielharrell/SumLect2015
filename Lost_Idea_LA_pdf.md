@@ -786,7 +786,7 @@ the truth, but never possessing the truth.
 So what idea of approach does Socrates have in mind instead?
 We can see it coming-to-be in the very next thing he does
 with the slave-boy. For the slave-boy is truly stumped, and
-can't even show the line in question. For of course it not
+can't even show the line in question. For of course it is not
 in front of the slave-boy yet; and in his mind, we might
 say, it is not yet a matter of recognition, but still
 a matter of research, even though he's given the project up.
